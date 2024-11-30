@@ -1,0 +1,219 @@
+###### [NYT piece on Oct 7th](https://archive.is/20240229131830/https://www.nytimes.com/2023/12/28/world/middleeast/oct-7-attacks-hamas-israel-sexual-violence.html#selection-1089.30-1089.54), 28th Dec 2023 
+###### [Intercept response to first article](https://archive.is/20240226020331/https://theintercept.com/2024/01/28/new-york-times-daily-podcast-camera/#selection-629.15-629.20), 28th Jan 2024
+- "Comments from a Raz Cohen (witness) [seeming to contradict](https://archive.is/JcAZO) a claim attributed to him in the article"
+	- Nothing in the linked video contradicts what was said in the article. The commentary from Ryan Grimm argues that the witness described the men he saw as 'not Hamas', but rather 'Gazan civilians'. In the NYT article, he explicitly describes "five men, wearing civilian clothes", just as he does in the linked [Jake Tapper interview](https://twitter.com/jaketapper/status/1743082031486018030)
+	- [Total brain-damage tweet](https://twitter.com/MaxBlumenthal/status/1745936108104393009) from Blumenthal, arguing that the witness statement is invalid because he 'chose not to look'. APPARENTLY IT'S IMPOSSIBLE TO SEE THE BEGINNING OF THE ACT, AND THEN CHOOSE NOT TO WATCH THE REST, RETARD 
+- [Raz Interview w/ PBS](https://www.pbs.org/newshour/show/survivors-of-hamas-assault-on-music-fest-describe-horrors-and-how-they-made-it-out-alive), Oct 10th 
+- "Public comments [from the family of a major subject of the article](https://archive.is/o/1XuFs/https://mondoweiss.net/2024/01/family-of-key-case-in-new-york-times-october-7-sexual-violence-report-renounces-story-says-reporters-manipulated-them/) denouncing it" (Links to a Mondoweiss article)
+	- Family of Gal Abdush complains about NYT coverage of her death 
+	- Gal's sister on Instagram: <span style="color:#ffc000">"No one can know what Gal went through there! ... No one can know if there was rape or if she was burned alive!"</span>
+	- Miral Altar (Gal's other sister): "There were many difficult stories, why this story in particular?... It is true that the scenes in the video are not easy, <span style="color:#ffc000">but it's clear that the dress is lifted upwards and not in its natural state,</span> and half her head is burned because they threw a grenade at the car... I don’t want to be understood as if I’m justifying what they did; <span style="color:#ffc000">they are animals, they raped and beheaded people</span>, <span style="color:#ffc000">but in my sister’s case, this is not true. </span>At 6:51, Gal sent us a message on WhatsApp saying ‘we are at the border, and you can’t imagine sounds of explosions around us.’ <span style="color:#ffc000">At 7 o’clock, my brother-in-law called his brother and said they shot Gal and she’s dying. It doesn’t make any sense that in four minutes, they raped her, slaughtered her, and burned her?”</span> 
+	- Miral's friend: “Based on what does Eden Wessely conclude that she was raped? Based on the video she took, there is no evidence, <span style="color:#ffc000">it’s not true that half of her body was burned,</span> only her face, and there is nothing but a dress pulled up.”
+		- The NYT article never claimed half of her body was burned, only her face: "Her face is burned beyond recognition and her right hand covers her eyes."
+	- <span style="color:#f894ff">QUESTION: Did the NYT ever conclude that Abdush was raped? It seems they have only quoted sources who believe that she was </span>
+		- "Israeli police officials said they believed that Ms. Abdush was raped"
+		- "They immediately suspected that the body was Ms. Abdush, and based on the way her body was found, they feared that she might have been raped."
+- Eden Wessely (car mechanic who found and filmed Abdush's body) 
+	- Eden [does state that Gal was raped](https://www.ynet.co.il/news/article/bko4dj0va), but NYT didn't repeat this claim 
+	- Mondoweiss states that [many of the comments from those close to Gal point to the role of Eden](https://archive.is/cLpqv), as her claims were more conclusive than those of NYT
+###### [Mondoweiss article](https://archive.is/cLpqv), Jan 3 2024 (cited by Intercept as: "public comments from the family of a major subject of the article denouncing it")
+- Link to an [interview](https://www.ynet.co.il/news/article/hyfwvej006) of Gal's mother who found out about the rape from NYT
+	- Nowhere in this interview does Gal's mother denounce the NYT investigation. The quote simply says: "According to the mother, she was exposed to the sexual assaults only during the investigation: <span style="color:#ffc000">"We didn't know about the rape at first, we only knew when the New York Times reporter contacted us. They said they cross-examined the evidence and said that Gal was sexually assaulted. Until now we don't know what exactly happened." </span>
+	- "<span style="color:#ffc000">It's important to me and the people of Israel that the world knows about the sexual assaults committed by these monsters, that they don't close their eyes and say they don't believe it really happened</span>"
+	- Article also has quotes from Gal's mother in-law and her brother; no denouncement of NYT; <span style="color:#f894ff">the spirit of the mother's statement is completely ripped out of context to set up for a story about the NYT blindsiding the victims' relatives </span>
+	- Article falsely states that the family "<span style="color:#ffc000">knew nothing about the sexual assault issue until the piece in the Times was published</span>" - the linked interview actually shows the mother saying "<span style="color:#f894ff">We didn't know about the rape at first, we only knew when the New York Times reporter contacted us</span>"
+- Link to an [interview](https://13tv-co-il.translate.goog/item/documentary/worth-a-story/usmj7-903873429/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true) from Nagi's (Gal's husband) brother, repeatedly 'denying that his sister-in-law was raped'
+	- Brother argues "we were not brought proof"
+	- States in the interview that "she wasn't raped", and that "the NYT was making things up with no counterpoints", "the allegations hurt the children"
+	- Article falsely states that NYT 'concluded' she was raped 
+- Gal's sister (screenshot in article), Tali arguing "no one can know if there was rape or if she was burned or alive"; no direct mention of NYT 
+- Conclusion of article: "<span style="color:#ffc000">Israeli authorities and the Israeli police are weaponizing her case and using the death of Gal Abdush as propaganda material to garner support for and justify the genocide against the Palestinians in Gaza.</span>"
+- <span style="color:#f894ff">Conclusion</span><span style="color:#f894ff">: Unbelievably biased article which completely mischaracterises the statements and complaints of several of Gal's family members. Her relatives had complaints and issues but they were varied and in most cases, were not directed at claims made by the Times, who - after all - never concluded that Gal had been raped.</span> 
+###### [NYT article on the UN report](https://www.nytimes.com/2024/03/04/world/middleeast/israel-hamas-un-report-sexual-violence.html), 4th March 2024
+ - UN report could not verify the reports of sexual violence in Kibbutz Afar Aza or Kibbutz Be'eri (but in both places, had circumstantial information)
+ - "The Times in its report, did not refer to the specific allegations that the UN said were unfounded"
+	 - The Times report referred to two teenage girls who were found alone in a room, separated from their family 
+###### [UN Report on sexual violence](https://news.un.org/en/sites/news.un.org.en/files/atoms/files/Mission_report_of_SRSG_SVC_to_Israel-oW[[]]B_29Jan_14_feb_2024.pdf) in the conflict, 29th Jan - 14th Feb
+- Executive summary
+	- 3. Mission team reviewed over 5,000 photos, 50 hours of footage, 34 interviewees including Oct 7th survivors and witnesses, released hostages, first responders, health and service providers and others 
+	- 7. Difficulties around limited testimony, limited forensic evidence, dispersed crime scenes in a context of persistent hostilities, loss of evidence due to poorly trained first responders, prioritisation of rescue operations, religious burial practices, significant number of bodies burnt 
+	- 10. Inaccurate and unreliable forensic interpretations by some non-professionals; process of linking individuals with specific photos and videos is still ongoing 
+	- 12. <span style="color:#ffc000">Reasonable grounds to believe that conflict-related sexual violence occurred in at least three locations </span> 
+- Unfounded claims from Kibbutz Be'eri (<span style="color:#f894ff">neither claim made by NYT</span>)
+	- Pregnant woman stabbing 
+	- Allegations of objects inserted into female genital organs (unverified due to limited and low-quality imagery)
+- Unverified claim from Nahal Oz 
+	- Reports of SA including rape and genital mutilation
+	- Forensic analysis reviewed injuries to intimate body parts, but could find no discernible pattern 
+- Hostages
+	- "<span style="color:#ffc000"><span style="color:#92d050">Clear and convincing information</span> that some have been subjected to various forms of conflict-related sexual viloence including rape and sexualised torture and sexualised cruel, inhuman and degrading treatment</span>"
+- Palestinian detainees
+	- Concerns about "<span style="color:#ffc000">increased use of... invasive body searches; threats of rape; and prolonged forced nudity</span>"
+- Standard of evidence
+	- <span style="color:#f894ff">Mission NOT intended to establish the prevalence of conflict-related sexual violence during and after Oct 7th (comprehensive investigation required by competent bodies)</span>
+	- "<span style="color:#ffc000">The mission was not intended to be... an investigation by relevant UN entities mandated for that purpose, nor is it a replacement for criminal investigations and proceedings subject to due process of law</span>"
+	- "<span style="color:#92d050">Reasonable grounds to believe</span>", consistent with the practice of UN investigative bodies 
+		- 27. Some occasions where more information has been found and the finding elevated to <span style="color:#92d050">"clear and convincing" </span>(below <span style="color:#92d050">"beyond a reasonable doubt"</span>)
+		- "circumstantial" meaning it does not prove the fact but gives rise to a logical inference that the fact exists 
+- Methodology
+	- Interrogations not used (due to time restrictions)
+	- Material provided appeared authentic and unmanipulated (could not always be independently verified) 
+	- Mission only used items found to be reliable and related to Oct 7th 
+	- 27 Representatives from civil society (hostages and missing families forum, NGOs, academics, activists for women's rights, sexual violence and international criminal law)
+	- Similar methods used for assaults in West Bank 
+- List of limitations
+	- Active combat across dispersed crime scenes for several days 
+	- Booby-trapping of corpses
+	- High number of bodies with destructive burn damage 
+	- Prioritisation of rescue operations and recovery
+	- Burial over forensics (partly due to religion but also concerns over abduction of corpses)
+	- Some untrained volunteer first responders 
+	- Erroneous interpretations of evidence
+		- Grazing gunshot wounds to genitalia confused for knife wounds
+		- Anal dilation due to post-mortem changes mischaracterised as anal penetration 
+	- Direct survivors currently unwilling to do interviews (trauma and religiosity)
+	- Lack of access to displaced people, including first responders and military forces who are currently on deployment
+	- UN team recognises well-founded fears about the risk of people revealing their stories 
+- Nova Festival and surrounding areas 
+	- <span style="color:#92d050">Reasonable grounds to believe</span> that multiple incidents of rape and gang rape occurred 
+	- Credible information regarding multiple incidents where victims were raped them killed
+	- Accounts of individuals who witnessed at least two instances of rape of corpses
+	- Other credible sources described multiple murdered women, naked from the waist down, some totally naked, some shot in the head and others tied to trees or poles 
+- Road 232
+	- <span style="color:#92d050">Reasonable grounds to believe</span> sexual violence occurred on the road
+	- Credible information based on corroborating witness accounts describing the rape of two women 
+	- Other reports of gang rape which would require further investigation 
+	- Multiple bodies of women and a few men found totally or partially naked / with clothes torn and some bound / attached to structures 
+- Kibbutz Re'im 
+	- Festival goers attempted to flee here, 2km from Nova site
+	- <span style="color:#92d050">Reasonable grounds to believe</span> sexual violence occurred 
+	- Rape of a woman outside of a bomb shelter at the entrance (corroborated by witness testimonies and digital material) 
+	- 2 women found inside a home, on the floor and naked
+	- Witness testimony gathered is consistent with possible sexual violence (could not be verified in the time provided)
+- Kibbutz Be'eri 
+	- Some witnesses felt no longer confident in recollections of assertions that appeared in the media 
+	- Two allegations determined to be unfounded
+		- Pregnant woman stabbing
+		- Interpretation of a girl found separated from her family, naked from the waist down (she had been separated by a bomb squad)
+		- Allegations of objects found inserted in female genital organs could not be verified 
+	- Credible information about bodies found naked and/or tied (in one case, gagged) 
+	- Verification not possible but circumstantial evidence (pattern of female victims found undressed and bound) may indicate sexual violence 
+- Kibbutz Kfar Aza 
+	- 50/700 residents killed
+	- IDF deployed 12 hours later
+	- Fighting only ended on October 10th, complicating the recovery of bodies 
+	- First responders reported seeing women naked, bound and shot in the head
+	- "<span style="color:#ffc000">While verification of sexual violence against these victims was not possible at this point, available circumstantial information – notably the recurring pattern of female victims found undressed, 18 bound, and shot – indicates that sexual violence, including potential sexualized torture, or cruel, inhuman and degrading treatment, may have occurred.</span>"
+- Nahal Oz Military Base
+	- 7 women abducted
+	- 29 photos indicating no discernible pattern of targeted injuries to intimate body parts
+- Hostages
+	- Based on first-hand accounts of release hostages there are "reasonable grounds to believe" that female hostages were also subjected to other forms of sexual violence
+	- "<span style="color:#92d050">Clear and convincing information</span>" that sexual violence, including rape, sexualised torture occurred against some women and children during their time in captivity 
+- Other findings not from specific locations
+	- At least 100 bodies burned, making it impossible to determine if sexual violence occurred 
+	- Medicolegal assessment of photos and videos: "no tangible indications of rape could be identified"
+	- <span style="color:#f894ff">CAVEAT: Rape often does not result in visible injuries</span>
+	- <span style="color:#ffc000"> "Circumstantial indicators, like the position of the corpse and state of clothing should also be considered... in addition to witness and survivor testimony"</span> 
+	- <span style="color:#f894ff">Medicolegal assessment from photos and videos</span>: A few corpses with conspicuously spread legs observed (cannot be explained by post-mortem pugilistic posturing); 20 corpses with partially or fully exposed intimate body parts due to tearing of clothing
+	- "Widespread mutilation of bodies, involving both attempted and actual decapitation"
+- West Bank
+	- Stakeholders in West Bank: Dramatic deterioration of the human rights situation following Oct 7th
+	- 9,000 Palestinians in Israeli custody (3,484 / 39% held without trial)
+	- Reported increase in invasive searches, touching of intimate areas, beatings in genital areas, threats of rape, threats of rape against family members (in the case of men), inappropriate strip search and prolonged forced nudity of detainees, including during interrogation 
+	- Taking and circulating of pictures of women detainees on soldiers' & investigators' personal phones; deprivation of menstrual products 
+	- No instances of rape reported - though this might be due to conservative cultural norms and stigma 
+	- No complaints of sexual violence by the IDF, <span style="color:#f894ff">HOWEVER, since 2001, out of 1,400 complaints filed with the Ministry of Justice (including sexual violence and harassment) only 3 investigations have been opened, with no indictments</span>
+- Conclusions 
+	- <span style="color:#92d050">Reasonable grounds to believe</span> conflict-related sexual violence occurred at several locations across the Gaza periphery (including rape and gang rape)
+	- <span style="color:#92d050">Clear and convincing</span> information that hostages were subjected to various forms of conflict-related sexual violence 
+###### [Intercept article: "Between The Hammer And The Anvil"](https://archive.is/20240304221853/https://theintercept.com/2024/02/28/new-york-times-anat-schwartz-october-7/#selection-613.13-617.65), 28th Feb 2024
+- Apparently there's a meaningful difference between saying "Hamas had weaponised sexual violence" and "there may have been systematic use of sexual assault?" ("a softer claim")
+- Use of another [Zei Squirrel tweet](https://archive.is/ihsZ1) claiming Scwhartz liked a post repeating the "40 beheaded babies hoax". Nothing in the tweet or the [3 minute video](https://twitter.com/Israel/status/1711730914471092404?lang=en) says anything about 40 beheaded babies. 
+- 'The central issue is whether the New York Times presented solid evidence ... '<span style="color:#ffc000">“establishing that the attacks against women were not isolated events but part of a broader pattern of gender-based violence on Oct. 7"</span>'
+	- The UN report does indicate this pattern by pointing to at least 5 locations (6 including the hostages) where women were found at the very least stripped (partially or fully) and bound. This, alone, would count as gender based violence
+- Israeli morgue worker who mentioned broken pelvises and other evidence of rape also caught out repeating false story about a pregnant woman killed with her foetus
+- Raz Cohen
+	- Cohen apparently undermines NYT headline because he states the men were civilians, not Hamas (how does he know that?)
+	- Cohen "asked why he had not mentioned rape at first" 
+		- <span style="color:#92d050">He mentions rape on Oct 10th?!</span> ([PBS interview](https://www.pbs.org/newshour/show/survivors-of-hamas-assault-on-music-fest-describe-horrors-and-how-they-made-it-out-alive): 1:40)
+	- <span style="color:#ffc000">"Numerous inconsistencies... including the account of Cohen, who had initially said “he chose not to look, but he could hear them laughing constantly."</span>
+		- Absolutely insane point. Of course you can see something and then choose not to look in the middle of the event. This does not invalidate the witness in any way. 
+- Raz Cohen's friend, Shoam Gueta
+	- Initially told NBC that he saw a woman being murdered with a knife (Oct 8th)
+	- Later told NYT: <span style="color:#ffc000">“He said he saw at least four men step out of the van and attack the woman, who ended up ‘between their legs.’ He said that they were ‘talking, giggling and shouting,’ and that one of them stabbed her with a knife repeatedly, ‘literally butchering her.’” </span>
+- Family members believe the timing of Abdush's final text messages make it implausible that she was raped 
+	- Family was texted at 6:51 am, at 7:00, the husband said she'd been killed 
+	- <span style="color:#f894ff">A traumatised family member who wasn't there, questioning whether or not a rape can occur within 9 minutes. This is counted as evidence? </span>
+	- Brother-in-law said "the media invented it" - based on what? he was not a witness. 
+	- Complaint from Abdush's sister that they were interviewed under false pretences 
+	- STILL no mention of [Gal's mother](https://www.ynet.co.il/news/article/hyfwvej006) who said she was told about the rape when NYT contacted them and that she believes it happened 
+	- <span style="color:#92d050">It appears Grimm et al, are selectively quoting Gal's family members so long as they suit their narrative</span>
+- Claim that NYT pressured Eden (who filmed Abdush's body) into giving her footage for the "purposes of serving Israeli propaganda"
+	- This is not an honest characterisation of Eden's retelling. [In her interview](https://www.ynet.co.il/laisha/article/h1gzxtbtp), she says: <span style="color:#ffc000">"At the beginning, I waved it off and didn't realise how important it is, but they didn't give up. They kept calling and calling and told me how important it is for Israeli advocacy. They put a lot of effort, they wanted to know each and every detail, and through them I understood it will be a visual testimony to the sexual violence done on Oct 7th, that's why they put so much importance on the story. Once I knew their intention, I decided to help them, so the whole world will know. I talked to them dozens of times, recordings, videos. Two journalists I talked to, Adam Sella and Anat Schwartz really wanted the minute details. They wanted to verify everything."</span>
+	- <span style="color:#92d050">Grim apparently believes the word 'Hasbara' only has one meaning</span> (incidentally, the most damning). In the context of this interview, <span style="color:#92d050">Eden was simply told that her evidence would help Israeli advocacy by showing the world what had happened. Understanding this, Eden seemed happy to help and not once indicates that she felt 'pressured.'</span>
+	- In her interview, Eden says the police also demanded her footage and testimony and that she <span style="color:#ffc000">"gladly helped... because I documented the horrors in 'Nova' when shots were still heard in the area and there was a ban on entry."</span>
+- When referring to the question of sexual assault survivors, the Intercept claims "no details were provided". This is not true - in the initial article they explain that the survivors were in care and in no position to speak with the press. 
+###### [Intercept article on Kibbutz Be'eri](https://archive.is/20240305185821/https://theintercept.com/2024/03/04/nyt-october-7-sexual-violence-kibbutz-beeri/), 4th Mar 2024
+- [Paramedic interview](https://www.youtube.com/watch?v=8SiBXuEYkaM) on two teenage girls found separated from their families 
+	- NYT also sites neighbours of the two girls who also said "their bodies had been found alone, separated from the rest of their family"
+	- [Mondoweiss](https://archive.is/rFiyI#selection-659.234-659.276) is skeptical because the paramedic originally says he found the girls in Nahal Oz; also that, [according to Ynet](https://www.ynet.co.il/news/article/s17wbwpg6), Noya's body wasn't found until days later (they don't say where she was found)
+	- [Times Of Israel](https://www.timesofisrael.com/lianne-noiya-yahel-sharabi-48-16-13-our-3-beautiful-girls/): "Family said that the bodies of the three women... were found in an embrace"
+	- Mondoweiss: "the body of one of them was found with her dead mother at home, while the other sister and her father went missing for a few days" - not exactly the best wording: it appears that N- (16) was killed in the same place but not identified until later 
+- Intercept mentions that UN found two high-profile cases in Kibbutz Be'eri to be unfounded; why don't they mention this line from the UN: "<span style="color:#ffc000">circumstantial evidence – notably the pattern of female victims found undressed and bound – may be indicative of some forms of sexual violence.</span>"
+- [Zei Squirrel investigation](https://archive.is/YCwpC): Give me a fucking break. Tweet-policing on Oct 7th is one thing but going after a LIKED TWEET on a day when emotions are especially high is ridiculous. 
+###### [Ha'aretz article on Zaka](https://archive.is/20240209154317/https://www.haaretz.com/israel-news/2024-01-31/ty-article-magazine/.premium/death-and-donations-did-the-volunteer-group-handling-the-october-7-dead-exploit-its-role/0000018d-5a73-d997-adff-df7bdb670000#selection-1195.5-1195.227), 31st Jan 2024
+- Acknowledgement that Zaka volunteers 'did important work by collecting victims' bodies under challenging conditions. However, there was a noticeable difference between professionalism of soldiers and Zaka volunteers 
+- "We received bags of theirs without documentation, and sometimes with body parts that were unrelated to one another" 
+- Zaka giving private tours of closed off areas to donors in Southern Israel 
+- Responsible for cleaning 500 structures 
+- Zaka volunteers seen wrapping bodies in already wrapped IDF bags, showing their own logos on the outside 
+- <span style="color:#92d050"><span style="color:#00b0f0">Pregnant woman story</span></span> 
+	- Zaka volunteer posted pregnant woman story on a Zaka social media account
+	- Zaka senior official said the organisation knows this didn't happen 
+- <span style="color:#00b0f0">20 burnt children behind Kfar Azza dining hall story</span>
+	- Same volunteer describes incident in a video 
+	- Only 2 children killed in Kfar Azza 
+	- 10 killed in Be'eri but at least some were with a parent and killed in their homes 
+	- Volunteer later changed story to Be'eri 
+- 2022 Haaretz story reported that Zaka had inflated their numbers of volunteers for years to attract more fund
+###### [Ha'aretz article praising Zaka](https://archive.is/dhJhL#selection-1279.371-1279.406), 23rd Oct 2023
+- Knesset member Orit Farkash initiated a testimony-collection project to obtain testimony from Zaka volunteers
+	- 20 members gave testimony 3 days after the massacre 
+	- Another 180 scheduled to give testimony to Israeli Police 
+- Israel not co-operating with the ICC, who would have to investigate Hamas attacks as part of their investigation against Israel (war crimes in WB, EJ and Gaza)
+	- Parties providing evidence to the prosecutor without direction from the state 
+###### [Anat Kamm slamming Zaka](https://www.haaretz.com/opinion/2024-02-06/ty-article/.premium/zaka-may-have-cost-israel-its-case-against-hamas-at-the-world-could/0000018d-7a17-d9fb-a9fd-fe9f16e90000), Feb 6th 2024
+
+[Hasan](https://www.reddit.com/r/Destiny/comments/1crjw6a/who_would_do_such_a_thing/) says survivor testimony is not enough for an indictment 
+
+
+- Demand for obscenely high evidence from one side, and uncritical belief from the other 
+	- e.g. deir yassin oven story 
+- Examples of demand for evidence
+	- video footage
+	- forensics
+	- survivor statements (interesting, because Hasan would later go on to say that isn't enough for an indictment) 
+- Raz Cohen
+	- Claim that he didn't talk about SA in the first interview (he did?) 
+	- Absurd argument about him closing his eyes (Blumenthal) 
+	- Civilian clothes 
+		- Doesn't stop them being Hamas (Ryan Grim's special forces argument)
+		- Hamas would still bear responsibility for leading and organise the attack in any case
+- Zei Squirrel tweets
+	- Only one which has any actual implications (taken seriously by NYT anyway)
+	- 40 beheaded babies - referencing a tweet and video that doesn't say 40 beheaded babies 
+- Family of Gal Abdush
+	- No mention of her mother's statement 
+	- False accusation of coercion by NYT (very poor reading of translated Hebrew article) 
+	- Family members simply saying "there's no way this happened to my loved one" despite not even being there are not witnesses 
+		- 9 minute window bullshit 
+	- False accusation of NYT claiming to use the story for 'Hasbara' - incredibly ignorant conclusion based on poor understanding of Hebrew-English translation 
+- Attempt to discredit article for "using" ZAKA
+	- Article doesn't push specific claims from ZAKA; even points out how they destroyed evidence 
+- G person from one of the Kibbutz
+	- Seems like this was corrected as it clashed with testimony from other locals 
+- Constant retreat to the 'systemic' argument whilst trying to cast doubt on every individual case 
+	- UN report clearly shows evidence of systematic pattern of sexual violence (5 locations, attacked by separate units, with multiple people - mostly women - found partially or fully stripped)
+	- This alone would constitute sexual violence, as the UN report argues in the case of Palestinian prisoners subjected to 'prolonged forced nudity' 
+	- 'Systemic' does not have to equal 'direct orders from the top down' 

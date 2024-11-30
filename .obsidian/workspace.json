@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "f8fec67f3f1b4834",
+    "type": "split",
+    "children": [
+      {
+        "id": "632fd21e61ce8bea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6653fb4172059a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People’s Beliefs/Social Incentives Dictate Beliefs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Social Incentives Dictate Beliefs"
+            }
+          },
+          {
+            "id": "811396d1c37820a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 UK Riots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024 UK Riots"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "884bdb69d1830527",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffc91ca429702457",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "059088bc41505726",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aeae1357599feb34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eaa12a5a9394653a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "561e9c075f5f69b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "990137632cb5ab2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26cfa1d15cc0ce84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Combatting Misinformation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Combatting Misinformation"
+            }
+          },
+          {
+            "id": "490ae3ad1a712182",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Combatting Misinformation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Combatting Misinformation"
+            }
+          },
+          {
+            "id": "c7fbbe74f25ef8a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "de98b626743ed7bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Combatting Misinformation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Combatting Misinformation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aeae1357599feb34",
+  "lastOpenFiles": [
+    "New Stuff November.md",
+    "Research/Subjects/Molotov Ribbentrop.md",
+    "2024 UK Riots.md",
+    "American(Global) Media.md",
+    "People’s Beliefs/Combatting Misinformation.md",
+    "Positions/Trans stuff/Olympic Trans Scandal.md",
+    "Positions/Trans stuff/Olympic Women's Boxing Scandal.md",
+    "Positions/Trans stuff/Cass Report.md",
+    "Positions/Trans stuff",
+    "Israel  Palestine/21.09.2024 Hezbollah x Israel.md",
+    "Israel  Palestine/1948 papers.md",
+    "Israel  Palestine/Cast Lead police killings.md",
+    "Israel  Palestine/Goldstone report.md",
+    "Israel  Palestine/Sinwar (Rip lol).md",
+    "Israel  Palestine/The Aesthetics of Academic Credibility with Javad Hashmi.md",
+    "Israel  Palestine/THE COOKIE FILES.md",
+    "Israel  Palestine/Great March of Return.md",
+    "Israel  Palestine/WCK aid worker strike story.md",
+    "Israel  Palestine/NYT vs The Intercept.md",
+    "Israel  Palestine/Lebanese Civil War (1975-1990).md",
+    "Israel  Palestine/Sde Teiman sexual abuse.md",
+    "British Election.md",
+    "2nd attempted Trump assassination.md",
+    "Comparing Trump & Biden on Israel & Palestine.md",
+    "For editor.md",
+    "Trump & Biden on Israel & Palestine.md",
+    "Untitled.md",
+    "UK Politics",
+    "Israel  Palestine",
+    "publish.css",
+    "Untitled",
+    "Research/Legal/United States/US Supreme Court/Trump v. Anderson (23-719)/Loper Bright Enterprises et al. v. Raimondo, Secretary of Commerce, et all/June 28th, 2024 Decision.pdf",
+    "Research/Library/Documents/balietti-et-al-2021-reducing-opinion-polarization-effects-of-exposure-to-similar-people-with-differing-political-views.pdf",
+    "Research/Library/Images/Flags/Naval_Ensign_of_the_United_Kingdom.svg.webp",
+    "Research/Library/Images/Flags/Flag_of_the_United_Kingdom.svg.webp",
+    "Research/Library/Images/Flags/Flag_of_the_British_Army.svg.webp",
+    "Research/Library/Images/Flags/Flag_of_Israel.svg.webp",
+    "Research/Library/Images/war.png",
+    "Research/Library/Images/Pasted image 20240318184233.png",
+    "Research/Library/Images/Pasted image 20240113191523.png",
+    "Research/Library/Images/Fuentes Deplatforming.jpg",
+    "Research/Subjects/Immigration Information/Images/Pasted image 20240420201229.png",
+    "Research/Subjects/International Law/United Nations Reports/SRSG-SVC/2024.03.04 - Official visit of the Office of the SRSG-SVC to Israel and the occupied West Bank 29 January – 14 February 2024.pdf",
+    "Research/Subjects/International Law/Papers/SSRN-id1596214.pdf",
+    "Research/Subjects/International Law/Papers/shlaim_-_oslo.pdf"
+  ]
+}

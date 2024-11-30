@@ -1,0 +1,542 @@
+## [Full Text](https://cass.independent-review.uk/wp-content/uploads/2024/04/CassReview_Final.pdf)
+#### Bold Claims
+- Little known about medium and long term outcomes for children receiving NHS support/treatment (p. 47)
+- "<span style="color:#ffc000">No clear evidence that social transition in childhood has any positive or negative mental health outcomes, and relatively weak evidence for any effect in adolescence.</span>" (p.31) 
+- "Broad agreement" that gender incongruence comes from a combination of biological, psychological, social and cultural factors (p. 26)
+- "<span style="color:#ffc000">Lack of evidence on the long-term impact of taking hormones from an early age</span>" (p. 14) 
+- "<span style="color:#ffc000">No evidence that puberty blockers buy time to think, and some concern that they may change the trajectory of psychosexual and gender identity development</span>" (p. 32) 
+- Percentage of detransitioners "<span style="color:#ffc000">unknown... although there is suggestion that numbers are increasing</span>" (p.33) 
+- Strengths and weaknesses of evidence regarding care for children and young people are often overstated both by scientific publications and in social debate (p. 64)
+- "<span style="color:#ffc000">the exponential increase in numbers within a 5-year timeframe is very much faster than would be expected for the normal evolution of acceptance of a minority group.</span>"
+#### Methodology 
+- Types of treatment studies 
+	- Randomised controlled trial (RCT)
+		- "Gold standard"
+		- Two groups; one with new treatment and a control group with standard or alternative treatment (or none) 
+		- Patients randomly allocated to the two groups - important to make sure there are no important differences between them 
+		- "Blinding" used usually for patients, but also sometimes for doctors so their treatment of patients does not differ 
+		- Can't really "blind" for a puberty blocker trial 
+	- Cohort / cross-sectional studies
+		- "Observational studies" as opposed to RCTs which are "experimental"
+		- Researcher does not allocate which patients receive an intervention 
+		- There can be comparisons, but participants are not randomly allocated
+	- Pre-post study
+		- Most common for blockers 
+		- Participants are assessed before and after they receive intervention 
+		- Harder to draw strong conclusions because one cannot rule out changes that would have occurred anyway 
+- Potential pitfalls of treatment trials 
+	- High attrition rates (50% dropping out) can result in positive bias for study outcomes 
+	- People who remained might have done so because of positive treatment effects, whilst those who left might have done so due to negative effects 
+	- If patients cannot be blinded, they are more susceptible to placebo effects
+- Systemic review
+	- Summary of literature on a question that uses explicitly defined and reproducible methods to search, appraise and synthesise primary research information 
+	- Standardised quality assessment tools / questionnaires allowing different people appraising a paper to come to similar conclusions 
+	- Top of the [pyramid](https://openmd.com/guide/levels-of-evidence) of standards of evidence (followed by RCTS, Cohort Studies, Case-controlled studies, Case series and reports, Background information and expert opinion)
+	- ![[steps 3.jpg]]
+- Levels of certainty about results (used by NICE, WHO)
+	- High - A lot of confidence that the true effect is similar to the estimated effect
+	- Moderate - True effect is probably close to the estimated
+	- Low - True effect might be markedly different from the estimated effect
+	- Very low - True effect probably markedly different from the estimated effect
+#### Context
+- The Dutch protocol 
+	- 1998 study recognising poor mental health outcomes for adult transgender population, attributed to minority stress and difficulty "passing" 
+	- 1998 case study on ftm transition involving puberty blockers at age 13
+		- Supporting idea of buying time to think 
+		- Supported effects of improving long-term ability to pass 
+	- 2006 article including 54 patients and 2011 study with 70 patients 
+		- Patients had to be min. age 12 
+		- Had to have suffered from life-long dysphoria which increased around puberty 
+		- Had to be psychologically stable without serious comorbidities 
+		- Had to have family support 
+		- Also discussed challenge in adolescents with autism (dysphoria as an evolution of simply feeling different?)
+		- Selected from 111 patients as they were the first ones ready for treatment 
+		- 89% same sex attracted to birth registered sex, most of the rest were bisexual (only one was heterosexual)
+		- <span style="color:#92d050">No change in body dysphoria, but behavioural and emotional problems decreased and general functioning improved </span>
+		- BUT not all participants completed questionnaires (59-73% on different measures), potential source of bias 
+		- Hard to separate effects of blockers from regular therapy sessions 
+- Affirmative model 
+	- Advocated by Diane Ehrensaft (2017)
+	- Model suggests that a child of any age may be cognizant of their authentic identity and will benefit from social transition at any age of development 
+	- Now dominant in many countries, pulling some gender services away from exploratory approaches, which are now often seen as 'gatekeeping' 
+	- Some argue that affirmative model still allows for exploration 
+- Puberty blockers in the UK 
+	- Similar to the Dutch protocol (same issues of confounding endocrine and psychological intervention) 
+	- 2011-2014 study
+		- 44 patients aged 12-15; followed up for at least 2 years 
+		- Preliminary findings did not demonstrate improvement in psychological wellbeing (some AFAB patients had worsening 'internalising' problems e.g. depression, anxiety - based on parental report) 
+		- Significant increase of AFAB patients scoring 'sometimes true' to the statement "I deliberately try to hurt or kill myself" 
+		- No statistically significant changes reported in gender dysphoria or mental health outcome measures whilst on blockers 
+		- 98% proceeded to HRT 
+		- Patients from UK and Dutch studies both at the same baseline on mental health outcome measures 
+		- ![[Pasted image 20240417212359.png]]
+- Routine practice
+	- Exponential growth in referrals from 2014 (mostly AFAB) 
+	- Puberty blockers moved from research-only to availability through routine clinical practice 
+	- Strict inclusion criteria no longer followed 
+		- Included patients with no history of incongruence prior to puberty 
+		- Also included patients with neurodiversity and complex mental health presentations 
+	- NHS allowed treatment for those at least in Tanner Stage 2 of puberty and up to the age of 15  
+#### Understanding the patient cohort
+- Definitions
+	- <span style="color:#f894ff">Gender incongruence</span>: "A marked and persistent incongruence between an individual's experienced gender and the assigned sex (ICD-11)"
+	- <span style="color:#f894ff">Gender dysphoria</span>: "Clinically significant distress or impairment of function (DSM-5)"
+- Increased referrals
+	- Post 2014: exponential rise in referrals to GIDS, majority AFAB in early teen years 
+		- Discharge stats (2018-2022): youngest patient 3 years old; oldest 18; mean and median 14
+		- 73% AFAB, 27% AMAB 
+	- 100-fold increase in recorded gender dysphoria among ages 18 and under (2009-2021)
+		- Gradual increase from 2009-2014
+		- Acceleration from 2015 onwards 
+	- UK inflection point in 2014; Dutch in 2011
+	- For 0-19 year olds, rate of referral seems to increase at similar rates
+- Mental health needs
+	- Rates of depression, anxiety and eating disorders all higher in the gender clinic referred population 
+	- Finland - more than 75% of referred adolescents needed special psychiatric support for problems other than gender dysphoria 
+	- Higher rates of comorbidity among recent cohorts (2016-2019) compared to earlier (1996-2000)
+	- "<span style="color:#ffc000">It is very important that gender-questioning young people are able to access these evidence-based treatments alongside any other clinically appropriate interventions to support their gender care.</span>"
+- Neurodiversity 
+	- Suggestion that trans and gender-diverse individuals are 3-6 times more likely to be autistic than cisgender people (controlling for age and educational attainment) 
+	- Difficulties with <span style="color:#f894ff">interoception</span> (making sense of what is going on in their bodies) and <span style="color:#f894ff">alexithymia</span> (recognising and expressing emotions) make it hard for young autistic people to express their feelings e.g. about their gender and sexual identities 
+- Adverse childhood experiences (ACE)
+	- Few studies reported on adverse childhood experiences (ACEs), but those that did found high rates amongst referred children
+	- 11-67% combined neglect/abuse, physical abuse (15-20%), sexual abuse (5-19%), emotional abuse (14%), maternal mental illness/substance abuse (53/49%), paternal mental illness/substance abuse (38%), exposure to domestic violence (23-25%)
+- Suicidality 
+	- Rates ranged from 27-55% across clinics in Canada, UK, Netherlands (higher than general pop. but similar to non-trans children referred to mental health services) 
+	- For youth suicides in the UK (2019-2020), sexual orientation / gender identity accounted for 9% of 91 deaths (8 total) 
+	- Finland study (2024) - higher suicide rate for gender-referred youth, but difference levelled out when specialist-level mental health treatment was available 
+- Developmental considerations 
+	- Three important ways sex differences are expressed (Babu & Shah, 2021) 
+		- <span style="color:#f894ff">Gender role behaviours </span>(preferences, behaviours, play etc)
+		- <span style="color:#f894ff">Gender identity </span>(innate sense of belonging and self-ID of one's gender as male, female or other)
+		- <span style="color:#f894ff">Sexual orientation</span> 
+	- Thought that all three can be influenced by biological and social factors 
+		- Sex-typed play more studied than any other behaviour in relation to testosterone exposure (at least 10 independent research groups found links between play and prenatal testosterone exposure)
+			- Research based on intersex children 
+	- 1966 Kohlberg theory 
+		- Gender identity acquired around 2-3 years old
+		- Gender stability (realising gender does not change) acquired at 3-4 years old 
+		- Gender constancy (realising that superficial indicators do not change gender) acquired at 5-6 years 
+	- Congenital adrenal hyperplasia (CAH)
+		- XX chromosomes
+		- High testosterone levels caused by changes in genes (starting antenatally)
+		- Partially masculinised genitalia 
+		- Usually reared as females (due to ovaries) but are more likely than other females to have male role behaviours (male-type play and toy choice)
+		- Only 2-5% will have dysphoria leading to treatment, but some will have a weaker gender identity 
+		- "<span style="color:#ffc000">Therefore, it appears that in CAH, while prenatal testosterone exposure has a strong impact on gender role behaviour, gender identity predominantly aligns with sex of rearing.</span>"
+		- HOWEVER, [research](https://journals.sagepub.com/doi/pdf/10.1177/2470289718803639) on CAH also showed those with fully masculinised genitalia would "<span style="color:#ffc000">retain a sense of themselves as males</span>", in spite of the presence of ovaries 
+	- Complete Androgen Insensitivity Syndrome (CAIS)
+		- Functioning testes, but cells are unable to respond to testosterone 
+		- XY, but will show female-typical play patterns 
+	- XY males with normal testosterone levels but a very deformed or absent penis
+		- If raised as girls, the majority of them will continue to identify as female, despite normal male hormone levels 
+		- For people with less predictable DSD conditions, sex of rearing will be a stronger predictor of gender identity 
+- Changes from adolescence into adulthood
+	- Changes in the brain
+		- Limbic area (present-orientated) changes in puberty 
+			- Drives emotional volatility, pleasure and novelty seeking, makes adolescents more sensitive to social rejection, vulnerable to addiction and a range of mental health issues 
+		- Prefrontal cortex (future-orientated) matures later, into one's 20s
+			- Executive function, complex decision making, rational judgement, inhibition of impulsivity, planning and prioritisation 
+- Manifestation of broader mental health challenges
+	- Complex association between mental health issues and gender identity issues (bidirectional) - in some cases, preceding mental health issues may result in uncertainty about gender identity; in others, gender distress may be the primary concern and may be the cause of subsequent mental ill health 
+	- "<span style="color:#ffc000">Diagnosis and treatment of mental ill health in a young person with gender incongruence/dysphoria should not be a barrier to their gender issues being considered and evaluated in parallel</span>"
+#### Growing up in the 2000s
+- Group with highest rates of identifying as trans is AFAB aged 16-24 (1.16%) - only group where AFAB identified as trans more than AMAB 
+- Study on social media use
+	- Girls use social media more often (43% 3 hours+ a day vs 22%)
+	- Girls more likely to have low self esteem, body weight dissatisfaction and to be unhappy with their appearance
+	- Girls more likely to be involved in online harassment as a victim or perpetrator 
+	- Social media use increasing from 0-5+ hours a day correlated with stepwise increase in depressive symptom scores 
+- "<span style="color:#f894ff">Many young people with GD present with combinations of said conditions, though "the complex interplay between these issues is not well understood.</span>""
+#### Possible factors influencing change in patient profile
+- Biological factors 
+	- Sexual differentiation of genitals takes place in first 2 months of pregnancy; sexual differentiation of the brain in the 2nd half of pregnancy (<span style="color:#f894ff">processes can be influenced independently</span>)
+	- DSD (differences in sexual development) research suggests prenatal hormones have a large effect on gender role behaviours, a moderate effect on sexuality and a small effect on gender identity 
+	- Genetics (twin studies)
+		- Identical twins have identical genes; when a single gene is responsible for something e.g. blood group, the twins will have the same blood group 
+		- Little-no evidence for genetic influence in individuals diagnosed with gender dysphoria 
+		- [Non-identical twins of different sex](https://www.nature.com/articles/s41598-022-17749-0) are much more likely to be concordant for gender dysphoria than ordinary siblings (37% to 0.16%)
+			- Suggests that environmental influences during pregnancy might be a more likely explanation for gender dysphoria than genetics
+	- Brain structure
+		- Brain differences might be due to sexuality rather than gender identity
+		- Trans people seem to have their own unique brain phenotype (still widely heterogenous within the trans community)
+		- Research has not reliably identified brain changes directly linked to gender incongruence (hypothetically might not even provide information on causality)
+- Societal acceptance 
+	- Increase in referrals is much faster than expected for normal evolution of acceptance of a minority group. <span style="color:#92d050">(COMPARED TO WHAT?)</span> 
+	- Change in prevalence from AMAB to AFAB patients (first time ever)
+	- Sharp increase in numbers mostly seen in Gen Z, but not so much those over 25-30 <span style="color:#92d050">(acceptance might not be equal across age groups)</span>
+	- Failure to explain the increase in complex presentations 
+#### Clinical approach & clinical management
+- International guidelines
+	- 23 guidelines identified; 4 without information about development process and not appraised; remaining 19 appraised independently by three reviewers 
+		- ![[Pasted image 20240418211949.png]]
+	- Only Finnish (2020) and Swedish (2022) guidelines scored above 50% for rigour of development
+	- Only 5 guidelines described using a systematic approach for selecting evidence
+	- Most guidelines described insufficient evidence about risks and benefits of medical treatment for adolescents (particularly for long term outcomes) 
+	- Nearly all other guidelines influenced by Endocrine Society 2009 and WPATH 7 
+		- WPATH 8 cited many national / regional guidelines which were largely influenced by WPATH 7 
+	- Most guidelines did not follow international standards for guideline development (AGREE Next Steps Consortium) 
+- World Professional Association for Transgender Healthcare (WPATH) 8 guideline
+	- Systematic review (not used for WPATH 7) found "HRT associated with increased quality of life, decreased depression and decreased anxiety" 
+	- However "certainty in this conclusion is limited by high risk of bias in study designs, small sample sizes, and confounding with other interventions"
+	- Recommendation: future studies should investigate benefits among larger and more diverse groups 
+	- Because the number of studies is still low and there are few outcome studies... "a short narrative review is provided instead" (not systematic review) 
+	- Clinical consensus "<span style="color:#ffc000">is a valid approach to guideline recommendations where the research is inadequate. However, instead of stating that some of its recommendations are based on clinical consensus, WPATH 8 overstates the strength of the evidence in making these recommendations</span>" 
+- Swedish and Finnish guidelines
+	- 3 considerations:
+		- Lack of understanding of the cause of the more recent presentations to gender services
+		- Lack of clear data on detransition rates 
+		- Previous guidelines relied much more on expert opinion than on reviews of evidence 
+	- Treatment should follow the original Dutch criteria, only under a research protocol or in exceptional circumstances
+- Assessment and diagnosis 
+	- Recommended assessment domains![[Pasted image 20240418215049.png]]
+	- NHS practice
+		- Structure of assessment process rarely provided
+		- Not clear how thoroughly transition and other options were explored 
+		- Inconsistent evidence of whether the impact of social transition was explored 
+		- Sexuality not consistently discussed 
+		- History of child's gender journey was rarely examined for signs of difficulty, regret or wishes to change course 
+		- Lack of curiosity as to how personal social circumstances may impact a patients' decisions and dysphoria journey
+	- Perspectives from service users and families 
+		- Confusion about what was assessment and what was diagnosis 
+		- Consensus among service users, parents/carers and clinicians about the need for a holistic approach to care 
+		- Some felt the process was too onerous and invasive (public perception was that decisions were made too quickly)
+	- Holistic assessment framework 
+		- Structure and content 
+			- 8 non-sequential domains: Developmental History, Family, Education setting and social context, Gender Development & Experiences, Sexual Development, Physical health needs, Safeguarding, Mental Health 
+		- Formulation diagnosis and care plan
+			- Formulation 
+				- Formulation of the information gathered through assessment (synthesis of factors which may contribute to overall development)
+				- Should inform an individualised care plan 
+			- Diagnosis 
+				- Formal diagnosis based on the above formulation 
+				- Differential diagnosis (ruling out other diagnoses that present in a similar way)
+				- Gender incongruence included in ICD-11 chapter on sexual health (does not include dysphoria) 
+				- University of York research: "<span style="color:#ffc000">Understand the value of dysphoria but... it could also represent an unhelpful diagnosis, in which their social experience could only be regarded as legitimate if a medical label were attached.</span>"
+				- Gender dysphoria not predictive that the individual will go on to have a longstanding trans identity 
+			- Individualised care plan 
+				- Shared decision making - choosing treatments based both on evidence, and on the person's individual preferences, beliefs and values 
+				- Psychosocial support/therapy, parent/carer support, referral for endocrine assessment 
+				- University of York: young adults “<span style="color:#ffc000">expressed an incredibly diverse range of experiences and pathways. Many benefitted from access to medical pathways, which they said, enabled them to lead the lives they wanted. Others explored equally empowering options, such as social transitioning and more fluid and non-binary expressions of gender.</span>”
+#### Psychological and psychosocial interventions 
+- Rejection of conversion therapy 
+	- "<span style="color:#ffc000">Review... believes that no LGBTQ+ group should be subjected to conversion practice.</span>"
+	- "<span style="color:#ffc000">The intent of psychological intervention is not to change the person's perception of who they are but to work with them to explore their concerns and experiences and help alleviate their distress, regardless of whether they pursue a medical pathway or not.</span>"
+- Patients often have more than one issue presenting, but services tend to deal with each issue in isolation, without considering the impact of issues on each other 
+	- "<span style="color:#ffc000">Some young people have spoken about the perception that disclosing neurodiversity, mental health issues or trauma would be used to discredit their sense of identity. It is concerning that young people may not feel they can be honest... they describe the sense that they need to play a role... to get what they need. This has led to some... not seeking help with their mental health or hiding mental health issues.</span>"
+- International guidelines
+	- All but two guidelines describe psychosocial support as a key component of care
+		- In practice, these interventions are limited (5 clinics with no in-house provision, and others offered a small range of options) - this is despite recommendations for psychosocial intervention 
+- Understanding the evidence 
+	- 10 studies met inclusion criteria (9 assessed 'low quality' and 1 assessed 'moderate')
+	- 4/8 studies reporting on depression saw significant improvements
+	- 3/5 reporting on anxiety saw significant improvement 
+	- 3/4 on suicidality saw significant improvement 
+	- With adequate follow-up, studies found that these outcomes fell off over time (no indication of adverse or negative effects)
+	- "<span style="color:#ffc000">Firm conclusions about their effects cannot be made</span>"
+- Current NHS practice
+	- Only a minority of GIDS patients go on to an endocrine pathway
+	- No formal structured programmed in place (hard to say what happens to people who didn't go on a medical pathway)
+- Summary: 
+	- "<span style="color:#ffc000">Furthermore, even after masculinising/feminising hormones, dysphoria may still persist</span>" (strange sentence? possibly caveated at the end, p.155)
+	- "<span style="color:#ffc000">Other approaches... may be of value regardless of whether or not an endocrine pathway is chosen</span>" 
+	- <span style="color:#92d050">RECOMMENDATION 3:</span> "<span style="color:#ffc000">Standard evidence based psychological and psychopharmacological treatment approaches should be used to support the management of the associated distress and cooccurring conditions. This should include support for parents/carers and siblings as appropriate.</span>"
+#### Social transition
+- International practice
+	- WPATH 8 moved from 'watchful waiting' to advocating for social transitions as a way to improve mental health 
+	- Several guidelines recommend viewing social transition in a way that ensures the opportunity to reconsider 
+	- Several discuss education about risks and benefits of binders, packers etc 
+	- Social transitioning positively regarded by young people and many parents, but families sometimes lacked advice/support on how to negotiate social transitioning 
+- Understanding the evidence 
+	- Newcastle-Ottawa Scale (modified) 
+		- 11 studies (9 low quality, 2 moderate) 
+		- Mostly US based
+	- Mental health outcomes
+		- Only consistent benefit was for use of chosen name in adolescence 
+			- One study found improved mental health and reduced suicidality for 15-21 year olds 
+			- Parental use of chosen name associated with improved mental health for 16-24 year olds 
+	- Gender identity outcomes 
+		- Study of children aged 3-12 who made complete binary social transition
+			- 93% continued to identify as trans at the end (5.4 years later)
+			- Most of the remainders (3.5%) identified as non-binary 
+			- Majority progressed to medical interventions 
+		- Steensma et al., 2013
+			- 96% of AMAB and 54% of AFAB who later desisted had not socially transitioned at point of referral; none had fully transitioned
+			- Social transition was a predictor of gender dysphoria for AMABs but not AFABs
+			- Association between childhood social transition and more intense gender dysphoria (suggests dysphoria led to persistence and drive to socially transition) 
+	- Relevance to existing guidelines 
+		- WPATH 7 more cautious about social transition than WPATH 8 which argues in favour of it in childhood 
+			- Argument that there is more evidence on improved mental health outcomes with social transition; that fluidity of identity is insufficient as a reason not to socially transition; not allowing social transition may be harmful 
+		- Cass Report argues that none of the WPATH 8 statements are supported by the systematic review 
+	- Summary
+		- Early research (1985) found low rates of persistence of childhood gender incongruence into adulthood (15%)
+		- Later studies showed higher rates of persistence at 37% (Steensma et al., 2013)
+			- A greater proportion of referrals had socially transitioned prior to being seen (as opposed to older studies) 
+		- Not possible to attribute causality in either direction 
+			- Not known whether persistence was due to the most intense incongruence or whether social transition solidified the gender incongruence 
+		- More caution to be exercised with social transition of children than with adolescents (more agency)
+			- "<span style="color:#ffc000">Flexibility and keeping options open... is likely to be advantageous. Partial rather than full transition may be a way of ensuring flexibility</span>" due to the fact that "<span style="color:#ffc000">being in stealth from early childhood may add to the stress of impending puberty and the sense of urgency to enter a medical pathway</span>" 
+			- "<span style="color:#ffc000">Parents should be actively involved... unless there are strong grounds to believe that this may put the child at risk</span>"
+		- <span style="color:#92d050">Recommendation 4:</span> "<span style="color:#ffc000">When families/carers are making decisions about social transition of pre-pubertal children, services should ensure that they can be seen as early as possible by a clinical professional with relevant experience.</span>"
+#### Medical pathways 
+- Audited data from GIDS, April 2018 - December 2022
+	- Patients who attended at least two appointments and were discharged in the above time period 
+	- 3,306 patients analysed
+		- 73% AFAB; 27% AMAB 
+		- 27% referred to endocrinology (34.6% of AMAB; 24.2% of AFAB)
+		- Average of 6.7 appointments prior to referral to endocrinology 
+		- 81.5% received puberty blockers (over half of whom were 15-16 years old)
+		- 54.8% of all patients referred were on both PBs and hormones (57% of AFABs, 47.7% of AMABs)
+		- Less than 10 detransitioned, all of whom were female after 6.5 appointments average (range 3-10)
+		- 73% of audited patients were not referred to endocrinology 
+- International practice 
+	- 23 studies across 9 countries; 14 specialist gender and 9 endocrinology services 
+	- 90%+ rate of progression from blockers to hormones across 4 studies from Netherlands and UK 
+	- 0-8% of patients discontinued blockers 
+	- In one UK study, 8.3% of those referred for medical treatment stopped identifying as gender incongruent and 5.3% stopped treatment with blockers or hormones 
+- Summary
+	- Lack of information on patients who move from adolescence towards adult care; hard to gather data on long-term outcomes 
+#### Puberty blockers 
+- Stages of puberty
+	- Begins age 8-13 (avg 11) in girls and 9-14 (avg 12); hormone cascade triggered by the hypothalamus 
+	- 5 Tanner stages ![[Pasted image 20240420215813.png]]
+- Blockers first adopted in Netherlands, then UK, then internationally
+	- Original single case study in 1998, then original Dutch cohort in 2011 
+	- Novel use did not require a more rigorous drug trial 
+	- UK licences granted by Medicines and Healthcare products Regulation Agency (MHRA)
+	- Semaglutide originally used for diabetes but then used off-label for weight loss 
+	- Many drugs not licensed for use in children but can still be given to them safely 
+- Debate over off-label use
+	- Some argue safety of blockers can be extrapolated from standard use; others argue that standard use involves blocking hormones that are abnormally high 
+	- 2015 study of 17 multi-professional treatment teams
+		- Widely disparate views on 7 areas
+			- Availability of an explanatory model for dysphoria, nature of dysphoria, the role of puberty in developing gender identity, role of comorbidity, possible physical or psychological effects of refraining from early medical interventions, child competence and decision making authority, role of social context in how GD is perceived 
+- International practice 
+	- Most guidelines emphasise full reversibility, but also warn about potential effects on bone health and uncertainty around cognitive development 
+	- Most recommend starting at Tanner Stage 2; Swedish guideline recommends Tanner Stage 3
+	- Most guidelines advice gender dysphoria that has emerged or got worse at puberty as the criteria for starting blockers 
+	- Swedish and Finnish guidelines recommend they only be used under a research protocol
+	- Most recommended GD or incongruence and stable mental health (Finland argued that distress had to intensify in puberty) 
+- Understanding intended benefits and risks 
+	- 50 studies (1 high quality, 24 medium and 24 low/excluded) 
+	- Many only looked at how well puberty was suppressed and at side effects (fewer looked at other intended outcomes)
+	- Strong evidence that puberty suppression exerts its expected physiological effect
+- Intended benefits 
+	- 0-8% of young people discontinued 
+	- Those who discontinued had initiated treatment at an older age and were more likely to be autistic or have other mental health conditions 
+	- UK discharge study of 1,089 patients found 7.4% of those under 16 discontinued blockers 
+	- Suggestion that blockers do not buy time to think, given that the vast majority go on to HRT
+		- <span style="color:#92d050">QUESTION</span>: <span style="color:#92d050">could this not mean that blockers are only being offered to those who seem the most likely to need HRT?</span> 
+		- Bell v Tavistock, High Court suggestion: children need to understand consequences of a full transition pathway before consenting to blockers 
+	- Reducing GD/improving body satisfaction 
+		- Only 2 moderate quality studes (Dutch protocol and UK early intervention study, 2021)
+		- Neither reported any change before or after receiving blockers 
+	- Psychological and mental health improvements 
+		- Dutch protocol found improvements in mental health in a pre-post study (no comparison group)
+		- GIDS early intervention study did not replicate this finding 
+		- One other good quality study found intermediate result with improvements in some mental health conditions but not others 
+		- Cass Report in line with NICE review (2020 and other systematic reviews bar one commissioned by WPATH, which reported some benefit) - WPATH used 8/12 studies which were rated as low quality 
+		- Effects are larger in non RCT studies - overall only modest and inconsistent benefits are observed 
+	- Cosmetic outcomes/passing in adult life 
+		- Lack of long-term outcome data BUT Cass Report interviewed young and older people about experience with early access to blockers 
+		- Access was particularly important for trans women 
+	- Risks
+		- NHS England concern that blockers may temporarily or permanently disrupt brain maturation (particularly of neural circuits underlying executive function) 
+		- One cross-sectional study found no difference in executive function for 1 year of treatment, but worse function for more than 1 year of treatment 
+		- Early suppression in trans women might make subsequent vaginoplasty more difficult due to inadequate penile growth (can sometimes necessitate use of the gut which is more dangerous)
+			- Recent paper (Lee et al., 2023) suggests waiting until Tanner Stage 4 to address this problem 
+		- Bone density is compromised by blockers and height may lag behind - not enough long-term follow-up to know if this is permanent 
+	- Summary
+		- Suggests other simple measures e.g. contraceptives to manage distress 
+		- Suggests other evidence based techniques that don't preclude continuing on a transition pathway 
+		- Benefit for trans women in stopping irreversible changes such as lower voice and facial hair
+
+#### HRT
+- HRT for under 18s is new - practice has not necessarily changed but rather the range of people seeking treatment 
+- International practice
+	- Most guidelines require persistent gender dysphoria or incongruence and the capacity to consent (most reference 16 as a typical starting point)
+	- Swedish and Finnish guidelines recommend HRT only given under a research framework in exceptional circumstances
+- 53 studies met inclusion criteria 
+	- Most reported outcomes were adverse physical health outcomes and intended development of puberty in the identified gender 
+	- Mental health measured in 15 studies
+	- Psychosocial in 7 studies
+	- Cognitive outcomes in 4 studies
+	- Gender dysphoria & body satisfaction each measured in 3 studies 
+	- Most had no comparison groups - those which did, did not control for key differences between groups 
+- Findings
+	- Moderate quality evidence from pre-post studies that HRT may improve psychological health in the short-term 
+	- Inconsistencies regarding suicidality and/or self-harm 
+		- 3/4 studies reporting improvement and 1 no change 
+	- Short follow-up interval - many less than year and a smaller number up to 3 years 
+	- Hard to draw conclusion BUT suggestive evidence that HRT may improve psychological health 
+	- "This is in line with other systematic reviews published previously (Ludvigsson et al., 2023)"
+- Mental health / psychosocial outcomes 
+	- Danish national register-based study of 3,812 trans people
+		- Trans people 5 times more likely than controls to have mental health disorders 
+		- Proportion on mental health medication increased from less than 20% at baseline to more than 30% during follow-up
+		- Hard to separate effects of psychopharmacological treatment from gender-affirming treatment 
+- Suicidality 
+	- Trans youth are at higher risk of suicide, but comparable to youths with similar range of mental health challenges
+	- Majority of studies show reduction in suicidality following gender-affirming care, but with failure to control for psychiatric comorbidity and treatment 
+	- UK paper ([Lavender](https://doi.org/10.1089/lgbt.2022.0201) et al., 2023) 
+		- Retrospective analysis of 38 children on blockers -> hormones; showed general decrease in suicidality 
+		- However, 109 eligible participants and of the 38 included in the study, only 11 completed suicidality and self-harm questions 
+	- Finnish paper (Ruuska, 2024)
+		- No significant link between HRT and reduced suicide 
+		- Statistically significant relationship between high rate of co-occurring mental health difficulties and increased suicide 
+- Detransition 
+	- NHS adult GDC
+		- Of 175 discharged service users (6.9%) met criteria for detransitioning 
+		- Time to detransition can range from 5-10 years 
+			- Follow-up intervals on studies on medical treatment are too short to capture this 
+	- Primary care audit (Boyd et al., 2022)
+			- Cohort of 68 patients, mean age 27.8 years
+			- 8/41 (20%) chose to stop HRT after a mean period of 5 years (range 17 months to 10 years)
+	- Online survey of 237 detransitioners (Vandenbussche, 2022) - <span style="color:#92d050">Possibly unreliable? participants gathered from reddit, facebook, twitter and de-trans website</span>
+		- 70% realised gender dysphoria was related to other issues
+		- 62% health concerns
+		- 50% transition did not help with dysphoria 
+		- 45% found alternatives to deal with dysphoria 
+		- 44% unhappy with social changes 
+		- 43% change in political views
+		- 34% Dysphoria resolved over time
+		- 30% co-morbid mental health issues solved & unhappy with physical changes
+		- 13% lack of social support
+		- 12% financial concerns
+		- 10% discrimination 
+- Long-term outcomes
+	- GIDS audit found people took 5-10 years to detransition, but did not give Cass access to to data RIP 
+#### Challenges in decision making 
+- "<span style="color:#ffc000">Few guidelines provide detail about operational criteria for eligibility for puberty blockers or hormonal prescriptions</span>"
+- Clinicians state they are unable to predict which children might transition successfully and which might regret or detransition (dysphoria not necessarily a predictor)
+- Not enough to discuss endocrine options, but also other non-endocrine options + pros and cons of delaying endocrine intervention 
+- Family Law Reform Act 1969 s8 - consent of a person aged 16 is as effective as the consent of a patient aged 18
+- <span style="color:#92d050">Recommendation 6:</span> Blocker trials as part of a program which also evaluates psychosocial interventions and hormones. 
+	- <span style="color:#92d050">Stress on follow-up into adulthood</span> 
+- <span style="color:#92d050">Recommendation 7:</span> Long standing incongruence is an essential but not the only pre-requisite for medical treatment 
+- <span style="color:#92d050">Recommendation 8:</span> Hormones available at 16 but there should be a clear rationale for providing them here rather than at 18 
+#### Service Model 
+- Recommendations requested: 
+	- Pathways of care into local services 
+	- Pathways of care into specialist gender identity services including referral criteria 
+	- current and future workforce requirements 
+- Existing service models 
+	- Single national service model (GIDS) not working 
+	- Young people having to do their own research whilst waiting for specialist services 
+	- Multiple issues dealt with in isolation 
+- International practice 
+	- Netherlands - fully integrated multi-disciplinary team 
+		- Mental health professionals, endocrinologists, allied health professionals 
+	- UK, Finland - psychologically focused gender clinic with separate but linked endocrine service 
+	- USA, Canada - endocrinology focused gender clinic with referral to external mental health professionals if appropriate 
+- Different practices in the UK 
+	- Clinical network plus
+		- All clinical sites maintain services; some aspects of care provided by network 
+	- Multi-site system
+		- All clinical sites provide the same level of care, based on shared treatment pathways and clinical policies 
+- Report suggestions
+	- Development of local service partnerships to share workforce across the network 
+	- Services should not be located solely in tertiary centres
+	- Care to be provided as close to home as possible 
+	- Extra recruitment and training needed to deal with increasing waiting lists 
+#### A new model for gender services for young people 
+- Regional centres 
+	- Responsible for managing caseload of those requiring support around gender identity 
+	- Responsible for assessment and treatment of those requiring more specialist care 
+	- Services should include care for mental health, autism and other neurodiverse presentations, access to endocrinology and fertility 
+- Designated Local Specialist Services 
+	- Secondary services within CAMHS (Child and Adolescent Mental Health Services) should act as Designated Local Specialist Services (DLSS) 
+		- Increased available workforce with opportunities for targeted training and upskilling 
+- Operational Delivery Networks (ODN)
+	- Ensure clinical flows through the provider system 
+	- Whole-system, collaborative provision approach 
+	- Improve cross-organisational, multi-professional clinical engagement 
+	- Collaborative forecasting of demand and matching of demand and supply 
+- National Provider Collaborative
+	- Development of shared standards, protocols, operating procedures 
+	- Update assessment framework in line with emerging evidence 
+	- Development of clear referral criteria 
+	- Increased number of providers should allow... reduction in waiting times for specialist care
+- <span style="color:#92d050">Recommendation 11</span>: NHS England should develop the regional multisite service networks as soon as possible 
+- <span style="color:#92d050">Recommendation 13:</span> Increase available workforce with joint contracts to allow staff to work across different services 
+- <span style="color:#92d050">Recommendation 15:</span> Develop a competency framework; identify gaps in training programmes; develop training materials
+- <span style="color:#92d050">Recommendation 16:</span> Develop evidence based recourses for young people, parents and carers (maybe online?)
+- <span style="color:#92d050">Recommendation 17: </span>Core national dataset to be defined for both specialist and local specialist services 
+- <span style="color:#92d050">Recommendation 18:</span> National infrastructure should be put in place to manage data collection in order drive quality improvement
+- <span style="color:#92d050">Recommendation 19:</span> Ensure academic infrastructure to support clinically based-research in regional centres
+- <span style="color:#92d050">Recommendation 20:</span> National Institute for Health and Care Research should commission a living systematic review to inform evolving clinical approaches 
+- Pathways 
+	- International practice
+		- Several clinics specify that a referral must come from a clinician 
+		- Finland has referral criteria related to co-occurring conditions which need to be accepted before a referral being accepted 
+		- Most guidelines start with psychosocial care for pre-pubertal children, followed by blockers then hormones for eligible adolescents 
+		- Finland and Demark with different pathway for young people with psychosocial concerns or a short history of distress 
+		- Co-occurring mental health conditions usually managed by other providers (longer assessment process)
+		- Generally cautious with non-binary people, usually delaying treatment until adulthood
+	- NHS practice
+		- For tertiary (specialist) care, patients need to be seen by a secondary practitioner (CAMHS, paediatrics) first 
+		- GIDS accepted referrals directly from primary care (GP) and from non-healthcare professionals eg. teachers and youth workers 
+			- 48.6% referred by CAMHS, 40% by GP, 2.6% by other health providers, 3.3% by local authorities, 3.1% by voluntary sector, 1.8% by schools 
+		- PROBLEMS: 
+			- Lack of basic information required by specialist teams from referral 
+			- Patients who would not usually meet the threshold were referred, meaning longer waiting times 
+			- Risks e.g. not knowing which young people may be at risk of self-harm / suicide or are at risk due to family breakdown or other safeguarding issues 
+			- PROPOSAL that Regional Centres provide initial local assessments to ensure that referrals reach the tertiary centre 
+	- Recommended referral pathway 
+			- Patient and family -> GP & primary care -> CAHMS / Paediatrics -> ODN / referral back to secondary care -> Specialist Gender Service (tertiary care)
+			- Documentation of basic information to avoid unnecessary repetition between institutions]
+		- Pathways within the service 
+			- Flexible movement between different elements of the service as a means to reduce the sense of urgency 
+			- Children with gender incongruence at a young age are most likely to desist before puberty 
+			- "<span style="color:#ffc000">Importantly some children within this group who remain gender incongruent into puberty may benefit from puberty blockers and will be able to enter the specialist component of the service and access the puberty blocker trial in a timely way, if already under the supervision of the regional network.</span>"
+		- Transfer to adult gender services 
+			- Need for long-term audit and follow-up research data that are currently lost at the point of transition to adult services 
+			- Significant numbers transferred from GIDs to adult services; others have turned 17 and and not been seen by GIDs but their waiting times are counted towards adult waiting time
+				- This increases waiting lists for adult services, disadvantaging older people seeking support 
+			- Suggested follow-through service continuing up to age 25 
+				- This "would remove the need for transition at this vulnerable time and benefit both this younger population and the adult population" 
+				- Consistent with other services supporting young people that are moving to a 0-25 years service 
+	- <span style="color:#92d050">Recommendation 23:</span> "<span style="color:#ffc000">NHS England should ensure that each Regional Centre has a follow-through service for 17-25-year-olds; either by extending the range of the regional children and young people’s service or through linked services, to ensure continuity of care and support at a potentially vulnerable stage in their journey. This will also allow clinical, and research follow up data to be collected.</span>"
+	- GDC staff assertion that increasing number of detransitioners appearing who moved between clinics as they didn't want to return to the one that initially treated them 
+	- NHS numbers
+		- No specific guidance as to when this should be done 
+		- Risks include children attending hospital after self-harm not being identifiable as a child on a protection order 
+		- Risk of records of previous trauma and ill-health being lost
+		- Children on the child protection register being untraceable after moving to a new area 
+		- <span style="color:#92d050">Recommendation 28:</span> Review process and circumstances of changing NHS numbers. Suggestion - should numbers need to be changed before age 18? 
+
+
+
+
+
+
+
+
+
+
+
+
+#### [Evidence review](https://cass.independent-review.uk/wp-content/uploads/2022/09/20220726_Evidence-review_Gender-affirming-hormones_For-upload_Final.pdf): Gender affirming hormones for children and adolescents (prepared by NICE, Oct 2020)
+
+## [Kite Trust Q&A](https://thekitetrust.org.uk/wp-content/uploads/2024/04/Cass-Review-Mythbusting-Q-and-A.pdf)
+- Q: Advocating for trans healthcare for 18-25 year olds to be stopped?
+	- A: No. Recommendation is for a follow through service for 17-25 year olds who have had issues with gaps in their care between children and adult services. "Transition" meaning transition between NHS services. No recommendations made around transition at 18 or over 
+- Q: What would the 18-25 follow through system look like 
+	- A: Two streams of care for 18-25 year olds. First would offer continuity of care for patients of a children's service. Second would be a route for direct referral into adult services as is currently the case. 
+- Q: Is Cass against a ban on conversion therapy? 
+	- A: Cass supports ban on conversion therapy. NHS staff need support to understand the difference between conversion and supporting young people who are not yet fully certain about their gender identity. 
+- Q: Does Cass believe puberty blockers are unsafe? If so, why is it ok to prescribe them for cis kids and not trans kids? 
+	- A: No conclusion that blockers are unsafe. Report supports a research study being implemented to allow a pathway to treatment with follow up and data collection. 
+	- A, follow up: Most common age of puberty blockers being prescribed is 15. Cass argues this is too late to have the intended benefits (caused by previous NHS policy of requiring a year of blockers before transition). Cass recommends a different approach with blockers and hormones being available at different ages and developmental stages 
+- Q: Does the report say being trans can be caused by neurodiversity, mental health conditions or trauma? 
+	- A: No. Recommendations made around support for neurodiversity, mental health etc because previously, trans people have been denied the same support as their cisgender peers and an expectation that all of their care should be provided through gender services. Cass recommends cross-over of professionals involved in new gender service. 
+	- p. 119 (8.44): "<span style="color:#ffc000">Diagnosis and treatment of mental ill health in a young person with gender incongruence/dysphoria should not be a barrier to their gender issues being considered and evaluated in parallel</span>"
+- Q: Why were 100 of 102 studies on blockers and hormones rejected? 
+	- A: Cass agrees it is not possible to conduct a 'double-blind' study for hormones. 
+		- Hardly any RCTs in existing studies 
+		- Study type was not the main factor in deciding whether studies were included 
+		- Size of study and period/extent of follow-up were part of the decision making process on rating quality of evidence 
+		- Many studies didn't provided evidence for what was being researched (e.g. psychological impacts over an extended period of time) 
+- Q: Why did Cass meet with Patrick Hunter, architect of Florida's anti-trans bill in 2022? 
+	- A: Cass Review team not aware of Hunter's wider connections, so he met the criteria for clinicians who were offered an initial meeting. Initial contact was the same as any paediatrician who approached the study - the team declined any further contact after that meeting. 
+

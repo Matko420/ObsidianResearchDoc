@@ -1,0 +1,54 @@
+
+#### Articles 
+- [Investigation](https://www.theguardian.com/world/article/2024/jul/29/israeli-inquest-into-alleged-abuse-of-palestinian-detainees-sparks-far-right-fury) by Israeli military into abuse of a Palestinian detainee at a military detention camp 
+	- Ordered on Monday July 29th
+	- Investigation of 10 reserve IDF soldiers suspected of "substantial abuse of a detainee"
+	- 9 soldiers detained in early July after detainee was found "in a very serious condition" resulting in a hospital evacuation and surgery 
+	- Far right protestors and members of parliament storming the base 
+	- Government statements
+		- "Strong condemnation" from Netanyahu 
+		- Isaac Herzog called for calm but said that hatred towards some accused terrorists was "<span style="color:#ffc000">surely understandable and justified</span>" 
+		- Denouncement from Gallant and [demand for an investigation](https://apnews.com/article/israel-palestinians-hamas-war-news-30-07-2024-87f1c99b0bb6a0eff86e659f4dc4c524) on whether National Security Minister Itamar Gen-Gvir "<span style="color:#ffc000">prevented or delayed the police response to the riots</span>"
+		- [Ben-Gvir](https://apnews.com/article/israel-palestinians-hamas-war-news-30-07-2024-87f1c99b0bb6a0eff86e659f4dc4c524) said the detention of the soldiers was "shameful", called them Israel's "best heroes". On the detention facilities, he said "<span style="color:#ffc000">the summer camps and patience for the terrorists are over.</span>"
+	- IDF chief of staff defended the investigation
+	- Allegations: 
+		- Children forced into cages and attacked by dogs
+		- People forced to sleep on thin mattresses on top of rubble 
+		- Hours without food, water or a toilet, hands and legs bound 
+		- Being made to act like animals or getting urinated on 
+		- Subjected to loud music and sleep deprivation 
+		- Open wounds caused by tight handcuffing 
+		- 27 detainees died in custody on military bases, including Sde Teiman 
+	- [Early report in April](https://www.haaretz.com/israel-news/2024-04-04/ty-article/.premium/doctor-at-idf-field-hospital-for-detained-gazans-we-are-all-complicit-in-breaking-law/0000018e-a59c-dfed-ad9f-afdfb5ce0000) based on whistleblowing doctor from Sde Teiman 
+	- [Early July](https://edition.cnn.com/2024/07/29/middleeast/sde-teiman-protests-idf-investigation-intl/index.html): Netanyahu orders an end to long-term imprisonment, limiting of use to initial interrogations and temporary holding; most prisoners had already been transferred out 
+		- 3 total bases used as detention camps since October 7th (Sde Teiman in the Negev and 2 in the West Bank)
+- [UNRWA](https://www.unrwa.org/sites/default/files/content/resources/summary_on_detention_and_alleged_ill-treatmentupdated.pdf) report
+	- 1,506 detainees released as of April 2024
+		- People arrested in Gaza, Gazan workers, UNRWA staff, 43 children, 84 women
+	- Prisoners held in makeshift military barracks with 100-120 people 
+	- Ill-treatment
+		- People, including a child, released with dog bite wounds
+		- Thin mattress on rubble
+		- Hours without food, water or toilet; hands and legs bound with plastic 
+		- Threatened with prolonged detention, injury or killing of family members during interrogations 
+		- Forced to sit on their knees for 12-16 hours a day 
+		- Beatings with metal bars, butts of guns and boots; nail guns (broken bones, separated shoulders etc)
+		- One incident where males were detained fully naked
+		- Threats and incidents that "may amount to sexual violence and harassment"
+			- Beatings to the genitals 
+			- One detainee forced to sit on an electrical probe 
+		- Abuse of women 
+			- Psychological abuse, inappropriate touching 
+			- Spat on and told the soldiers would put pepper on their genitals 
+			- Groping by a male soldier 
+		- UNRWA staff
+			- "Treatment akin to waterboarding"
+			- Beatings by doctors when asking for medical assistance
+			- Attacks by dogs 
+			- Threats of rape and electrocution 
+- [Israeli](https://www.independent.co.uk/news/world/middle-east/israel-prison-idf-soldiers-arrest-palestine-rape-b2587997.html) protestors storm base where soldiers were held 
+	- Protestors backed by far-right lawmakers 
+		- [Zvi Sukkot](https://en.wikipedia.org/wiki/Zvi_Sukkot#/media/File:%D7%A6%D7%91%D7%99_%D7%A1%D7%95%D7%9B%D7%95%D7%AA_(cropped).jpg) [seen](https://edition.cnn.com/2024/07/29/middleeast/sde-teiman-protests-idf-investigation-intl/index.html) slipping through the fence to join the protestors (Knesset member from Smotrich's Religious Zionism party)
+		- [Smotrich](https://edition.cnn.com/2024/07/29/middleeast/sde-teiman-protests-idf-investigation-intl/index.html) supported protests but called for calm: “<span style="color:#ffc000">I call on everyone to observe the law and the integrity of the military and the people, not to break into military bases and not to clash with our brothers, the soldiers and the police</span>”
+	- Demands that the soldiers be released 
+	- [Claims](https://www.bbc.co.uk/news/articles/c2q07kd3ld6o) from Haaretz that cuff injuries resulted in two leg amputations

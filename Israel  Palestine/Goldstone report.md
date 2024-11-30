@@ -1,0 +1,1016 @@
+#### Cast Lead initial strikes
+- Attack on Gazan police & security headquarters on 27/12/2008
+- [Orient Research Group](https://drive.google.com/file/d/1TYABcmbaCSSVOmTV-YDOo6Rn5FTXYA-W/view?usp=sharing) data
+	- Cops listed as active in al-Qassam Brigades, al-Nasser Salah al-Din Brigades, Fatah or none
+	- Majority of deaths listed as combatants from al-Qassam Brigades
+- [Goldstone](https://www.right-docs.org/doc/a-hrc-12-48/): 
+	- <span style="color:#ffc000">"In 78 out of 178 cases the policemen are alleged to be members of al-Qassam Brigades on the sole basis that they were allegedly Hamas members."</span> (422)
+		- Suggesting Hamas members (many of whom are civilians) are labelled as Al-Qassam by default 
+		- Orient seems to list one Hamas member as 'national security', but no mention of Al-Qassam activity (p.11) 
+	- Strange amount of trust in the police spokesperson, Islam Shahwan? 
+		- 414. Shahwan: <span style="color:#ffc000">"</span><span style="color:#ffc000">an action plan has been put forward, and we have conducted an assessment of the situation and a general alert has been declared by the police and among the security forces in case of any emergency or a ground invasion.</span> <span style="color:#f894ff">Police officers received clear orders from the leadership to face the enemy, if the Gaza Strip were to be invaded.</span><span style="color:#f894ff">"</span> 
+		- When interviewed by the Mission, Shahwan clarifies: "<span style="color:#ffc000">the police was to continue its work of ensuring that basic food stuffs reached the population, of directing the population to safe places, and of upholding public order in the face of the invasion. Mr. Shahwan further stated that not a single policeman had been killed in combat during the armed operations, proving that the instructions had been strictly obeyed by the policemen</span>."
+	- Goldstone suggests Al-Qassam members might have been misidentified e.g. as when killed civilians are placed on lists of 'martyrs' or 'shahid' (421)
+	- Tawfiq Jabr, director of the police "generally known as not being affiliated with Hamas"
+		- Report doesn't mention that he was accompanied by an al-Qassam fighter
+- [Finkelstein](https://www.kalamullah.com/Books/Gaza_%20An%20Inquest%20Into%20Its%20Martyrdom.pdf) in Gaza: An Inquest Into Its Martyrdom p. 543, footnote 1, Chapter 4: Human Shields
+	- "Israeli officials alleged that total Palestinian deaths came to 1,166, of whom at least 60 percent were “terrorists.” The discrepancy in the ratio of Palestinian combatant to civilian deaths partly resulted from disagreement on the proper classification of Gazan police... ***The broad consensus among human rights organizations was that these police should overwhelmingly be classified as civilians because they did not take a direct part in hostilities and were not members of Palestinian armed groups.***"
+- [Israeli government statement](https://embassies.gov.il/MFA/FOREIGNPOLICY/Terrorism/Pages/Operation_Gaza_factual_and_legal_aspects_use_of_force_IDF_conduct_5_Aug_2009.aspx#219)
+	- "A recent study has reviewed a list of all the internal security services members that Hamas reported killed during the Gaza Operation — consisting of 245 names in total.  ***It found that 75.2 percent were Hamas activists (mostly members of the al-Qassam Brigades)***, and the total number of terrorist activists and fighters (including members of other terrorist groups operating in Gaza) from among the number of fatal casualties of the Palestinian security forces was 311, or 90.7 percent. In other words, more than nine out of every ten alleged “civilian police” were found to be armed terrorist activists and combatants directly engaged in hostilities against Israel."
+	- [Report of the Ministry of Foreign Affairs](https://casebook.icrc.org/case-study/israelgaza-operation-cast-lead)
+- Matching names from [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85) website with [Orient](https://drive.google.com/file/d/1TYABcmbaCSSVOmTV-YDOo6Rn5FTXYA-W/view?usp=sharing) data
+	- Mahmoud Fouad Abu Matar (p. 25)
+		- Orient: Active in the Al-Qassam Brigades. Killed in an attack on a position of Marine Police, died 27/12/2008
+		- [al-Qassam biography](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2372/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%81%D8%A4%D8%A7%D8%AF-%D8%A3%D8%A8%D9%88-%D9%85%D8%B7%D8%B1): Field commander, joined Al-Qassam in 1996, <span style="color:#ffc000">"participated in setting up and preparing many devices that targeted Zionist vehicles and forces"</span>, died 27/12/2008 <span style="color:#ffc000">"in the bombing of the Palestinian Navy position"</span>
+	- Muhammad Mansour Abdel Karim Nafya (p. 19)
+		- Orient: Active in the al-Qassam Brigades, mortally wounded in Beit Lahia, then died about a month later
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2308/%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D9%86%D8%A7%D9%8A%D9%81%D8%A9): Distinguished Qassami, joined in 2006, wounded in Beit Lahia, then died that night
+	- Imran Ismail Darwish Al-Ran (p. 34)
+		- Orient: Born 1984, died 27/12/2008, Police sergeant major, <span style="color:#f894ff">no affiliation given</span>
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2300/%D8%B9%D9%85%D8%B1%D8%A7%D9%86-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D9%86): Born 1985, joined al-Qassam in 2006, died in an airstrike whilst working in the operations room, alerting the police of IDF attack ([VIDEO OF HIM TRAINING LOL](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2300/%D8%B9%D9%85%D8%B1%D8%A7%D9%86-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D9%86))
+	- Refaat Salim Ashour Saada (p. 36)
+		- Orient: Commander of al-Qassam Brigades; officer in the intervention force; born 1974
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2293/%D8%B1%D9%81%D8%B9%D8%AA-%D8%B3%D9%84%D9%8A%D9%85-%D8%B3%D8%B9%D8%AF%D8%A9): Born 1975, joined Al-Qassam in 2004, <span style="color:#ffc000">"</span><span style="color:#ffc000">worked as commander of the military signal room</span>", "<span style="color:#ffc000">assigned to the signal room in the police... signal officer in the Palestinian Police Service</span><span style="color:#ffc000">"</span>
+	- Hassan Saadi Hamdan Abu Arabs (p. 13)
+		- Orient: Active in the al-Qassam Brigades, born 1988, died 27/12/2008
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2271/%D8%AD%D8%B3%D9%86-%D8%B3%D8%B9%D8%AF%D9%8A-%D8%A3%D8%A8%D9%88%D8%B9%D8%B1%D8%A8%D8%B3): Born 1988, joined al-Qassam in 2005, died 27/12/2008 <span style="color:#ffc000">"following a Zionist bombing of the 'Southern Police Station'"</span> 
+	- Maamoun Mohammed Al-Sayed (p. 15 - take care with spelling mismatch)
+		- Orient: Born 1986, Active in al-Qassam Brigades, died 27/12/2008
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2233/%D9%85%D8%A3%D9%85%D9%88%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF): Born 1986, joined al-Qassam at the end of middle school, worked in government police force since 2006, <span style="color:#ffc000">"leader of his group"</span>, died in Abu Madin police station, 27/12/2008
+	- Alaa al-Din Ibrahim Al-Qatrawi (p. 32)
+		- Orient: Born 1986, died 27/12/2008, active in al-Qassam battallions, Nusirat Battallion, police sergeant major
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2226/%D8%B9%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D8%A7%D9%88%D9%8A): Born 1986, joined al-Qassam 2003, died 27/12/2008, Abu Madin Police Station, <span style="color:#ffc000">"Alaa also participated in planting a number of explosive devices for the occupation forces, and God honored him by participating in repelling most of the incursions that the Nuseirat camp was subjected to during the Al-Aqsa Intifada"</span> 
+	- Anas Fawzi Hamad (p. 8)
+		- Orient: Born 1985, Major police constable, Al-Aqsa Martyrs Brigade (Fatah)
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2221/%D8%A3%D9%86%D8%B3-%D9%81%D9%88%D8%B2%D9%8A-%D8%AD%D9%85%D8%AF): Born 1985, joined al-Qassam in 2007, killed in air strike on the Central Governorate Police Station, <span style="color:#ffc000">"participated in several military missions before his martyrdom"</span> 
+	- Mustafa Muhammad al-Sabbagh (p. 24)
+		- Orient: Born 1988, died 12/27/2008, active in the al-Qassam Brigades, served as head of Public Complaint Department of the Hamas government
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2202/%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%BA): Born 1988, joined al-Qassam sometime after 2006, worked with armour units and in sniping, died 12/27/2008 at a <span style="color:#ffc000">"course that the police apparatus was preparing for workers in his protocol office at the passport headquarters in Gaza City"</span>
+	- Muhammad Ahmed Jarada (p. 15)
+		- Orient: Born 1990, active in the al-Qassam Brigades, died 27/12/2008, mortally wounded in the attack
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2200/%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D8%AC%D8%B1%D8%A7%D8%AF%D8%A9): Born 1985, pledged allegiance to Muslim Brotherhood in 2005, began work within Support Security Service, before joining al-Qassam Brigades, promoted to be a member of the Special Qassami Unit, <span style="color:#ffc000">"targeted several times as he rained Qassam rockets on the Zionist settlements"</span>, mortally wounded in strike on a security centre, [MARTYR VIDEO](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2200/%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D8%AC%D8%B1%D8%A7%D8%AF%D8%A9#media_mart)
+	- Ahmed Abdel Qader Ibrahim Al-Haddad (p. 4)
+		- Orient: Born 1981, active in al-Qassam Brigades, died 27/12/2008
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2172/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B1-%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF): Born 1982, joined al-Qassam <span style="color:#ffc000">"after a long period of time spent in the security service supporting the al-Qassam Brigades"</span>, died 27/12/2008 <span style="color:#ffc000">"at the helm of his work in the Security and Protection Service"</span> 
+	- Ali Muhammad Abu Riyala (p. 34)
+		- Orient: Born 1984, active in al-Qassam Brigades, died 27/12/2008 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2161/%D8%B9%D9%84%D9%8A-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B1%D9%8A%D8%A7%D9%84%D8%A9): Born 1984, joined al-Qassam Brigades in 2005, rose through the ranks <span style="color:#ffc000">"until he became a prince of the infantry... and then one of the most prominent special knights in the... al-Qassam Brigades</span><span style="color:#ffc000">",</span> died 27/12/2008 <span style="color:#ffc000">"working as a policeman within the Palestinian police at the passport headquarters in Gaza City"</span>
+			- Beaten by Israeli forces in the First Intifada: <span style="color:#ffc000">"When he was four years old, one of the Zionist jeeps passed by and the martyr gave the soldiers a victory sign, but the soldiers came down and beat him severely"</span>
+			- <span style="color:#ffc000">"He loved his mother deeply and did not hide a secret from her about his military and jihad work. His mother would carry equipment for him while he was wearing his military uniform and would urge and encourage him to jihad and fight for the sake of God"</span> 
+	- Hamed Fouad Abu Yassin (p. 12)
+		- Orient: Born 1984, active in al-Qassam Brigades, active in the special forces, died 27/12/2008
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2153/%D8%AD%D8%A7%D9%85%D8%AF-%D9%81%D8%A4%D8%A7%D8%AF-%D8%A3%D8%A8%D9%88-%D9%8A%D8%A7%D8%B3%D9%8A%D9%86): Born 1985, joined al-Qassam Brigades in 2005, joined the Special Forces where he <span style="color:#ffc000">"excelled in the field of explosives engineering"</span>, died 27/12/2008 <span style="color:#ffc000">"with his brothers in a military course designated for the Palestinian police force's rescue force"</span> 
+	- Muhammad Talal Kamel Al-Habil (p. 9)
+		- Orient: Born 1986, active in al-Qassam Brigades, died 27/12/2008
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2088/%D9%85%D8%AD%D9%85%D8%AF-%D8%B7%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%87%D8%A8%D9%8A%D9%84): Born 1988, joined al-Qassam 2006, died 27/12/2008 alongside his brother at the gates of the Al-Katiba Mosque, <span style="color:#ffc000">"adjacent to the Ansar military headquarter"</span>, [video](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2088/%D9%85%D8%AD%D9%85%D8%AF-%D8%B7%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%87%D8%A8%D9%8A%D9%84)
+	- Salim Khalil Al-Banna (p. 28)
+		- Orient: Born 1984, active in al-Qassam Brigades, killed in the structure of the Intervention and Order Enforcement Force, died 27/12/2008
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2083/%D8%B3%D9%84%D9%8A%D9%85-%D8%AE%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A8%D9%86%D8%A7): Born 1983, joined al-Qassam in 2005, specialised in infantry, <span style="color:#ffc000">"worked in Security and Protection Service with the rank of captain"</span>, died 27/12/2008 at <span style="color:#ffc000">"his workplace at the Forum's headquarters west of Gaza City"</span>, [video](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2083/%D8%B3%D9%84%D9%8A%D9%85-%D8%AE%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A8%D9%86%D8%A7)
+	- Ismail Ahmed Hassan Abu Hani (can't find in Orient)
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2080/%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D9%87%D8%A7%D9%86%D9%8A): Born 1990, joined al-Qassam in 2007, died 27/12/2008, <span style="color:#ffc000">"had no choice but to draw his weapon and head to his workplace, the headquarters of the Internal Security Service in Al-Mashtal"</span> 
+	- Youssef Rafiq Al-Dairi (p. 15)
+		- Orient: Born 1975, active in al-Qassam Brigades, active in sniper unit, died 27/12/2008
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1749/%D9%8A%D9%88%D8%B3%D9%81-%D8%B1%D9%81%D9%8A%D9%82-%D8%A7%D9%84%D8%AF%D9%8A%D8%B1%D9%8A): Born 1975, joined Hamas in 2000, joined al-Qassam in 2007, died 27/12/2008 at the <span style="color:#ffc000">"military training session at the passport headquarters west of Gaza City"</span> 
+	- Muhammad Jamil Attia Hajjaj (p. 17)
+		- Orient: Born 1966, active in the al-Qassam Brigades, commander of security in Khan Yunis, died 27/12/2008
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1467/%D9%85%D8%AD%D9%85%D8%AF-%D8%AC%D9%85%D9%8A%D9%84-%D8%AD%D8%AC%D8%A7%D8%AC): Born 1966, joined al-Qassam Brigades in the Second Intifada, worked in Security and Protection Service of the Ministry of Interior in the position of <span style="color:#ffc000">"Service Officer Khan Yunis"</span>, died 27/12/2008 in a strike on security/police headquarters alongside other leaders
+			- Sheltered <span style="color:#ffc000">"many leaders of the first generation of the Qassam Brigades"</span>
+			- Formed the <span style="color:#ffc000">"first nucleus of the People's Army"</span> 
+	- Muhammad Ahmed Badawi (p. 2 - possible mismatch)
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1333/%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D8%AF%D9%88%D9%8A): Born mid-70s, joined al-Qassam Brigades in the Second Intifada, worked in the police with the rank of first lieutenant, died 28/12/2008 in raid on the <span style="color:#ffc000">Al-Mashtal site</span> which had been bombed the day before, [video](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1333/%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D8%AF%D9%88%D9%8A)
+	- Ibrahim Youssef Nofal (p. 5 - possible mismatch)
+		- Orient: Born 1966, died 27/12/2008, no extra data
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1327/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D9%8A%D9%88%D8%B3%D9%81-%D9%86%D9%88%D9%81%D9%84): Born 1966, worked in Qassam Infantry Unit, <span style="color:#ffc000">"joined early in the ranks of the security force formed by the Palestinian resistance government"</span>, granted the rank of captain, died 27/12/2008 at <span style="color:#ffc000">"the headquarters of the apparatus"</span> 
+			- Possibly not counted by Orient because he had left his al-Qassam role? 
+	- Baha Nahed Fawzi Skaik (p. 8)
+		- Orient: born 1980, active in the al-Qassam Brigades, active in the air defence unit
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2633/%D8%A8%D9%87%D8%A7%D8%A1-%D9%86%D8%A7%D9%87%D8%B6-%D8%B3%D9%83%D9%8A%D9%83): born 1982, joined al-Qassam in 2007, <span style="color:#ffc000">"participated in several jihadist missions to shoot at enemy Zionist helicopters and planes"</span>, targeted directly whilst "working in the air defence units
+	- Muhammad Naeem Abdel-Al (p. 20 - CHECK TRANSLATION)
+		- Orient: Born 1979, no affiliation, cop
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2364/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B9%D9%8A%D9%85-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84): Born 1979, joined al-Qassam in 2005, died in the first air strikes <span style="color:#ffc000">"training at the Passports Headquarters in Gaza, in a police cavalry course"</span>
+	- Muhammad Adnan Atallah (p.22 - possible mismatch)
+		- Orient: Born 1982, no affiliation, student at the Islamic University
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2165/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%AF%D9%86%D8%A7%D9%86-%D8%B9%D8%B7%D8%A7-%D8%A7%D9%84%D9%84%D9%87): Born 1983, joined al-Qassam in 2002, died <span style="color:#ffc000">"heading to his work in the Security and Protection Service in the Palestinian Police"</span>
+	- Omar Ahmed Abu Saeed (p. 31)
+		- Orient: Born 1984, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1311/%D8%B9%D9%85%D8%B1-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B3%D8%B9%D9%8A%D8%AF): Born 1984, joined al-Qassam in 2004, died at his work at the <span style="color:#ffc000">"Central Governorate Police Station, 'Abu Madin Center'"</span>, along with ~70 others
+	- Thaer Muhammad Madi (p. 38)
+		- Orient: Born 1986, active in the al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1296/%D8%AB%D8%A7%D8%A6%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%A7%D8%B6%D9%8A): Born 1987, joined the al-Qassam Brigades in 2003, <span style="color:#ffc000">"intructions were issued by the Qassam leadership to the mujahideen to deploy on the battlefield, each according to their specialty and according to the plans that had been drawn up"</span>, died in the bombings on security and police headquarters
+	- Naim al-Sayyid Mait (p. 26)
+		- Orient: born 1979, active in the al-Qassam Brigades, belonged to the Al Buraij Regiment
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1271/%D9%86%D8%B9%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%85%D9%8A%D8%B7): born 1978, joined al-Qassam in 2002, died <span style="color:#ffc000">"exercising his work duties in the police station"</span>
+	- Mahmoud Mustafa Ashour (p. 25) 
+		- Orient: Born 1987, active in the al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1270/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%B9%D8%A7%D8%B4%D9%88%D8%B1): Born 1986, joined al-Qassam in 2002, in an air strike whilst firing Qassam missiles
+			- Worked in <span style="color:#ffc000">"monitoring settlements and military sites... participated in planting bombs on the separation wire, where he had the honour of detonating an explosive device in a military jeep east of the Juhr al-Dik area... participated in firing mortar shells and Qassam rockets at military sites... participated in digging military tunnels"</span>
+	- Mazen Mahmoud Abdel Aziz Alyan (p. 15)
+		- Orient: Born 1966, active in al-Qassam, released from Israeli prison in 2008 after serving 9 years
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1269/%D9%85%D8%A7%D8%B2%D9%86-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%B9%D9%84%D9%8A%D8%A7%D9%86): Born 1967, joined al-Qassam in 1997, arrested four days before <span style="color:#ffc000">"planning to carry out a martyrdom operation in the Beersheba area"</span>, died <span style="color:#ffc000">"exercising his work duties in the police station in the middle of the strip"</span>
+	- Ahmed Muhammad Salama Al-Qarinawi (p. 2)
+		- Orient: Active in the al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1266/%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D9%86%D8%A7%D9%88%D9%8A): Born 1971, joined al-Qassam in 1992, died <span style="color:#ffc000">"exercising his work duties in a police station in the middle of strip"</span>
+	- Akram Muhammad Ahmed Abu Zariba (p. 7 - possible double translation?)
+		- Orient: Born 1976, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1264/%D8%A3%D9%83%D8%B1%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B2%D8%B1%D9%8A%D8%A8%D8%A9): Born 1975, joined al-Qassam in 1999, died in the <span style="color:#ffc000">passport headquarters</span>
+	- Ahmed Talal Muhammad Dader (p. 2)
+		- Orient: Born 1988, active in the al-Qassam Brigades, active in engineering unit dealing with preparation of explosive charges and weapons
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1262/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B7%D9%84%D8%A7%D9%84-%D8%AF%D8%A7%D8%AF%D8%B1): Born 1987, joined al-Qassam in 2004, died in the <span style="color:#ffc000">passport headquarters</span> <span style="color:#ffc000">"while the police were on duty"</span> 
+	- Abd al-Rahman Nizar Shehto (p. 30 - possible mismatch)
+		- Orient: Born 1985, active in al-Qassam, Nusirat Battalion 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1261/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D9%86%D8%B2%D8%A7%D8%B1-%D8%B4%D8%AD%D8%AA%D9%88): Born 1986, joined al-Qassam in 2005, died in the <span style="color:#ffc000">Security and Protection headquarters</span>
+	- Wael Yahya Abu Nimah (p. 10)
+		- Orient: born 1976, active in al-Qassam, active in Darj and Sabra battalions
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1255/%D9%88%D8%A7%D8%A6%D9%84-%D9%8A%D8%AD%D9%8A%D9%89-%D8%A3%D8%A8%D9%88-%D9%86%D8%B9%D9%85%D8%A9): born 1978, joined al-Qassam in 1998, active in al-Sabra and Tal al-Islam battalions, died <span style="color:#ffc000">"sitting in a lecture among his brothers from the youth of security and protection"</span>
+	- "Mohamed Fahmy" Abdel Fattah Fahmy (p. 23)
+		- Orient: born 1986, active in al-Qassam, active in the observation unit, fought the IDF in northwest Gaza, took part in digging tunnels, active in the information office
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1253/%D9%85%D8%AD%D9%85%D8%AF-%D9%81%D9%87%D9%85%D9%8A-%D8%B7%D8%A7%D9%81%D8%B4): born 1986, joined al-Qassam in 2006, repelled Zionist invasions, worked in the engineering corps and artillery corps, died ["firing missiles at Zionist targets"](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1253/%D9%85%D8%AD%D9%85%D8%AF-%D9%81%D9%87%D9%85%D9%8A-%D8%B7%D8%A7%D9%81%D8%B4)
+	- Abdul Rahman Ahmed al-Shoubaki (p. 30)
+		- Orient: born 1986, active in the al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1248/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B4%D9%88%D8%A8%D9%83%D9%8A): born 1984, joined al-Qassam 2005, worked in artillery, engineering and defensive planning, died in bombings of the <span style="color:#ffc000">Ministry of the Interior buildings</span>
+	- Tamer Haider Hussein al-Qarinawi (p. 27)
+		- Orient: born 1987, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1247/%D8%AA%D8%A7%D9%85%D8%B1-%D8%AD%D9%8A%D8%AF%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D9%86%D8%A7%D9%88%D9%8A): born 1986, joined al-Qassam in 2002, died <span style="color:#ffc000">"exercising his work duties at the Abu Medin police station"</span>
+	- Samer Haider Hussein al-Qarinawi (p. 39)
+		- Orient: born 1985, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1246/%D8%B3%D8%A7%D9%85%D8%B1-%D8%AD%D9%8A%D8%AF%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D9%86%D8%A7%D9%88%D9%8A): born 1987, joined al-Qassam in 2004, died <span style="color:#ffc000">"exercising his work duties at the Al-Zahraa"</span> police station
+	- Muhammad Hisham al-Zahra (p. 17)
+		- Orient: born 1987, active in al-Qassam brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1245/%D9%85%D8%AD%D9%85%D8%AF-%D9%87%D8%B4%D8%A7%D9%85-%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A9): born 1987, joined al-Qassam in 2004, died <span style="color:#ffc000">"exercising his work duties at the Abu Medin police station"</span>
+	- Khaled Abdel Fattah Abu Hasna (p. 11)
+		- Orient: born 1966, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1244/%D8%AE%D8%A7%D9%84%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D8%AD-%D8%A3%D8%A8%D9%88-%D8%AD%D8%B3%D9%86%D8%A9): born 1966, joined al-Qassam in 2000, died <span style="color:#ffc000">"exercising his work duties in the police station in the middle of the Strip"</span>
+	- Ashraf Hamada Abu Kwaik (p. 8)
+		- Orient: born 1986, active in the al-Qassam battalions, active in the anti-tank unit
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1243/%D8%A3%D8%B4%D8%B1%D9%81-%D8%AD%D9%85%D8%A7%D8%AF%D8%A9-%D8%A3%D8%A8%D9%88-%D9%83%D9%88%D9%8A%D9%83): born 1987, joined al-Qassam in 2003, died <span style="color:#ffc000">"exercising his work duties in the General Investigation Centre in Deir al-Balah"</span>
+	- Muhammad Khamis Bakr (p. 16)
+		- Orient: born 1986, active in al-Qassam. Sabra Battalion
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1235/%D9%85%D8%AD%D9%85%D8%AF-%D8%AE%D9%85%D9%8A%D8%B3-%D8%A8%D9%83%D8%B1): born 1985, joined al-Qassam in 2004, died <span style="color:#ffc000">"at his usual place of work in the Abbas station of the Palestinian police"</span>
+			- Worked in planting explosive devices and ambushes for the Special Forces
+			- Seems to have entered the building after the first strike, attempting to save people
+	- Muhammad Abdel Karim Al-Aklouk
+		- Orient: born 1984, active in al-Qassam, office director, commander of security, member of the sniper unit
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1234/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D9%83%D9%84%D9%88%D9%83): born 1985, joined al-Qassam in early 00s (al-Aqsa Intifada), died in his workplace <span style="color:#ffc000">"in the Security and Protection Service"</span>
+			- Specialised in sniping, launched rockets at Zionist settlements, planted bombs, became <span style="color:#ffc000">"deputy emir of a faction"</span>, rose to become commander of the sniper unit
+	- Maher Ismail Azzan (p. 15)
+		- Orient: born 1971, active in al-Qassam Brigades, arrested in Israel 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1232/%D9%85%D8%A7%D9%87%D8%B1-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%B9%D8%B2%D8%A7%D9%85): born 1971, <span style="color:#ffc000">"joined the ranks of the Executive Force... to maintain security and safety in the Gaza Strip"</span>, joined al-Qassam after his release ~2003, killed at the door of al-Katiba Mosque in Gaza City 
+			- Arrested several times, including 10 years in prison for killing a number of Zionist soldiers
+	- Hisham Muhammad Abu Sharar (p. 10)
+		- Orient: born 1968, al-Qassam Brigades operative in the Western al-Tufah Regiment
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1230/%D9%87%D8%B4%D8%A7%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B4%D8%B1%D8%A7%D8%B1): born 1969, joined al-Qassam mid 00s, died <span style="color:#ffc000">"at his workplace at the Security and Protection headquarters"</span>
+	- Bassem Omar Jundia (p. 8)
+		- Orient: Born 1965, active in al-Qassam
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1225/%D8%A8%D8%A7%D8%B3%D9%85-%D8%B9%D9%85%D8%B1-%D8%AC%D9%86%D8%AF%D9%8A%D8%A9): Born 1966, involved in military action since the First Intifada, died at the <span style="color:#ffc000">"Civil Administration site"</span>
+	- Muhammad Zuhair Abu Shaaban, (p. 17)
+		- Orient: Born 1988, active in the al-Qassam Brigades, active in air defence
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1224/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A3%D8%A8%D9%88-%D8%B4%D8%B9%D8%A8%D8%A7%D9%86): Born 1984, joined al-Qassam at unspecified date, died at the <span style="color:#ffc000">"Security and Protection headquarters"</span>
+	- Anwar Rafiq Atallah, (p. 7)
+		- Orient: Born 1978, active in al-Qassam, active in the artillery unit of the southern Radwan battalion
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1219/%D8%A3%D9%86%D9%88%D8%B1-%D8%B1%D9%81%D9%8A%D9%82-%D8%B9%D8%B7%D8%A7-%D8%A7%D9%84%D9%84%D9%87): born 1978, joined al-Qassam during the Second Intifada, worked in the missile unit, rose to the rank of <span style="color:#ffc000">sergeant in the police</span>, died firing rockets
+	- Sharaf Muhammad Abu Shamala, (p. 38)
+		- Orient: Born 1986, active in al-Qassam Battalions
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1217/%D8%B4%D8%B1%D9%81-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B4%D9%85%D8%A7%D9%84%D8%A9): Born 1987, joined al-Qassam Brigades in 2007, died in "The Forum" (Ansar headquarters) after being called there by the <span style="color:#ffc000">Security and Protection Service</span>  
+	- Ezz al-Din Rafiq Atallah (p. 32)
+		- Orient: born in 1988, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1216/%D8%B9%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%B1%D9%81%D9%8A%D9%82-%D8%B9%D8%B7%D8%A7-%D8%A7%D9%84%D9%84%D9%87): born in 1989, <span style="color:#ffc000">"played a major role in maintaining security inside the Gaza Strip"</span>, <span style="color:#ffc000">"joined the Palestinian police"</span>, died in the passport headquarters in Gaza City
+			- Doesn't say when he joined but lists him as <span style="color:#ffc000">"Mujahid Qassami"</span> and has several pictures of him in military gear
+	- Jamil Nasri Muhammad Abdel-Al (p. 9 - weird translation)
+		- Orient: Born 1980, active in al-Qassam 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1215/%D8%AC%D9%85%D9%8A%D9%84-%D9%86%D8%B5%D8%B1%D9%8A-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84): Born 1981, joined al-Qassam at unspecified date, died at the door of the Al-Katiba Mosque in Gaza City
+			- 3rd person to die at this location; no mention of police or security role
+	- Suhaib Fawzi Salman Abdel-Al (p. 27)
+		- Orient: Born 1980, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1214/%D8%B5%D9%87%D9%8A%D8%A8-%D9%81%D9%88%D8%B2%D9%8A-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84): Born 1982, joined al-Qassam at an unspecified date, <span style="color:#ffc000">"worked in the Palestinian police chanting band"</span>, died in an airstrike on the passport building in Gaza City
+	- Muhammad Nafez Shaaban Muhaisen (p. 19)
+		- Orient: Born 1973, active in the al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1212/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%A7%D9%81%D8%B0-%D9%85%D8%AD%D9%8A%D8%B3%D9%86): Born 1982, joined al-Qassam in 2006, died working in the <span style="color:#ffc000">passport office</span>
+	- Muhammad Ibrahim Abu Amer (p. 16)
+		- Orient: Born 1986, active in the al-Qassam Battalions 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1203/%D9%85%D8%AD%D9%85%D8%AF-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A3%D8%A8%D9%88-%D8%B9%D8%A7%D9%85%D8%B1): Born 1986, joined al-Qassam sometime after 2002, worked in the Security and Protection Service of the Ministry of the Interior moving <span style="color:#ffc000">"from one headquarters to another according to what the work required"</span>, died in the Central Governorate Police Station
+	- Ismail Ahmed Salem Hamdan (p. 6)
+		- Orient: Born 1974, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1196/%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%A3%D8%AD%D9%85%D8%AF-%D8%B3%D8%A7%D9%84%D9%85-%D8%AD%D9%85%D8%AF%D8%A7%D9%86): born 1974, joined al-Qassam in 2008, died at the <span style="color:#ffc000">Civil Defence site</span> in Al-Zahraa
+	- Ramez Talal Ahmed Hamdan (p. 35) 
+		- Orient: Born 1980, operative in the al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1195/%D8%B1%D8%A7%D9%85%D8%B2-%D8%B7%D9%84%D8%A7%D9%84-%D8%AD%D9%85%D8%AF%D8%A7%D9%86): born 1980, joined al-Qassam in 2008, died at the <span style="color:#ffc000">Civil Defence Site in al-Zahraa</span> (also referred to as headquarters of security services)
+	- Adnan Ahmed al-Buhaisi (p. 31 - weird translation)
+		- Orient: Born 1981, active in al-Qassam brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1193/%D8%B9%D8%AF%D9%86%D8%A7%D9%86-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D9%8A%D8%B5%D9%8A): joined al-Qassam in the 2nd Intifada, died working at the <span style="color:#ffc000">Madinat Al-Zahraa Police Station</span>
+	- Muhammad Fouad Abu Sabra (p. 23 - weird translation)
+		- Orient: Born 1987, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1192/%D9%85%D8%AD%D9%85%D8%AF-%D9%81%D8%A4%D8%A7%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B5%D8%A8%D8%B1%D8%A9): Born 1989, joined al-Qassam in 2005, died at the <span style="color:#ffc000">Marine Police site</span> on the beach of Deir al-Balah
+	- Diaa Talal Al-Habil (p. 9)
+		- Orient: born 1986, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1188/%D8%B6%D9%8A%D8%A7%D8%A1-%D8%B7%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%87%D8%A8%D9%8A%D9%84): born 1986, joined Hamas in 2006, worked in <span style="color:#ffc000">"intervention and order-preserving forces in the Ministtry of the Interior... that was formed after the victory of the Islamic Movement in the Palestinian parliamentary elections"</span>, escaped a strike at one of the security sites, went to pray at the Al-Katib Mosque and were struck at the gates
+	- Shadi Abdel Majeed Al-Sabakhi (p. 37)
+		- Orient: born 1978, active in al-Qassam brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1185/%D8%B4%D8%A7%D8%AF%D9%8A-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D8%A8%D8%A7%D8%AE%D9%8A): born 1979, joined al-Qassam in 2002, worked as a trainer, died <span style="color:#ffc000">"at the helm of his work at the central military camps police station, Abu Medin"</span>
+			- Also worked in digging tunnels and launching rockets
+	- Ibrahim Hassan Ibrahim al-Jamal (p. 5)
+		- Orient: Born 1982, active in al-Qassam Battalions
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1184/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%AC%D9%85%D9%84): born 1982, joined al-Qassam in 2001, died <span style="color:#ffc000">"at the helm of his work at the central military camps police station, Abu Medin"</span>
+	- Rizq Mahoud Salman Salman (p. 36)
+		- Orient: Born 1987, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1165/%D8%B1%D8%B2%D9%82-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%B3%D9%84%D9%85%D8%A7%D9%86): Born 1985, joined al-Qassam at an unspecified date, died stationed at the <span style="color:#ffc000">"Intervention and Order Preservation Forces"</span> site in northern Gaza
+	- Mustafa Youssef Al-Khatib (p. 24)
+		- Orient: Born 1982, active in al-Qassam
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1155/%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%8A%D9%88%D8%B3%D9%81-%D8%A7%D9%84%D8%AE%D8%B7%D9%8A%D8%A8): Born 1982, joined al-Qassam in 2002, worked in Qassam Artillery, died at his work in the <span style="color:#ffc000">"Abu Medin Police Station"</span>
+	- Abd al-Rahman Nazmi Hamdan (p. 30)
+		- Orient: born 1985, active in al-Qassam
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1154/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D9%86%D8%B8%D9%85%D9%8A-%D8%AD%D9%85%D8%AF%D8%A7%D9%86): born 1985, joined al-Qassam in 2002, <span style="color:#ffc000">"stationed on the borders of the Nuseirat camp, and a policeman" </span>, participated in repelling attacks, preparing missile platforms and firing mortar shells, digging tunnels; died in <span style="color:#ffc000">"Abu Madin Police Station"</span>
+	- Youssef Muhammad Diab (p. 14)
+		- Orient: Born 1972, active in al-Qassam air defence in the Southern Nuseirat Battalion
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1152/%D9%8A%D9%88%D8%B3%D9%81-%D9%85%D8%AD%D9%85%D8%AF-%D8%AF%D9%8A%D8%A7%D8%A8): Born 1973, joined al-Qassam in 2003 working in air defence and planting bombs at the border wall, died at his work in the <span style="color:#f894ff">Abu Madin police station</span>
+			- <span style="color:#ffc000">"May God... grant him the credit for fighting the enemies of God 'the Jews'"</span>
+	- Youssef Ibrahim Muhammad Thari (p. 14)
+		- Orient: Born 1973, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1150/%D9%8A%D9%88%D8%B3%D9%81-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%AB%D8%A7%D8%B1%D9%8A): Born 1972, joined al-Qassam in 2004, died working in a <span style="color:#ffc000">"police position in Jabalia"</span>
+	- Ghassan Mahmoud Abu Awad (p. 36)
+		- Orient: Born 1976, active in al-Qassam Battalions, active in air defence
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1136/%D8%BA%D8%B3%D8%A7%D9%86-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B9%D9%88%D8%A7%D8%AF): Born 1977, joined al-Qassam in 2002, died <span style="color:#ffc000">"as fate would have it... on a police mission in "The Forum" area in Gaza"</span>
+	- Rami Suleiman Abu Al-Sheikh (p. 35)
+		- Orient: Born 1982, active in al-Qassam Brigades, active in the artillery unit
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1135/%D8%B1%D8%A7%D9%85%D9%8A-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE): Born 1982, joined al-Qassam in early 2003, launched mortar shells and Qassam rockets towards Israeli, died <span style="color:#ffc000">"at his work at the Abu Madin police station"</span>
+	- Ismail Jihad Ismail Ghoneim (p. 6)
+		- Orient: born 1984, no affiliation
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1124/%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%AC%D9%87%D8%A7%D8%AF-%D8%BA%D9%86%D9%8A%D9%85): Born 1985, joined al-Qassam as "a student in high school", worked on patrol, monitoring Israeli movements, planting bombs and firing shells at vehicles and tanks, participated in digging tunnels, died in the site of the <span style="color:#ffc000">"Intervention and Order Preservation Forces"</span>
+	- Islam Muhammad Abd al-Rahim al-Sahar (p. 8)
+		- Orient: born 1984, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1119/%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B3%D8%AD%D8%A7%D8%B1): Born 1985, joined al-Qassam in 2004, participated in digging tunnels, monitoring the borders, setting up mines, repelling incursions, died in a meeting with the leaders of <span style="color:#ffc000">"Security and Protection"</span> at the <span style="color:#ffc000">"Security Forum"</span>
+	- Basil Jihad Muhammad Dababesh (p. 8)
+		- Orient: born 1975, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1118/%D8%A8%D8%A7%D8%B3%D9%84-%D8%AC%D9%87%D8%A7%D8%AF-%D8%AF%D8%A8%D8%A7%D8%A8%D8%B4): born 1975, stationed "as a Qassam lion" at the borders, died at the <span style="color:#ffc000">passport headquarters</span>
+	- Arafat Faraj Allah, Faraj Allah (p. 34)
+		- Orient: born 1973, active in al-Qassam 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1112/%D8%B9%D8%B1%D9%81%D8%A7%D8%AA-%D9%81%D8%B1%D8%AC-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D8%B1%D8%AC-%D8%A7%D9%84%D9%84%D9%87): born 1973, joined al-Qassam in 2001, died at his work at <span style="color:#ffc000">Al-Zahraa Police Station</span>
+	- Abdullah Talal Al-Sanea (p. 30)
+		- Orient: born 1973, active in al-Qassam Brigades, sniper, escort and security guard of senior Hamas official Mahmoud al-Zahar
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1111/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%B7%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B5%D8%A7%D9%86%D8%B9): Born 1981, joined al-Qassam in early 00s, commander of the sniping unit, died at <span style="color:#ffc000">"The Forum"</span> 
+	- Abdul Karim Saeed Wahba (p. 29)
+		- Orient: born 1983, active in al-Qassam, active in air defence
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1110/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%88%D9%87%D8%A8%D8%A9): born 1984, joined al-Qassam mid 00s, formed an Air Defence Unit in 2007, died after obtaining <span style="color:#ffc000">"administrative position in the Palestinian police forces"</span>
+	- Abdel Fattah Mahmoud Abu Atiwi (p. 30)
+		- Orient: born 1987, active in al-Qassam 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1109/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D8%AD-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B9%D8%B7%D9%8A%D9%88%D9%8A): born 1980, joined al-Qassam ~2003, stationed on the borders, died at the <span style="color:#ffc000">Abu Madin site</span>
+	- Asim Muhammad Abu Kamil (p. 29)
+		- Orient: born 1981, active in al-Qassam Battalions
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1108/%D8%B9%D8%A7%D8%B5%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D9%83%D9%85%D9%8A%D9%84): born 1980, joined al-Qassam in 2000, died at the <span style="color:#ffc000">Abu Madin site</span>
+	- Anas Sobhi Abu Nar (p. 7)
+		- Orient: born 1985, active in al-Qassam Battalions
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1107/%D8%A3%D9%86%D8%B3-%D8%B5%D8%A8%D8%AD%D9%8A-%D8%A3%D8%A8%D9%88-%D9%86%D8%A7%D8%B1): born 1985, joined al-Qassam in 2005, monitored Israeli movements and launched rockets, died at the <span style="color:#ffc000">"Civil Defence site in Madinat Al-Zahra"</span>
+	- Ahmed Abdel Majeed Abu Odeh (p. 3)
+		- Orient: Born 1982, active in al-Qassam Brigades, part of the anti-tank unit, joined the executive force of Hamas in 2007
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1106/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B9%D9%88%D8%AF%D8%A9): Born 1982, joined al-Qassam in 2005, lieutenant of the <span style="color:#ffc000">"Executive Force of the Ministry of Interior"</span>, died at work in the Madinat al-Zahra police site
+	- Nizar Attiya Abu Salem (p. 26)
+		- Orient: Born 1973, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1105/%D9%86%D8%B2%D8%A7%D8%B1-%D8%B9%D8%B7%D9%8A%D8%A9-%D8%AD%D8%B3%D9%86-%D8%A3%D8%A8%D9%88-%D8%B3%D8%A7%D9%84%D9%85): Born 1973, joined al-Qassam in 2004, one of the first employees in the "Protection Security" apparatus, formed after Hamas' win in the legislative elections, then moved to work in the police force, died after being mortally wounded in the Al-Zahraa Police Station
+			- <span style="color:#ffc000">"After the victory of the Islamic Resistance Movement - Hamas - in the legislative elections and coinciding with the formation of the “Protection Security” apparatus"</span>
+	- Samer Ahmed Deeb Ahmed (p. 27)
+		- Orient: Born 1981, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1098/%D8%B3%D8%A7%D9%85%D8%B1-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF): Born 1978, joined al-Qassam in 2002, died at a meeting of leaders of the <span style="color:#ffc000">"Security and Protection apparatus... inside the Security Forum Site"</span>
+	- Shaalan Abdul Latif Abdul Salam (p. 38)
+		- Orient: born 1975, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1096/%D8%B4%D8%B9%D9%84%D8%A7%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D8%B7%D9%8A%D9%81-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85): born 1976, joined al-Qassam at an unspecified date, stationed at the borders, died working at <span style="color:#ffc000">"the Forum's headquarters"</span>
+	- Mahmoud Mutawa al-Khalidi (p. 25)
+		- Orient: born 1979, <span style="color:#f894ff">no affiliation given</span>
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1094/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%85%D8%B7%D8%A7%D9%88%D8%B9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A): born 1969, joined al-Qassam at an unspecified date, worked on making hand grenades in the early 90s, one of the first stationed at the Gaza border, died at his work in the Palestinian police 
+	- Rafat Nabil Shamiya (p. 36)
+		- Orient: born 1980, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1093/%D8%B1%D8%A3%D9%81%D8%AA-%D9%86%D8%A8%D9%8A%D9%84-%D8%B4%D8%A7%D9%85%D9%8A%D8%A9): born 1980, joined al-Qassam at an unspecified date, worked in the Palestinian Police and at the borders, died at the <span style="color:#ffc000">Forum headquarters</span>
+	- Amjad Maher Mushtaha (p. 7)
+		- Orient: born 1980, active in the Al-Qassam Battalions & Special Forces
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1091/%D8%A3%D9%85%D8%AC%D8%AF-%D9%85%D8%A7%D9%87%D8%B1-%D9%85%D8%B4%D8%AA%D9%87%D9%89): born 1985, joined al-Qassam ~2007, member of the Special Qassam Unit, died at the passport headquarters on a one-week <span style="color:#ffc000">"military course in the ranks of the Palestinian police"</span>
+	- Rizq Jamal Rizq al-Haddad (p. 36)
+		- Orient: born 1987, active in al-Qassam
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1081/%D8%B1%D8%B2%D9%82-%D8%AC%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF): born 1988, joined al-Qassam in 2005, worked in the <span style="color:#ffc000">"Explosives Engineering Department of the Palestinian Police"</span>, died in the <span style="color:#ffc000">passport headquarters</span>
+	- Magdi Nader Jumaa Jabr (p. 15)
+		- Orient: born 1987, active in al-Qassam, active in the sniper unit
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1065/%D9%85%D8%AC%D8%AF%D9%8A-%D9%86%D8%A7%D8%AF%D8%B1-%D8%AC%D8%A8%D8%B1): born 1987, joined al-Qassam in 2005, fought on Eastern borders, participated in digging tunnels, died in <span style="color:#ffc000">"Abu Madin"</span> police site
+	- Muhammad Salem Abu Abda (p. 20)
+		- Orient: born 1977, active in al-Qassam, active in Air Defence
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1063/%D9%85%D8%AD%D9%85%D8%AF-%D8%B3%D8%A7%D9%84%D9%85-%D8%A3%D8%A8%D9%88-%D8%B9%D8%A7%D8%A8%D8%AF%D8%A9): born 1979, joined al-Qassam in 2006, deputy commander of the Air Defence Force, died <span style="color:#ffc000">"at the helm of his work at the Abu Madin Palestinian Police Station"</span>
+	- Muhammad Ahmad Abd al-Rahman Tabasha (p. 16)
+		- Orient: born 1981, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1060/%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D8%B7%D8%A8%D8%A7%D8%B4%D8%A9): born 1980, joined al-Qassam in 2005, died <span style="color:#ffc000">"at his workplace at the Central Camps Police Headquarters"</span>
+	- Asim Ahmed Al-Shaer (p. 10 - possible mismatch)
+		- Orient: born 1986, active in al-Qassam Brigades, joined executive force in 2006
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1050/%D8%B9%D8%A7%D8%B5%D9%85-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B4%D8%A7%D8%B9%D8%B1): born 1982, joined al-Qassam in 2002, carried out <span style="color:#ffc000">"many operations to launch rockets at Zionist settlements"</span>, died <span style="color:#ffc000">"at his work at the headquarters of the Security and Protection Service called The Forum"</span>
+	- Muhammad Khamis Haboush (p. 17)
+		- Orient: born 1985, active in al-Qassam, active in the executive force, "police"
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1045/%D9%85%D8%AD%D9%85%D8%AF-%D8%AE%D9%85%D9%8A%D8%B3-%D8%AD%D8%A8%D9%88%D8%B4): born 1981, joined al-Qassam in 2004, specialised in sniping, moved to the engineering unit, killed attempting to rescue the wounded at the <span style="color:#ffc000">Al-Abbas Police Station</span> <span style="color:#f894ff">(not one of the employees of the centre)</span>
+	- Ahmed Fouad Mahmoud al-Askari (p. 4)
+		- Orient: born 1986, active in al-Qassam "in his car"
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1040/%D8%A3%D8%AD%D9%85%D8%AF-%D9%81%D8%A4%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A): born 1987, joined al-Qassam in 2005, participated in repelling incursions, preparing devices, digging tunnels and monitoring the targets, killed in his car driving to meet his injured brother at al-Shifa
+	- Muhammad Hussein Abdul Raouf al-Mabhouh (p. 18)
+		- Orient: born 1980, active in al-Qassam
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1035/%D9%85%D8%AD%D9%85%D8%AF-%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%A8%D8%AD%D9%88%D8%AD): born 1980, joined al-Qassam in 2002, died in a meeting of the <span style="color:#ffc000">"leaders of the Security and Protection apparatus... inside the Security Forum Site"</span>
+			- Fired rockets, worked on tunnels, confronted incursions, participated in ambushes 
+	- Hamid Ahmed Muhammad al-Araj (p. 13)
+		- Orient: born 1982, <span style="color:#f894ff">no affiliation listed</span>
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1032/%D8%AD%D9%85%D9%8A%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%AC): born 1981, joined al-Qassam in 2007, died in the <span style="color:#ffc000">passport building</span>
+			- Repelled incursions, set up devices, participated in digging tunnels
+	- Munir Mansour Esbeita (p. 24)
+		- Orient: born 1983, active in al-Qassam, engineering unit, preparation of explosives and weapons 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1030/%D9%85%D9%86%D9%8A%D8%B1-%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D8%A7%D8%B3%D8%A8%D9%8A%D8%AA%D8%A9): born 1982, joined al-Qassam in 2006, <span style="color:#ffc000">died working at the passport headquarters</span> 
+			- Specialised in the military armour unit, setting up bombs, monitoring movements and repelling incursions
+	- Ahmed Nasser Ahmed Tabil (p. 3)
+		- Orient: born 1981, joined al-Qassam in 2003, made observations, planted explosives, dug tunnels, trained fighters, active in the suicide unit, active in the secret general security apparatus, killed in police HQ
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1026/%D8%A3%D8%AD%D9%85%D8%AF-%D9%86%D8%A7%D8%B5%D8%B1-%D8%B7%D8%A8%D9%8A%D9%84): born 1983, joined al-Qassam in 2003, worked in the <span style="color:#ffc000">"secret General Security agency"</span>, died at the site of the <span style="color:#ffc000">"Intervention and Order Preservation Forces"</span>
+			- Participated in digging tunnels, member of the martyrdom unit, repelled incursions, planted bombs, fired shells at vehicles and tanks, monitored enemy movements
+	- Muhammad Saadi al-Qatati (p. 21)
+		- Orient: born 1979, active in al-Qassam Brigades, planted explosives, worked in the police, killed while firing a heavy machine gun at Israeli helicopters
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1025/%D9%85%D8%AD%D9%85%D8%AF-%D8%B3%D8%B9%D8%AF%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B7%D9%8A): born 1979, joined al-Qassam in 2008, member of the air defence unit, was <span style="color:#ffc000">"carrying out his work within the ranks of the Palestinian Police"</span>, survived the bombing, treated the injured, went home, came back out to fire at enemy planes and died in an air strike - [video](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1025/%D9%85%D8%AD%D9%85%D8%AF-%D8%B3%D8%B9%D8%AF%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B7%D9%8A)
+	- Nasser Abdullah Al-Ghurra (p. 26)
+		- Orient: born 1962, active in al-Qassam, joined ~2004, active in the engineering unit
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1023/%D9%86%D8%A7%D8%B5%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%BA%D8%B1%D8%A9): born 1962, worked in the "Engineering Unit", died during a closed session at the <span style="color:#ffc000">passport headquarters</span>
+	- Muhammad Nabil Barghouth (p. 20)
+		- Orient: born 1980, active in al-Qassam, joined in 2000, launched rockets at settlements, deputy commander of artillery unit
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1022/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%A8%D9%8A%D9%84-%D8%A8%D8%B1%D8%BA%D9%88%D8%AB): born 1980, joined al-Qassam in 2000, deputy commander of artillery unit, died <span style="color:#ffc000">"at the head of his work at the security and protection site"</span>
+	- Ashraf Zuhair Mahmoud al-Sharbasi (p. 8)
+		- Orient: born 1975, active in al-Qassam, commander of the guard of Hamas, commander of a platoon in the Martyr Regiment Fawzi Abu al-Qara, launched rockets and mortars at Israeli settlements
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1020/%D8%A3%D8%B4%D8%B1%D9%81-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D8%A8%D8%A7%D8%B5%D9%8A): born 1975, joined al-Qassam in 2001, worked in the "Special Police", became "the emir of an entire faction of the Mujahideen factions", launched rockets and mortar shells at settlements, died in a <span style="color:#ffc000">"meeting of leaders of the Security and Protection apparatus... inside the Security Forum Site"</span>
+	- Muhammad Ziyad al-Nabih (p. 17)
+		- Orient: born 1981, "active in the force that secured the police chief", active in al-Qassam, joined in 2004, worked in Palestinian Police 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1019/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%8A%D8%A7%D8%AF-%D8%A7%D9%84%D9%86%D8%A8%D9%8A%D9%87): born 1981, joined al-Qassam in 2004, stationed at he borders, killed with <span style="color:#ffc000">"dozens of his colleagues in the Palestinian police, participating in a military police course at the passport headquarters"</span>
+	- Ali Abdel Rahim Muhammad Awad (p. 34) 
+		- Orient: born 1986, active in al-Qassam, joined in 2005, stationed at the border, prepared explosive charges, fought IDF, launched rockets and mortar bombs, dug tunnels
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1018/%D8%B9%D9%84%D9%8A-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-%D8%B9%D9%88%D8%B6): born 1989, joined al-Qassam in 2005, killed in the <span style="color:#ffc000">"site of the Intervention and Order Preservation Forces"</span>
+			- Set up devices, repelled incursions, launched rockets, monitored the border, dug and prepared tunnels
+	- Muhammad Tawfiq al-Nimrah (p. 23)
+		- Orient: born 1986, active in al-Qassam, joined al-Qassam in 2006, took courses in riding horses, operating mortars and first aid, stationed at the front
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1016/%D9%85%D8%AD%D9%85%D8%AF-%D8%AA%D9%88%D9%81%D9%8A%D9%82-%D8%A7%D9%84%D9%86%D9%85%D8%B1%D8%A9): born 1986, joined al-Qassam in 2006, specialised in launching rockets, shooting light and medium weapons, repelling incursions, killed attenting a training session in the <span style="color:#ffc000">passport headquarters</span> <span style="color:#ffc000">"near his colleagues and Major General Tawfiq Jabr, the police director"</span>
+	- Bahaa Ziyad al-Gharabli (p. 8)
+		- Orient: born 1985, joined Hamas in 2001, active in al-Qassam, joined in 2006
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1012/%D8%A8%D9%87%D8%A7%D8%A1-%D8%B2%D9%8A%D8%A7%D8%AF-%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8%D9%84%D9%8A): born 1985, joined Hamas 2001, joined al-Qassam 2006, worked in armour and air defence, killed <span style="color:#ffc000">"at the head of his work performing his jihad and religious duty in one of the security headquarters"</span>
+	- Saad Muhammad Aslim (p. 29)
+		- Orient: born 1980, active in al-Qassam brigades, joined in 2000, infantry, anti-aircraft fire, launched rockets at Sderot, launched mortars at IDF positions, fired anti-aircraft, promoted to commander
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1006/%D8%B3%D8%B9%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A5%D8%B3%D9%84%D9%8A%D9%85): born 1980, joined al-Qassam in 2000, "commander of the air defence unit", fired rockets and mortar shells, killed <span style="color:#ffc000">"at work at the passport headquarters in Gaza City, checking on the soldiers"</span>
+	- Omar Said Omar al-Laham (p. 31)
+		- Orient: born 1987, active in al-Qassam, stationed at the front, <span style="color:#f894ff">not listed as police</span>
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1005/%D8%B9%D9%85%D8%B1-%D8%B3%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%84%D8%AD%D8%A7%D9%85): born 1987, joined al-Qassam in 2007/08, stationed on the borders, killed on 27/12/2008 (doesn't say where)
+	- Abdullah Salim al-Laham (p. 31)
+		- Orient: born 1989, active in al-Qassam, killed in attack on police station in Deir al-Balah
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1004/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%B3%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%84%D8%AD%D8%A7%D9%85): born 1989, joined al-Qassam ~2007, planted explosives, dug tunnels, worked at the borders, killed in the <span style="color:#ffc000">"Palestinian police site west of the city of Deir al-Balah"</span>
+	- Yasser Muhammad al-Laham (p. 14)
+		- Orient: born 1980, active in al-Qassam, trained in launching rockets, sniping, stationed in forward positions in the eastern region, launched rockets at settlements, planted explosives, was in charge of digging tunnels, killed in police station in Deir al-Balah
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1003/%D9%8A%D8%A7%D8%B3%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%84%D8%AD%D8%A7%D9%85): born 1980, joined al-Qassam mid 00s, "best station on the borders of the eastern city", killed in <span style="color:#ffc000">"the Palestinian police site west of the city of Deir al-Balah"</span>
+			- Planted explosives <span style="color:#ffc000">"sowing certain death for the Zionists"</span>, launched rockets, <span style="color:#ffc000">"prince of the tunnel-digging groups"</span>
+	- Ahmed Salah al-Laham (p. 3)
+		- Orient: born 1986, active in al-Qassam, participated in suicide fighters unit, stationed in forward positions, planted explosives, dug tunnels, killed the in police station in Deir al-Balah
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1002/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D9%84%D8%AD%D8%A7%D9%85): born 1986, joined al-Qassam ~2006, one of the <span style="color:#ffc000">"Mujahideen of the Qassamiya Martyrdom Unit"</span>, killed in <span style="color:#ffc000">"the Palestinian police site west of the city of Deir al-Balah"</span>
+	- Hossam Muhammad Hammad al-Majaida (p. 12)
+		- Orient: born 1982, active in al-Qassam, joined Hamas 2004, al-Qassam 2005, active in the executive force of Palestinian police established in 2006
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1000/%D8%AD%D8%B3%D8%A7%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%8A%D8%AF%D8%A9): born 1982, joined al-Qassam 2005, <span style="color:#ffc000">"joined the ranks of the Executive Force" </span>founded in 2006, killed <span style="color:#ffc000">"at the Palestinian police headquarters"</span>
+	- Wissam Ibrahim Ahmed Ayyash (p. 11)
+		- Orient: born 1985, joined al-Qassam 2005, nephew of Ismail Haniyeh 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/986/%D9%88%D8%B3%D8%A7%D9%85-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%B9%D9%8A%D8%A7%D8%B4): born 1985, joined al-Qassam in 2005, killed <span style="color:#ffc000">"following a Zionist bombing of the naval police site in the city of Deir al-Balah"</span>, participated in many sorties and raids on the borders, no mention of Haniyeh 
+	- Muhammad Younis Abu Lebda (p. 18)
+		- Orient: born 1985, active in al-Qassam, joined 2001, launched rockets, dug tunnels, killed in Deir al-Balah police station
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/984/%D9%85%D8%AD%D9%85%D8%AF-%D9%8A%D9%88%D9%86%D8%B3-%D8%A3%D8%A8%D9%88-%D9%84%D8%A8%D8%AF%D8%A9): born 1985, joined al-Qassam 2001, killed <span style="color:#ffc000">"following a Zionist bombing of the Southern Police Station in the city of Deir al-Balah"</span>
+	- Suhaib Muhammad Asfa (p. 27)
+		- Orient: born 1987, active in al-Qassam, joined 2005, stationed east of Deir-al Balah, dug tunnels, killed in attack on naval police station
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/982/%D8%B5%D9%87%D9%8A%D8%A8-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%B3%D9%81%D9%87): borm 1987, joined al-Qassam 2005, member of the <span style="color:#ffc000">"Special Divisional Unit"</span>, dug tunnels, died <span style="color:#ffc000">"at his workplace in the Naval Police" </span>
+	- Tamer Mohamed Asfa (p. 39)
+		- Orient: born 1980, joined al-Qassam in 2001, stationed at the border, launched missiles at settlements, dug tunnels, killed whilst digging a tunnel
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/979/%D8%AA%D8%A7%D9%85%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%B3%D9%81%D9%87): born 1980, joined al-Qassam 2001, stationed at the border, launched rockets at settelements, dug tunnels, killed in an air strike whilst digging a tunnel
+	- Mahmoud Jamil Fakhr al-Khalidi (p. 24)
+		- Orient: born 1981, commander in al-Qassam, stationed at the border
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/974/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%AC%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A): born 1981, "emir of a group" in al-Qassam, stationed at the borders, fired RPG and Yassin shells, killed in attack on the <span style="color:#ffc000">"Navy site"</span>
+	- Muhammad Khaled Shuhaybar (p. 17) 
+		- Orient: born 1987, joined al-Qassam 2007, air defence, sometimes stationed at the border
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/973/%D9%85%D8%AD%D9%85%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%B4%D8%AD%D9%8A%D8%A8%D8%B1): born 1987, joined al-Qassam 2007, killed <span style="color:#ffc000">"participating in a closed refresher course for the Palestinian police for a week"</span>
+	- Hayman Hamed Abu Ammouna (p. 6)
+		- Orient: born 1971, original Hamas member from 1987, joined al-Qassam in 2008, internal security patrol, dug tunnels
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/971/%D8%A3%D9%8A%D9%85%D9%86-%D8%AD%D8%A7%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%A3%D9%85%D9%88%D9%86%D8%A9): born 1971, one of the first members of Hamas, joined al-Qassam in 2008, dug tunnels, <span style="color:#ffc000">"Internal Security patrols"</span>, killed in the <span style="color:#ffc000">"Civil Administration site"</span>
+	- Sami Tayseer al-Halabi (p. 27)
+		- Orient: born 1982, joined al-Qassam in 2005, active in security and defence, killed in attack on internal security headquarters
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/970/%D8%B3%D8%A7%D9%85%D9%8A-%D8%AA%D9%8A%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%8A): born 1982, joined al-Qassam 2005, patrolled the borders <span style="color:#ffc000">"advancing under the cover of darkness, sneaking stealthily to the northern and eastern borders, drawing his rifle, lurking for enemies"</span>, killed trying to save people at the internal security headquarters <span style="color:#ffc000">"on the borders of the beach camp"</span>
+	- Ammar Mahmoud Shamali (p. 34)
+		- Orient: born 1985, active in al-Qassam, went through three training courses, killed at security headquarters
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/966/%D8%B9%D9%85%D8%A7%D8%B1-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%B4%D9%85%D8%A7%D9%84%D9%8A): no birthday, joined al-Qassam (no date), three military courses, stationed at the border, killed at <span style="color:#ffc000">"his work in the Palestinian police at the Passport Headquarters in Gaza City"</span>
+	- Omar Bakr Shamali (p. 31 - possible mismatch)
+		- Orient: born 1988, student wing of Hamas, joined al-Qassam, "assistance unit", "advanced unit", "special unit"
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/964/%D8%B9%D9%85%D8%B1-%D8%A8%D9%83%D8%B1-%D8%B4%D9%85%D8%A7%D9%84%D9%8A): born 1987, moved from <span style="color:#ffc000">"supporting unit"</span> to <span style="color:#ffc000">"advanced unit"</span> to <span style="color:#ffc000">"Special Qassam Unit"</span>, killed at a military refresher course at the <span style="color:#ffc000">Passport Headquarters</span>
+	- Hamdan Khamis Rabei Abu Nuqayra (p. 13)
+		- Orient: born 1976, joined al-Qassam 2002, ambushes, launched rockets, engineering, police executive force
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/962/%D8%AD%D9%85%D8%AF%D8%A7%D9%86-%D8%AE%D9%85%D9%8A%D8%B3-%D8%A3%D8%A8%D9%88-%D9%86%D9%82%D9%8A%D8%B1%D8%A9): born 1976, joined al-Qassam 2002, ambushes, <span style="color:#ffc000">"Divisional Engineering and Manufacturing Unit"</span>, worked in <span style="color:#ffc000">"Palestinian police in the weapons maintenance and cleaning unit of Rafah City Police"</span>, killed at the <span style="color:#ffc000">"site of the Rafah Governorate"</span>
+			- <span style="color:#ffc000">"Abu Youssef was one of the first to work in the ranks of the Executive Force... He was a strong participant in the military decisive operation carried out by the Al-Qassam Brigades against the unruly people in the “Security Coordination Authority” agencies."</span>
+	- Bassam Issa al-Akkawi (p. 9)
+		- Orient: born 1982, joined al-Qassam 2004, stationed at the border, killed in attack on security headquarters
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/960/%D8%A8%D8%B3%D8%A7%D9%85-%D8%B9%D9%8A%D8%B3%D9%89-%D8%A7%D9%84%D8%B9%D9%83%D8%A7%D9%88%D9%8A): born 1982, joined al-Qassam 2004, killed <span style="color:#ffc000">"working at the Forum headquarters"</span>
+	- Ahmed Maher Ahmed Abu Musa (p. 2)
+		- Orient: born 1986, joined al-Qassam 2006, air defence and suicide unit, stationed at the border planting explosives
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/954/%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%A7%D9%87%D8%B1-%D8%A3%D8%A8%D9%88-%D9%85%D9%88%D8%B3%D9%89): born 1986, joined al-Qassam 2006, air defence course, <span style="color:#ffc000">"deputy emir of the Qassamiya group"</span>, worked in the <span style="color:#ffc000">"Intervention and Law Enforcement Service"</span>, killed in a raid on the headquarters 
+	- Amjad Kamel Abu Jazar (p. 7)
+		- Orient: born 1982, active in al-Qassam, worked at the border, security apparatus, killed in headquarters 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/953/%D8%A3%D9%85%D8%AC%D8%AF-%D9%83%D8%A7%D9%85%D9%84-%D8%A3%D8%A8%D9%88-%D8%AC%D8%B2%D8%B1): born 1982, joined al-Qassam 2005, stationed at the border, killed <span style="color:#ffc000">"at the headquarters of the Security and Protection Service, known as the Forum, in Gaza City, where he worked"</span>
+	- Muhammad Naeem Shakshak (p. 20)
+		- Orient: born 1986, joined al-Qassam 2005, commander of security apparatus, served as an escort and security guard for Ismail Jabari
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/952/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B9%D9%8A%D9%85-%D8%B4%D9%83%D8%B4%D9%83): born 1986, joined al-Qassam 2005, killed accompanying Col. Ismail al-Jaabari at the <span style="color:#ffc000">"Security and Protection Headquarters in Gaza (the Forum)"</span>
+	- Ali Hassan Ahmed al-Mabhouh (p. 33)
+		- Orient: born 1982, joined al-Qassam 2004, launched rockets at settlements, carried out ambushes, sniping, air defence
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/948/%D8%B9%D9%84%D9%8A-%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D9%85%D8%A8%D8%AD%D9%88%D8%AD): born 1982, joined al-Qassam 2004, ambushes, sniping ,air defence, launched rockets, killed at the Marine site in north-west Gaza 
+	- Khaled Radwan Ali Inshassi (p. 11)
+		- Orient: born 1984, active in al-Qassam, joined executive force in 2006
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/944/%D8%AE%D8%A7%D9%84%D8%AF-%D8%B1%D8%B6%D9%88%D8%A7%D9%86-%D8%A5%D9%86%D8%B4%D8%A7%D8%B5%D9%8A): born 1984, joined al-Qassam 2008, passed courses in sniping and artillery, killed at the al-Qadisiyah site whilst trying to save people after the initial strikes
+	- Ibrahim Mahmoud al-Farra (p. 5 - possible mismatch but dates line up)
+		- Orient: born 1987, joined al-Qassam 2005, active in security and defence, stationed at the border, killed in attack on security headquarters
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/938/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D9%81%D8%B1%D8%A7): born 1987, joined al-Qassam 2005, joined <span style="color:#ffc000">"Security and Protection Service"</span>, killed at <span style="color:#ffc000">"headquarters of the Security and Protection Service known as the Forum"</span>
+	- Alaa Fadl Afaneh (p. 33)
+		- Orient: born 1987, joined al-Qassam 2008, air unit, special force, ambushes, killed assisting at al-Abbas police station, not clear if he was a policeman 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/935/%D8%B9%D9%84%D8%A7%D8%A1-%D9%81%D8%B6%D9%84-%D8%B9%D9%81%D8%A7%D9%86%D8%A9): born 1986, joined al-Qassam 2008, special unit, ambushes, killed in a second round of strikes on the <span style="color:#ffc000">al-Abbas Police Station</span>
+	- Muhammad Suhail Muhammad Hassan (p. 20)
+		- Orient: born 1980, joined al-Qassam 2003, prepared trenches and tunnels, laid charges and mines
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/930/%D9%85%D8%AD%D9%85%D8%AF-%D8%B3%D9%87%D9%8A%D9%84-%D8%AD%D8%B3%D8%A7%D9%86): born 1989, joined al-Qassam 2003, dug tunnels, set up devices, killed at the <span style="color:#ffc000">security passport site</span>
+	- Mahmoud Khalil Hassan Abu Harbid (p. 25)
+		- Orient: born 1978, joined al-Qassam 2004, stationed at the border, dug tunnels, launched rockets at settlements
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/925/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%AE%D9%84%D9%8A%D9%84-%D8%A3%D8%A8%D9%88-%D9%87%D8%B1%D8%A8%D9%8A%D8%AF): born 1978, joined al-Qassam 2004, stationed at the border, dug tunnels, rockets at settlements, killed at the <span style="color:#ffc000">"Internal Security Service site... while performing his duty to protect his people form the unruly and collaborators"</span>
+	- Muhammad Nour Muhammad Rizq al-Fayoumi (p. 20)
+		- Orient: born 1984, joined al-Qassam 2005
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/921/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D9%88%D9%85%D9%8A): born 1984, joined al-Qassam 2005, sniping corps, killed at the police headquarters <span style="color:#ffc000">"with a number of his fellow police officers"</span>
+	- Muhammad Mahmoud Hammad al-Najra (p. 19)
+		- Orient: born 1962, joined Hamas 1987, commanded al-Qassam unit in the 2nd Intifada, launched rockets at settlements, 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/919/%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D9%86%D8%AC%D8%B1%D8%A9): born 1962, joined Hamas 1987, first to start activity of al-Qassam in the 2nd Intifada, al-Qassam commander, launched missiles, killed at the Abu Madin site <span style="color:#ffc000">"while he was... waiting for a friend after he left to complete an administrative mission in the police"</span>
+	- Ramadan Ahmed Abu al-Khair (p. 36)
+		- Orient: born 1974, joined al-Qassam 2006, expert in mortar fire
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/917/%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1): born 1974, joined al-Qassam 2005, joined the ranks of the security services, killed in the second strike <span style="color:#ffc000">"while he was in his usual police work at the Abbas Police Station"</span>
+	- Haider Muhammad Muhammad Hassouna (p. 12)
+		- Orient: born 1972, active in al-Qassam, asked for his mother's consent to carry out a suicide attack 
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/916/%D8%AD%D9%8A%D8%AF%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D8%AD%D8%B3%D9%88%D9%86%D8%A9): born 1972, worked in <span style="color:#ffc000">"the security field of the movement and al-Qassam"</span>, told his mother about his upcoming martyrdom, killed working as a <span style="color:#ffc000">"first sergeant in police discipline at the Rafah Governorate headquarters"</span>
+	- Bilal Muhammad Omar (p. 9)
+		- Orient: born 1989, joined al-Qassam 2007, served as house guard of police chief Tawfiq Jaber
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/915/%D8%A8%D9%84%D8%A7%D9%84-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%85%D8%B1): born 1989, joined al-Qassam 2006, worked in the ranks of the <span style="color:#ffc000">"Executive Force and then moved to the Security and Protection Service of the Ministry of Interior... accompanying... Major General Tawfiq Jabr, Commander of the Palestine Police"</span>
+			- <span style="color:#ffc000">"He loved the art of detonation and rejoicing in the sound of explosions"</span>
+	- Ziad Adel Mustafa al-Najjar (p. 11)
+		- Orient: 1984, joined al-Qassam 2007, stationed at the border, killed in attack on security headquarters
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/913/%D8%B2%D9%8A%D8%A7%D8%AF-%D8%B9%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%B1): born 1984, joined al-Qassam 2007, worked in the Security and Protection Service, killed in <span style="color:#ffc000">The Forum</span>
+	- Diab Rabhi al-Haddad (p. 9)
+		- Orient: born 1988, joined al-Qassam 2007, specialised in anti-tank shooting
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/905/%D8%AF%D9%8A%D8%A7%D8%A8-%D8%B1%D8%A8%D8%AD%D9%8A-%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF): joined al-Qassam 2007, worked in Security and Protection Service, specialised in anti-armour, killed at <span style="color:#ffc000">"his work in the Palestinian police"</span>
+	- Tariq Salah Rahmi (p. 14)
+		- Orient: born 1978, joined Hamas 1993, joined al-Qassam in 2005, joined executive force in 2006
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/903/%D8%B7%D8%A7%D8%B1%D9%82-%D8%B5%D9%84%D8%A7%D8%AD-%D8%B1%D8%AD%D9%85%D9%8A): joined Hamas 1993, joined al-Qasam 2005 then the Executive Force as soon as it was formed, killed <span style="color:#ffc000">"practicing his police work at Abbas police station"</span>
+	- Muhammad Salah al-Sawaf (p. 21)
+		- Orient: born 1980, joined al-Qassam 2000, company commander
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/902/%D9%85%D8%AD%D9%85%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D9%81): born 1981, joined al-Qassam 2000, leader of a formation, completed <span style="color:#ffc000">"distinguished defence and military police courses",</span> killed <span style="color:#ffc000">"at the door of the mosque"</span>
+	- Ahmed Hamdi al-Dreimli (p. 2)
+		- Orient: born in 1983, joined al-Qassam 1996 
+		- al-Qassam: born 1983, joined al-Qassam 1996, killed between the Martyrs Mosque and the <span style="color:#ffc000">Saraya Security Complex </span>
+	- Ayman Fouad al-Nahal (p. 6) 
+		- Orient: born 1986, joined al-Qassam 2008, engineering unit
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/896/%D8%A3%D9%8A%D9%85%D9%86-%D9%81%D8%A4%D8%A7%D8%AF-%D8%A7%D9%84%D9%86%D8%AD%D8%A7%D9%84): born 1986, joined al-Qassam in 2008, killed <span style="color:#ffc000">"where he worked as an investigation officer in the governorate headquarters of the Palestinian police in the Gaza Strip."</span>
+	- Haitham Jasser Ahmed al-Shaer (p. 10)
+		- Orient: born 1986, active in al-Qassam, joined executive force in 2006, killed in attack on offices of the governor in Rafah
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/892/%D9%87%D9%8A%D8%AB%D9%85-%D8%AC%D8%A7%D8%B3%D8%B1-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B4%D8%A7%D8%B9%D8%B1): born 1986, joined al-Qassam mid 00s, joined the Executive Force since the beginning, received a <span style="color:#ffc000">"certificate of appreciation from the Intervention and Order Preservation Service"</span>, killed in headquarters of the Rafah Governorate 
+			- Died along with his father, Yasser (listed as civilian p. 14), his cousin Ihab and the sheikh Nazir al-Luqa
+	- Ali Zuhair al-Hobi (p. 33)
+		- Orient: born 1987, active in al-Qassam, worked in the executive power of rapid intervention and order enforcement
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/894/%D8%B9%D9%84%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%87%D9%88%D8%A8%D9%8A): born 1987, join al-Qassam around mid-00s, then joined the <span style="color:#ffc000">"intervention and order-preserving force of the Palestinian police"</span>, killed on Dec 31st in an air strike on <span style="color:#ffc000">"al-Shaboura Park"</span> where he was stationed
+	- Ayman Muhammad Afana (p. 6)
+		- Orient: Born 1981, active in al-Qassam Brigades
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/901/%D8%A3%D9%8A%D9%85%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%81%D8%A7%D9%86%D8%A9): born 1982, joined al-Qassam (no date), worked in the anti-narcotics unit of the Palestinian Police, killed Jan 4th in an airstrike on his house along with four members of his family 
+	- Hussein Naeem Hussein Abbas (p. 12)
+		- Orient: born 1975, active in al-Qassam, police
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2287/%D8%AD%D8%B3%D9%8A%D9%86-%D9%86%D8%B9%D9%8A%D9%85-%D8%B9%D8%A8%D8%A7%D8%B3): born 1976, one of the first to join al-Qassam, launched rockets at settlements, struck in his home after returning from firing rockets on Jan 31st, <span style="color:#f894ff">no mention of police / security</span>
+- al-Qassam fighters not mentioned in Orient
+	- [Hisham Muhammad Siam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2656/%D9%87%D8%B4%D8%A7%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%B5%D9%8A%D8%A7%D9%85) 
+		- Died at his station <span style="color:#ffc000">"east of the Al-Zaytoun neighbourhood"</span> - arrived there after the bombing had started
+	- [Rami Amer Abdel Halim](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1285/%D8%B1%D8%A7%D9%85%D9%8A-%D8%B9%D8%A7%D9%85%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D9%84%D9%8A%D9%85)
+		- Born 1989, joined al-Qassam 2007, died stationed on the eastern borders of Al-Zaytoun, killed by a reconnaissance plane
+	- [Abdul Majeed al-Quqa Medal](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1240/%D9%88%D8%B3%D8%A7%D9%85-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%AF-%D8%A7%D9%84%D9%82%D9%88%D9%82%D8%A7) 
+		- Born 1984, joined al-Qassam in 2002, died at the training course in Gaza City passport office
+	- [Ahmed Mohammed Jamil Baalousha](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1213/%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D8%B9%D9%84%D9%88%D8%B4%D8%A9) 
+		- Born 1988, joined al-Qassam some time after 2005, died launching missiles in the Al-Qassam Artillery Corps
+			- Had apparently worked in the signal room of the Public Security Service and survived a bombing once - they don't say when
+	- [Muhammad Matar Musa Dhahir](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1199/%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%B7%D8%B1-%D8%B6%D9%87%D9%8A%D8%B1)
+		- Born 1985, joined al-Qassam in 2005, worked in Palestinian internal security (they don't say when), died "on a jihadi mission", Dec 27th 
+	- [Yahya Awni Muhaisen](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1187/%D9%8A%D8%AD%D9%8A%D9%89-%D8%B9%D9%88%D9%86%D9%8A-%D9%85%D8%AD%D9%8A%D8%B3%D9%86)
+		- Born 1980, joined al-Qassam in 2006, worked in engineering, died in the passport centre, where he was <span style="color:#ffc000">"at the head of his work"</span>
+	- [Adham Hamdi Al-Adini](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1176/%D8%A3%D8%AF%D9%87%D9%85-%D8%AD%D9%85%D8%AF%D9%8A-%D8%A7%D9%84%D8%B9%D8%AF%D9%8A%D9%86%D9%8A)
+		- Born 1989, joined al-Qassam ~2006, died returning from study at the Gaza Training College - seemed to have been walking by one of the security service buildings as they were struck 
+			- Participated in digging tunnels and planting explosives
+	- [Talat Mahmoud Salman Salman](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1164/%D8%B7%D9%84%D8%B9%D8%AA-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%B3%D9%84%D9%85%D8%A7%D9%86) 
+		- Born 1970, joined al-Qassam at an unspecified date, died stationed at the <span style="color:#ffc000">"Civil Administration site east of the Jabalia refugee camp"</span>
+	- [Tamer Saleh Abdullah Al-Gharabawi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1163/%D8%AA%D8%A7%D9%85%D8%B1-%D8%B5%D8%A7%D9%84%D8%AD-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D8%A7%D9%88%D9%8A)
+		- Born 1987, joined al-Qassam in 2006, died at the site of <span style="color:#ffc000">"Intervention and Order Preservation Forces"</span>
+			- Worked in border patrol, monitoring movements, planting bombs and firing shells at vehicles and tanks
+	- [Muhammad Abd al-Latif Muhammad al-Ashqar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1148/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D8%B7%D9%8A%D9%81-%D8%A7%D9%84%D8%A3%D8%B4%D9%82%D8%B1) ("Deputy Director of the Security and Protection Service")
+		- Born 1974, joined al-Qassam in the early 90s (one of the first), nominated deputy director of the Security and Protection Service, <span style="color:#ffc000">"the agency is based on solid foundations of security and police work... charged with protecting government figures and dealing with international and foreign missions"</span>, died during a meeting in the "Security Forum Site" with other leaders of the "Security and Protection" apparatus
+	- [Muhammad Ismail Al-Ghamri](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1137/%D9%85%D8%AD%D9%85%D8%AF-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%BA%D9%85%D8%B1%D9%8A)
+		- Born 1985, joined al-Qassam in 2007, died at his work at the <span style="color:#ffc000">"13th Battalion site in the Central Governorate"</span>
+	- [Munir Amin Hamouda](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1085/%D9%85%D9%86%D9%8A%D8%B1-%D8%A3%D9%85%D9%8A%D9%86-%D8%AD%D9%85%D9%88%D8%AF%D8%A9)
+		- Born 1975, joined al-Qassam in 2001, died in a strike on the Prisoners Tower, west of Gaza City 
+	- [Muhammad Amin Hamouda](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1066/%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%85%D9%8A%D9%86-%D8%AD%D9%85%D9%88%D8%AF%D8%A9)
+		- Born 1979, joined al-Qassam in 2003, participated in repelling invasion, launching rockets and equipping fighters, died <span style="color:#ffc000">"working in the manufacturing unit located under the Prisoners Tower in the Tel Al-Islam area"</span>
+	- [Nasser Mahmoud Hamouda](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1043/%D9%86%D8%A7%D8%B5%D8%B1-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%AD%D9%85%D9%88%D8%AF%D8%A9) 
+		- Born 1974, joined al-Qassam in 2002, died attempting to rescue people from the <span style="color:#ffc000">"tower of the Ministry of Prisoners"</span>
+	- [Ahmed Jamil Al-Talouli](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1037/%D8%A3%D8%AD%D9%85%D8%AF-%D8%AC%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%84%D9%88%D9%84%D9%8A) (might be mentioned in Orient p. 24)
+		- Born 1981, joined al-Qassam in 2008, participated in border patrol, repelling incursions, planting explosives, digging tunnels and delivering military supplies, died in the <span style="color:#ffc000">"Civil Administration site east of Jabalia"</span>
+	- [Mahmoud Muhammad al-Ammarin](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1028/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D9%86) 
+		- Born 1981, joined al-Qassam ~mid-2000s, died near a mosque, rushing to rescue people in his battalion 
+			- Participated in securing borders, military supply, digging tunnels, planting explosives, launching missiles at settlements
+	- [Naeem Rizq Jundia](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1014/%D9%86%D8%B9%D9%8A%D9%85-%D8%B1%D8%B2%D9%82-%D8%AC%D9%86%D8%AF%D9%8A%D8%A9)
+		- Born 1981, joined al-Qassam ~2007, participated in transporting explosive materials, specialised in the manufacturing unit, killed at the headquarters of the <span style="color:#ffc000">"Wa'ed Association for Prisoners and ex-Prisoners"</span>
+	- [Nahez Salim Abu Namous](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1010/%D9%86%D8%A7%D9%87%D8%B2-%D8%B3%D9%84%D9%8A%D9%85-%D8%A3%D8%A8%D9%88-%D9%86%D8%A7%D9%85%D9%88%D8%B3)
+		- Born 1989, joined al-Qassam in 2007, trained in infantry and artillery, killed in a <span style="color:#ffc000">"Palestinian police course at the passport headquarters in Gaza"</span>
+	- [Ahmed Adnan Hamouda](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1008/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B9%D8%AF%D9%86%D8%A7%D9%86-%D8%AD%D9%85%D9%88%D8%AF%D8%A9)
+		- Born 1980, joined al-Qassam in 2007/08, killed in the <span style="color:#ffc000">"manufacturing department"</span>
+	- [Bilal Ghazi Suleiman al-Raqab](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/995/%D8%A8%D9%84%D8%A7%D9%84-%D8%BA%D8%A7%D8%B2%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A8) 
+		- Born 1985, joined al-Qassam in 2006, killed at <span style="color:#ffc000">"his work at the Security and Protection Headquarters"</span>
+			- <span style="color:#ffc000">"Abu Abdullah always seemed to think about how to kidnap Zionist soldiers. One day, the brothers saw him carrying a young man from his area on his shoulder and running with him. They asked him about the secret of that? He replied: “I am training to carry heavy weight in order to kidnap Zionist soldiers during Rabat"</span>
+	- [Rabei Mahmoud al-Muzain](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/981/%D8%B1%D8%A8%D9%8A%D8%B9-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D9%86)
+		- Born 1979, joined al-Qassam 2007, stationed at the borders, killed <span style="color:#ffc000">"following a Zionist bombing of the civil defence site in the city of Deir al-Balah, next to the law enforcement and intervention site"</span>
+	- [Tayseer Abdullah Muhammad Wishah](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/972/%D8%AA%D9%8A%D8%B3%D9%8A%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D8%B4%D8%A7%D8%AD)
+		- born 1986, joined al-Qassam 2004, representative of the <span style="color:#ffc000">"Engineering Corps"</span>, mortally wounded in the <span style="color:#ffc000">"security passport site in the west of Gaza City"</span>, died after 3 hours
+			- <span style="color:#ffc000">"On Saturday, 12/27/2008 AD, our martyr Tayseer - may God have mercy on him - went out at exactly seven o’clock in the morning, with joy and pleasure written on his face. Before he left, he told his mother that he would end his work early, because he was waiting for a response from a bride he had proposed to"</span>
+	- [Hatem Khader Ayad](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/936/%D8%AD%D8%A7%D8%AA%D9%85-%D8%AE%D8%B6%D8%B1-%D8%B9%D9%8A%D8%A7%D8%AF)
+		- born 1974, joined al-Qassam 2001, stationed at the borders, left the <span style="color:#ffc000">Passport Headquarters</span> minutes before the first strikes, began firing rockets and was struck trying to fix a fault
+	- [Ahmed Hamad Nayef Abu Hadayed](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/912/%D8%A3%D8%AD%D9%85%D8%AF-%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%AD%D8%AF%D8%A7%D9%8A%D8%AF)
+		- Joined al-Qassam in 2006, chosen to be a knight of the armour unit, killed working in the <span style="color:#ffc000">"main security and protection apparatus of the Ministry of Interior in Gaza City</span>
+	- [Yahya Ibrahim Abdel Jawad Diab](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85) 
+		- Joined al-Qassam (doesn't say when), killed at <span style="color:#ffc000">"his jihad work in the Prisoners Tower in the Tal al-Islam neighbourhood"</span>
+	- [Munther Muhammad Minya](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2203/%D9%85%D9%86%D8%B0%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D9%86%D9%8A%D8%A9)
+		- Joined al-Qassam (doesn't say when), taught people how to use explosives, seems to have been stationed at the border, killed in the <span style="color:#ffc000">Prisoners' Tower in Tal al-Hawa</span>
+	- [Ahmed Mohamed Badawi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1333/%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D8%AF%D9%88%D9%8A)
+		- Joined al-Qassam (doesn't say when), then the <span style="color:#ffc000">"Qassam Support Security Service"</span> in 2006, worked in Palestinian police with the rank of first lieutenant, killed after strike on the <span style="color:#ffc000">al-Mashtal site north of al-Shati</span> on Dec 27th
+	- [Farouk Fouad Aslim](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1297/%D9%81%D8%A7%D8%B1%D9%88%D9%82-%D9%81%D8%A4%D8%A7%D8%AF-%D8%A7%D8%B3%D9%84%D9%8A%D9%85) 
+		- Prominent worker in the Public Security Service, joined al-Qassam in 2008, killed attempting to rescue people in the Internal Security headquarters, <span style="color:#ffc000">"al-Mashtal"</span>
+	- [Khaled Khaled al-Hawari](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/918/%D8%AE%D8%A7%D9%84%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%B1%D9%8A)
+		- Joined al-Qassam (doesn't say when), worked in air defence, killed on Dec 28th <span style="color:#ffc000">"leading one Palestinian police jeep to transport him to a safe place"</span>
+	- [Muhammad Saeed Abu Hasira](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2193/%D9%85%D8%AD%D9%85%D8%AF-%D8%B3%D8%B9%D9%8A%D8%AF-%D8%A3%D8%A8%D9%88-%D8%AD%D8%B5%D9%8A%D8%B1%D8%A9)
+		- Joined al-Qassam 2006, worked in the <span style="color:#ffc000">"Hamas security support service"</span>, killed on a rescue mission at <span style="color:#ffc000">"one of the anchor points of the Mujahideen of the Qassam Brigades"</span>
+	- [Ghassan Nizar Rayan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2371/%D8%BA%D8%B3%D8%A7%D9%86-%D9%86%D8%B2%D8%A7%D8%B1-%D8%B1%D9%8A%D8%A7%D9%86)
+		- Born 1992, joined al-Qassam in 2007 (age 15?), stationed at the borders at night before school, carried out sniping operations, dug tunnels, killed in his home in a strike targeting his father, Sheikh Nizar Rayan
+- False entries in Orient
+	- Hazem Muhammad Khalil (p. 17 - possible mismatch) - died in 2007, <span style="color:#f894ff">NOT KILLED BY IDF </span>
+		- Orient: born 1981, active in al-Qassam
+		- [al-Qassam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/837/%D8%AD%D8%A7%D8%B2%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%AE%D9%84%D9%8A%D9%84): born 1981, joined al-Qassam ~2006, border patrol, protected <span style="color:#ffc000">"his people from the unruly people who did not like security and safety"</span>, accidentally fired his gun whilst cleaning it, <span style="color:#ffc000">"which led to the firing of several bullets, one of which directly hit his head"</span>
+	- Note: a number of other names in the Orient study seem to be listing people as 'police' with no confirmation on the al-Qassam page. 
+- Deaths outside of police / security strike 
+	- [Asaad Abdel Karim Fayyad](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/914/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A3%D8%B3%D8%B9%D8%AF-%D9%81%D9%8A%D8%A7%D8%B6)
+		- Joined al-Qassam in 2006, killed firing rockets on Dec 28th, <span style="color:#f894ff">no police or security affiliation mentioned</span>
+	- [Tariq Yasser Afana](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/927/%D8%B7%D8%A7%D8%B1%D9%82-%D9%8A%D8%A7%D8%B3%D8%B1-%D8%B9%D9%81%D8%A7%D9%86%D8%A9)
+		- Killed in his home on Dec 29th - <span style="color:#ffc000">"the Zionist enemy was in a state of severe confusion and began targeting the homes of safe citizens after being unable to target the mujiahideen despite the technology and capabilities it possessed"</span>
+	- [Ihab Omar al-Madhoun](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2183/%D8%A5%D9%8A%D9%87%D8%A7%D8%A8-%D8%B9%D9%85%D8%B1-%D8%A7%D9%84%D9%85%D8%AF%D9%87%D9%88%D9%86)
+		- Killed Dec 30th, killed working as a paramedic along with 2 (potentially civilian) medics
+	- [Yasser Kamal Shabir](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1241/%D9%8A%D8%A7%D8%B3%D8%B1-%D9%83%D9%85%D8%A7%D9%84-%D8%B4%D8%A8%D9%8A%D8%B1)
+		- Joined al-Qassam 2004, killed driving an ambulance on his way to work as a paramedic <span style="color:#ffc000">"believing that the Zionist enemy might respect the prohibition of targeting ambulances"</span>
+			- May not have been [exclusively assigned](https://ihl-databases.icrc.org/en/customary-ihl/v1/rule25) to medical duties: <span style="color:#ffc000">"He spent the war period moving from a bombing site to a hospital to the home of a wounded or injured person, and so on. During his hours of rest, he did not go to sleep while he was a warrior knight. Rather, he headed to the Rabat points with his group in the Qassam Brigades, waiting for the opportunity to meet and attack the enemies"</span>
+	- [Tawfiq Riad Qanan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1239/%D8%AA%D9%88%D9%81%D9%8A%D9%82-%D8%B1%D9%8A%D8%A7%D8%B6-%D9%82%D9%86%D9%86)
+		- Killed Dec 31st, <span style="color:#ffc000">"member of the monitoring unit"</span>, killed in an air strike preparing to confront the IDF
+	- [Mumen Musa al-Khazandar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1233/%D9%85%D8%A4%D9%85%D9%86-%D9%85%D9%88%D8%B3%D9%89-%D8%A7%D9%84%D8%AE%D8%B2%D9%86%D8%AF%D8%A7%D8%B1)
+		- Worked in the Special Qassam Unit, <span style="color:#ffc000">"very skilled at firing mortar shells and Qassam rockets"</span> killed dec 30th alongside his accompanying group of al-Qassam fighters, performing <span style="color:#ffc000">"a jihad mission" </span>
+	- [Ayman Youssef al-Majayda](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1015/%D8%A3%D9%8A%D9%85%D9%86-%D9%8A%D9%88%D8%B3%D9%81-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%8A%D8%AF%D8%A9)
+		- Joined al-Qassam 2007, <span style="color:#ffc000">"treasurer of the al-Qassam site in Khan Yunis"</span>, struck as he was leaving the site on Dec 30th, died 3 days later
+	- [Amin Salem al-Adini](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/978/%D8%A3%D9%85%D9%8A%D9%86-%D8%B3%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%AF%D9%8A%D9%86%D9%8A)
+		- Joined al-Qassam 2007, <span style="color:#ffc000">"worked as a monitor and eye for the mujahideen"</span>, launched rockets, killed launching rockets
+	- [Jumaa Abu Athrah](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2891/%D9%85%D8%B1%D8%B4%D8%AF-%D8%AC%D9%85%D8%B9%D8%A9-%D8%A3%D8%A8%D9%88-%D8%B9%D8%A7%D8%B0%D8%B1%D8%A9) 
+		- Joined al-Qassam 2006, <span style="color:#ffc000">"monitored targets along the eastern border of Rafah"</span>, was assigned to protect the governorate headquarters in al-Shoka. Apparently, during his mission, an argument broke out and ended with him killing a man and his son. He was executed on Dec 31st. 
+	- [Ahmed Khalil Abu Daf](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1087/%D8%A3%D8%AD%D9%85%D8%AF-%D8%AE%D9%84%D9%8A%D9%84-%D8%A3%D8%A8%D9%88-%D8%AF%D9%81)
+		- Born 1970, joined al-Qassam in 2004, commander of the Military Supply Brigade in Gaza, worked with the Qassam Manufacturing Unit, died on the 9th day of Cast Lead (listed on day 1?), seems to have been killed near his home along with a 62 year old woman
+- Deaths from Jan 2nd - Jan 18th
+	- [Sami Ibrahim Labad](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1146/%D8%B3%D8%A7%D9%85%D9%8A-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D9%84%D8%A8%D8%AF) 
+		- air struck Jan 2nd, setting traps in an area expecting to be overrun
+	- [Nael Hassan Shoha](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1100/%D9%86%D8%A7%D8%A6%D9%84-%D8%AD%D8%B3%D9%86-%D8%B4%D9%88%D8%AD%D8%A9)
+		- air struck Jan 2nd waiting for the ground invasion, carried out periodic border patrol 
+	- [Muhammad Essam Nasr](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1099/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85-%D9%86%D8%B5%D8%B1)
+		- air struck Jan 2nd waiting for the ground campaign 
+	- [Ahmed Fawzi Labad](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2625/%D8%A3%D8%AD%D9%85%D8%AF-%D9%81%D9%88%D8%B2%D9%8A-%D9%84%D8%A8%D8%AF)
+		- joined al-Qassam in 2008, worked at the <span style="color:#ffc000">"Supportive Security Service"</span>, died Jan 3rd after being hit by a tank shell 
+	- [Ahmed Samih al-Kafarna](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1368/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B3%D9%85%D9%8A%D8%AD-%D8%A7%D9%84%D9%83%D9%81%D8%A7%D8%B1%D9%86%D8%A9)
+		- deployed to face the ground invasion, air struck Jan 3rd
+	- [Abdul Aziz Muhammad al-Najjar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1294/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%B1)
+		- Stationed on the borders, air struck shortly after firing at planes 
+	- [Ibrahim Musa Issa al-Silawi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1102/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D9%85%D9%88%D8%B3%D9%89-%D8%A7%D9%84%D8%B3%D9%8A%D9%84%D8%A7%D9%88%D9%8A)
+		- killed Jan 3rd in an air strike on <span style="color:#ffc000">"Martyr Ibrahim al-Maqadama Mosque"</span>
+	- [Hassan Issam al-Jamasi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1079/%D8%AD%D8%B3%D9%86-%D8%B9%D8%B5%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B5%D9%8A)
+		- killed Jan 3rd in an air strike whilst perparing the air defence unit, <span style="color:#ffc000">"worked as an employee in the Security and Protection Service in the Palestinian Police until the moment of his martyrdom" </span>
+	- [Hamza Aouni al-Shaghnoubi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1078/%D8%AD%D9%85%D8%B2%D8%A9-%D8%B9%D9%88%D9%86%D9%8A-%D8%A7%D9%84%D8%B4%D8%BA%D9%86%D9%88%D8%A8%D9%8A)
+		- fired missiles at settlements in the war, killed Jan 3rd by an air strike <span style="color:#ffc000">"while he was confronting the Nazi forces"</span>
+	- [Omar Abdel Hafez al-Silawi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1033/%D8%B9%D9%85%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%B3%D9%8A%D9%84%D8%A7%D9%88%D9%8A)
+		- Stationed at the borders, killed on Jan 3rd in an air strike on the <span style="color:#ffc000">"Martyr Ibrahim al-Maqadma Mosque"</span>
+	- [Youssef Ziad Zaqout](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1029/%D9%8A%D9%88%D8%B3%D9%81-%D8%B2%D9%8A%D8%A7%D8%AF-%D8%B2%D9%82%D9%88%D8%AA)
+		- killed on Jan 3rd in an air strike on the <span style="color:#ffc000">"Martyr Ibrahim al-Maqadma Mosque"</span>
+	- [Mahoud Adnan Mahmoud Ma'rouf](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1029/%D9%8A%D9%88%D8%B3%D9%81-%D8%B2%D9%8A%D8%A7%D8%AF-%D8%B2%D9%82%D9%88%D8%AA)
+		- killed Jan 3rd in an air strike whilst driving towards the western line, worked in security services when he joined al-Qassam in 2003 (unclear whether he was still there in 2008)
+	- [Shadi Ayesh al-Shorbaji](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/997/%D8%B4%D8%A7%D8%AF%D9%8A-%D8%B9%D8%A7%D9%8A%D8%B4-%D8%A7%D9%84%D8%B4%D9%88%D8%B1%D8%A8%D8%AC%D9%8A)
+		- killed Jan 3rd in an air strike whilst driving towards the western line 
+	- [Saeed Salah Battah](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/993/%D8%B3%D8%B9%D9%8A%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%B7%D8%A7%D8%AD) 
+		- killed on Jan 3rd in an air strike on the <span style="color:#ffc000">"Martyr Ibrahim al-Maqadma Mosque"</span>
+	- [Ahmed Hamed Abu Aita](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/977/%D8%A3%D8%AD%D9%85%D8%AF-%D8%AD%D8%A7%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B9%D9%8A%D8%B7%D8%A9)
+		- killed on Jan 3rd in an air strike on the <span style="color:#ffc000">"Martyr Ibrahim al-Maqadma Mosque"</span>
+	- [Salah Naeem Shaldan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/908/%D8%B5%D9%84%D8%A7%D8%AD-%D9%86%D8%B9%D9%8A%D9%85-%D8%B4%D9%84%D8%AF%D8%A7%D9%86) 
+		- killed in an air strike on Jan 3rd
+	- [Anas Fadl Naeem](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2922/%D8%A3%D9%86%D8%B3-%D9%81%D8%B6%D9%84-%D9%86%D8%B9%D9%8A%D9%85) 
+		- killed in an air strike whilst driving an ambulance on Jan 4th
+	- [Muhammad Nahed Abd Rabbo](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2343/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%A7%D9%87%D8%B6-%D8%B9%D8%A8%D8%AF-%D8%B1%D8%A8%D9%87)
+		- Killed in an attempted ambush, listed as Jan 4th, but obituary says he died in June?
+	- [Wael Khalil al-Attar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2315/%D9%88%D8%A7%D8%A6%D9%84-%D8%AE%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D8%B7%D8%A7%D8%B1)
+		- killed Jan 4th in an air strike
+	- [Bilal Attia Muhammad Ghaben](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2285/%D8%A8%D9%84%D8%A7%D9%84-%D8%B9%D8%B7%D9%8A%D8%A9-%D8%BA%D8%A8%D9%86)
+		- <span style="color:#ffc000">worked in the Internal Security Service</span>, killed in an air strike outside his house (a previous strike had injured his father and uncle)
+	- [Muhammad Khamis Awad](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2239/%D9%85%D8%AD%D9%85%D8%AF-%D8%AE%D9%85%D9%8A%D8%B3-%D8%B9%D9%88%D8%B6)
+		- <span style="color:#ffc000">"worked in security services affiliated with the police in the Hamas government"</span>, killed Jan 4th during the ground invasion 
+	- [Muhammad Fouad al-Helou](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1287/%D9%85%D8%AD%D9%85%D8%AF-%D9%81%D8%A4%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D9%84%D9%88)
+		- stationed at the borders, killed in an air strike after blowing up an IDF vehicle on Jan 4th 
+	- [Adnan Muhammad al-Shalfouh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1198/%D8%B9%D8%AF%D9%86%D8%A7%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B4%D9%84%D9%81%D9%88%D8%AD)
+		- <span style="color:#ffc000">"began his jihad work in the security apparatus affiliated with the al-Qassam Brigades"</span>, killed on Jan 4th in an air strike whilst firing mortars
+	- [Muhammad Abdel Hamid Abu Kamil](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1114/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF-%D8%A3%D8%A8%D9%88-%D9%83%D9%85%D9%8A%D9%84)
+		- killed in an air strike on Jan 4th 
+	- [Rafaat Sami Muharram](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1092/%D8%B1%D8%A3%D9%81%D8%AA-%D8%B3%D8%A7%D9%85%D9%8A-%D9%85%D8%AD%D8%B1%D9%85)
+		- Seems to have fought at the border on the first day of the ground invasion, then returned the next day in an ambulance to treat the wounded and was killed enroute in an air strike 
+	- [Muhammad Bassam Annan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1090/%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D8%B3%D8%A7%D9%85-%D8%B9%D9%86%D8%A7%D9%86)
+		- killed Jan 4th firing mortar shells
+	- [Issa Ahmed al-Atout](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1055/%D8%B9%D9%8A%D8%B3%D9%89-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D8%B7%D8%B9%D9%88%D8%B7)
+		- killed Jan 4th after causing 3 IDF casualties 
+	- [Hussein Khalil Abu Jarad](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1047/%D8%AD%D8%B3%D9%8A%D9%86-%D8%AE%D9%84%D9%8A%D9%84-%D8%A3%D8%A8%D9%88-%D8%AC%D8%B1%D8%A7%D8%AF)
+		- stationed at the borders, killed firing mortars on Jan 4th
+	- [Osama Muhammad Suleiman](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1039/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9-%D9%85%D8%AD%D9%85%D8%AF-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86)
+		- killed after returning home from the front line Jan 4th; his mother and sister were injured 
+	- [Muhammad Mutee al-Sharafi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1036/%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%B7%D9%8A%D8%B9-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%81%D9%8A)
+		- killed Jan 4th in an air strike on the <span style="color:#ffc000">Civil Administration area </span>
+	- [Muhammad Abdel Hadi Muhammad Zahir](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1027/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%87%D8%A7%D8%AF%D9%8A-%D8%B8%D8%A7%D9%87%D8%B1)
+		- killed Jan 4th in an air strike on the <span style="color:#ffc000">Civil Administration area </span>
+	- [Sedqi Ismail Hammad](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1013/%D8%B5%D8%AF%D9%82%D9%8A-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%AD%D9%85%D8%A7%D8%AF)
+		- <span style="color:#ffc000">"worked in the Palestinian Ministry of Interior within the ranks of the Security and Protection apparatus as a soldier and then a lieutenant"</span>, mortally wounded in the first strikes on the <span style="color:#ffc000">"Passport Building"</span>, died a week later
+	- [Bilal Abd Rabbo Shihab](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1009/%D8%A8%D9%84%D8%A7%D9%84-%D8%B9%D8%A8%D8%AF-%D8%B1%D8%A8%D9%87-%D8%B4%D9%87%D8%A7%D8%A8)
+		- killed by a helicopter at the border on Jan 4th 
+	- [Suhail Ahmed al-Asali](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/956/%D8%B3%D9%87%D9%8A%D9%84-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B9%D8%B3%D9%84%D9%8A)
+		- returned home with some other militants after fighting through the night; killed in an air strike (doesn't say exactly where but it seems he was singled out)
+	- [Muhammad Abdel Razzaq Ali al-Haila](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/949/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D8%B2%D9%82-%D8%A7%D9%84%D8%AD%D9%8A%D9%84%D8%A9)
+		- killed Jan 4th heading to a Qassam missile cache 
+	- [Muhammad Akram Abu Harbid](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/926/%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%83%D8%B1%D9%85-%D8%A3%D8%A8%D9%88-%D9%87%D8%B1%D8%A8%D9%8A%D8%AF)
+		- killed Jan 4th <span style="color:#ffc000">"setting fire to tires... in order to block and confuse the vision as much as possible for the Zionist planes"</span>
+	- [Saif al-Islam Ahmed Adwan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/923/%D8%B3%D9%8A%D9%81-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D8%AF%D9%88%D8%A7%D9%86) 
+		- killed on Jan 5th whilst <span style="color:#ffc000">"lurking for the invading Zionist forces in a house"</span>
+			- Claim that <span style="color:#ffc000">"the Zionist artillery... had been randomly targeting the houses"</span>
+	- [Radwan Fayez al-Daya](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/904/%D8%B1%D8%B6%D9%88%D8%A7%D9%86-%D9%81%D8%A7%D9%8A%D8%B2-%D8%A7%D9%84%D8%AF%D8%A7%D9%8A%D8%A9)
+		- killed Jan 6th in his 4-floor house along with 22 family members
+	- [Atta Samir Bahar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/893/%D8%B9%D8%B7%D8%A7-%D8%B3%D9%85%D9%8A%D8%B1-%D8%A8%D9%87%D8%A7%D8%B1)
+		- killed Jan 3rd whilst firing mortars 
+	- [Noah Hamouda Abu Sultan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2313/%D9%86%D9%88%D8%AD-%D8%AD%D9%85%D9%88%D8%AF%D8%A9-%D8%A3%D8%A8%D9%88-%D8%B3%D9%84%D8%B7%D8%A7%D9%86)
+		- killed by an artillery shell outside his house after he <span style="color:#ffc000">"went out to repel the aggression of the brutal occupation"</span>
+	- [Naeem Hussein Abbas](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2312/%D9%86%D8%B9%D9%8A%D9%85-%D8%AD%D8%B3%D9%8A%D9%86-%D8%B9%D8%A8%D8%A7%D8%B3)
+		- killed Jan 1st whilst putting on <span style="color:#ffc000">"his weapon, gear and equipment" </span>, seems to have been doing this at home since the shell apparently also hit <span style="color:#ffc000">"a group of his neighbours"</span>
+	- [Moeen Atta Hussein](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2310/%D9%85%D8%B9%D9%8A%D9%86-%D8%B9%D8%B7%D8%A7-%D8%AD%D8%B3%D9%8A%D9%86) 
+		- killed attacking the <span style="color:#ffc000">"special occupation forces"</span> on Jan 5th
+	- [Younis Muhammad Abdel-Wahab al-Ghandour](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2247/%D9%8A%D9%88%D9%86%D8%B3-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%BA%D9%86%D8%AF%D9%88%D8%B1)
+		- killed Jan 5th in a missile strike
+	- [Basil Jihad Abu Jabara](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1268/%D8%A8%D8%A7%D8%B3%D9%84-%D8%AC%D9%87%D8%A7%D8%AF-%D8%A3%D8%A8%D9%88-%D8%AC%D8%A8%D8%A7%D8%B1%D8%A9)
+		- killed Jan 5th in his home along with his father and brother (also al-Qassam); mention of rockets being fired beforehand but doesn't say if they were from the area
+	- [Osama Jihad Abu Jabara](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1267/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9-%D8%AC%D9%87%D8%A7%D8%AF-%D8%A3%D8%A8%D9%88-%D8%AC%D8%A8%D8%A7%D8%B1%D8%A9)
+		- killed Jan 5th in his home along with his brother (also al-Qassam) and father; strikes seems to have been carried out after a rocket barrage fired towards Israel 
+	- [Ibrahim Abdel Rahim Suleiman](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1170/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86)
+		- killed Jan 5th in combat after killing an IDF soldier
+	- [Amjad Ismail Radwan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1149/%D8%A3%D9%85%D8%AC%D8%AF-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%B1%D8%B6%D9%88%D8%A7%D9%86) 
+		- Sniped on Jan 5th after being injured and refusing to leave the battlefield
+	- [Rami Youssef al-Ghandour](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1064/%D8%B1%D8%A7%D9%85%D9%8A-%D9%8A%D9%88%D8%B3%D9%81-%D8%A7%D9%84%D8%BA%D9%86%D8%AF%D9%88%D8%B1)
+		- killed Jan 5th by an air strike whilst advancing to confront the IDF
+	- [Ahmed Ahmed al-Kurd](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1057/%D8%A3%D9%8A%D9%85%D9%86-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%AF)
+		- Killed by tank fire whilst monitoring IDF locations in what might have been a civilian house
+	- [Mahmoud Moin al-Rifi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/988/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%85%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D9%81%D9%8A)
+		- Worked in the Palestinian police force / within the ranks of the al-Qassam Supportive Security Service, <span style="color:#ffc000">"he would often finish his work in the police force and then immediately head to the Rabat sites... so that he can perform his duties"</span>, died whilst capturing two IDF soldiers (all 3 died) 
+			- Note: Rabat in this context seems to be referring to a combat area
+	- [Imad Muhammad Shalaq](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2360/%D8%B9%D9%85%D8%A7%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%B4%D8%B9%D9%84%D9%82) 
+		- Survived the bombing of the Passport Site and was killed in a strike on his home on Jan 6th, worked <span style="color:#ffc000">"in the executive force"</span>
+	- [Muhammad Abdullah Obaid](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2342/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D8%A8%D9%8A%D8%AF)
+		- Captured a soldier outside <span style="color:#ffc000">"Jabalia - the al-Qassam lair"</span>, became surrounded by IDF forces for 3 days, refused to hand the soldier over, was ultimately killed in an air strike, killing the soldier and his 3 captors (Muhammad Ubaid, Muhammad Abdullah and Iyad Ubaid)
+	- [Amjad Majed al-Attar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2282/%D8%A3%D9%85%D8%AC%D8%AF-%D9%85%D8%A7%D8%AC%D8%AF-%D8%A7%D9%84%D8%B9%D8%B7%D8%A7%D8%B1)
+		- Killed Jan 6th in an air strike on the first day of the ground invasion 
+	- [Ihab Essam al-Harazin](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1084/%D8%A5%D9%8A%D9%87%D8%A7%D8%A8-%D8%B9%D8%B5%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B2%D9%8A%D9%86)
+		- Mortally wounded in the strikes on the police security centres. Died a week later
+	- [Khaled Muhammad Abdu Askar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1056/%D8%AE%D8%A7%D9%84%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B9%D8%B3%D9%83%D8%B1)
+		- Found his home bombed after returning from the front line, bombed at the site along with his wife and family, <span style="color:#ffc000">"45 other residents of the neighbourhood were martyred and injures"</span>
+	- [Muhammad Farid Abdullah](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/990/%D9%85%D8%AD%D9%85%D8%AF-%D9%81%D8%B1%D9%8A%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87)
+		- Killed in a POW situation with 2 other fighters and one captured Israeli (see Muhammad Abdullah Obaid)
+	- [Iyad Hassan Obaid](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/987/%D8%A5%D9%8A%D8%A7%D8%AF-%D8%AD%D8%B3%D9%86-%D8%B9%D8%A8%D9%8A%D8%AF)
+		- Killed in a POW situation with 2 other fighters and one captured Israeli (see Muhammad Abdullah Obaid)
+	- [Muhammad Bashir Khadr](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/931/%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D8%B4%D9%8A%D8%B1-%D8%AE%D8%B6%D8%B1)
+		- Successfully ambushed and killed an IDF soldier, then died in an airstrike on <span style="color:#ffc000">"the house in which he was holed up"</span> 
+	- [Yasser Ali Okasha](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1975/%D9%8A%D8%A7%D8%B3%D8%B1-%D8%B9%D9%84%D9%8A-%D8%B9%D9%83%D8%A7%D8%B4%D8%A9)
+		- Killed during an ambush on sleeping IDF soldiers. <span style="color:#ffc000">"Joined the police training staff"</span> before the al-Qassam brigades. It is unclear whether he left
+	- [Mahmoud Salama Hamada](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1283/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%AD%D9%85%D8%A7%D8%AF%D8%A9)
+		- Killed by tank fire whilst monitoring IDF movements in Gaza City 
+	- [Ahmed Youssef Hussein](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1265/%D8%A3%D8%AD%D9%85%D8%AF-%D9%8A%D9%88%D8%B3%D9%81-%D8%AD%D8%B3%D9%8A%D9%86)
+		- Seems to have died in an attempted ambush (translation is a mess here), responded <span style="color:#ffc000">"to the call of the great Islamic project, as a soldier to work in the Palestinian police force"</span>
+	- [Ashraf Abdel Hakim al-Essi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1228/%D8%A3%D8%B4%D8%B1%D9%81-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D9%83%D9%8A%D9%85-%D8%A7%D9%84%D8%A5%D8%B3%D9%8A)
+		- Killed Jan 14th by tank fire. Worked in the <span style="color:#ffc000">"Support Security Service"</span> before joining al-Qassam
+	- [Hammam Muhammad Issa](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1162/%D9%87%D9%85%D8%A7%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%8A%D8%B3%D9%89)
+		- Worked in the Executive Force then <span style="color:#ffc000">"moved to the ranks of the Special Police."</span> Killed Jan 7th <span style="color:#ffc000">"when the occupation aircraft targeted one of the  weapons depots belonging to the Qassam Brigades, very close to his home. After the reconnaissance planes fired their warning missiles at the warehouse, Hammam opened fire in the air and expelled civilians from the neighbouring houses in order to preserve their lives."</span>
+	- [Zaher Muhammad Abed](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1156/%D8%B2%D8%A7%D9%87%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A7%D8%A8%D8%AF)
+		- Killed in an air strike whilst carrying out <span style="color:#ffc000">"a jihadi mission" </span>
+	- [Musa Muhammad al-Jatali](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1147/%D9%85%D9%88%D8%B3%D9%89-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AC%D8%B7%D9%84%D9%8A)
+		- Killed Jan 6th in a targeted strike <span style="color:#ffc000">"while he was stationed in his house... near the border... with his equipment in his house, lurking with his children and wife, refusing to leave the house despite the difficult security conditions"</span>
+	- [Majed Sobhi Mushtaha](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1095/%D9%85%D8%A7%D8%AC%D8%AF-%D8%B5%D8%A8%D8%AD%D9%8A-%D9%85%D8%B4%D8%AA%D9%87%D9%89)
+		- Killed trying to detonate a bomb amongst Israeli forces on Jan 7th
+	- [Bilal Hamza Obaid](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1054/%D8%A8%D9%84%D8%A7%D9%84-%D8%AD%D9%85%D8%B2%D8%A9-%D8%B9%D8%A8%D9%8A%D8%AF)
+		- Killed in al-Fakhoura Square where around 50 people were killed/wounded
+	- [Amzi Muhammad Diab](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/969/%D8%B9%D8%B2%D9%85%D9%8A-%D9%85%D8%AD%D9%85%D8%AF-%D8%AF%D9%8A%D8%A7%D8%A8)
+		- Killed after being spotted on his way home after hiding in a house for four days
+	- [Abdul Karim Shafiq Hassan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/947/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D8%B4%D9%81%D9%8A%D9%82-%D8%AD%D8%B3%D8%A7%D9%86)
+		- Killed by tank fire, whilst hiding in a house, monitoring Israeli movements
+	- [Jihad Rashad al-Asali](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/943/%D8%AC%D9%87%D8%A7%D8%AF-%D8%B1%D8%B4%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D8%B3%D9%84%D9%8A)
+		- Killed in an air strike after planting a bomb in front of IDF tank columns 
+	- [Bilal al-Abd al-Haj Ali](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/942/%D8%A8%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D8%A7%D8%AC-%D8%B9%D9%84%D9%8A)
+		- Killed in an air strike after planting a bomb in front of IDF tank columns 
+	- [Ahmed Salah Hawass](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/940/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%AD%D9%88%D8%A7%D8%B3)
+		- Killed in an air strike on his way back from a mission on Jan 7th
+	- [Ahmed Adeeb Junaid](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/937/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A3%D8%AF%D9%8A%D8%A8-%D8%AC%D9%86%D9%8A%D8%AF)
+		- Killed in an airstrike withdrawing from an abandoned house on Jan 7th
+	- [Amr Mohamed Nassar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1113/%D8%B9%D9%85%D8%B1%D9%88-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%A7%D8%B1)
+		- Killed Jan 8th in an airstrike after arriving at his "anchor point"
+	- [Rami Mahmoud Abu al-Atta](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1083/%D8%B1%D8%A7%D9%85%D9%8A-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%B9%D8%B7%D8%A7)
+		- Killed Jan 11th in what seems to have been a fight with other Gazans who tried to stop him from firing missiles
+	- [Salman Fahmy al-Astal](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/996/%D8%B3%D9%84%D9%85%D8%A7%D9%86-%D9%81%D9%87%D9%85%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B7%D9%84)
+		- Killed Jan 9th after an airstrike on a tunnel  
+	- [Ahmed Muhammad al-Astal](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/994/%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%B7%D9%84)
+		- Suffocated to death in a tunnel that had filled up with "poisonous gas" (most likely a result of bombing)
+	- [Muhammad Ali Sultan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/975/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86)
+		- Killed in an airstrike whilst supplying fighters
+	- [Asaad Muhammad al-Jamla](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/961/%D8%A3%D8%B3%D8%B9%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AC%D9%85%D9%84%D8%A9)
+		- Killed fighting the IDF with mortars on Jan 8th
+	- [Ibrahim Mahmoud "Abu al-Baraa"](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1190/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%88%D8%B4%D8%A7%D8%AD)
+		- Worked in the <span style="color:#ffc000">Navy and the police</span> force, killed by an air strike on Jan 9th 
+	- [Bahaa Zaki Aslim](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1007/%D8%A8%D9%87%D8%A7%D8%A1-%D8%B2%D9%83%D9%8A-%D8%A7%D8%B3%D9%84%D9%8A%D9%85)
+		- Worked in the <span style="color:#ffc000">Security and Protection Service</span>, killed Jan 9th whilst on the move with a group of fighters
+	- [Shaaban Muhammad Mushtaha](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/963/%D8%B4%D8%B9%D8%A8%D8%A7%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%B4%D8%AA%D9%87%D9%89)
+		- Killed on Jan 9th at work <span style="color:#ffc000">"near the passport office"</span>, told his friends he worked at the police in order to keep his al-Qassam membership secret 
+	- [Jamal Hussein al-Sumairi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/920/%D8%AC%D9%85%D8%A7%D9%84-%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D9%85%D9%8A%D8%B1%D9%8A)
+		- Killed by an air strike whilst moving to his anchor point
+	- [Muhammad Ibrahim Abu Shaar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/898/%D9%85%D8%AD%D9%85%D8%AF-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A3%D8%A8%D9%88-%D8%B4%D8%B9%D8%B1)
+		- Killed after launching missiles at Israeli towns on Jan 9th, earned a salary <span style="color:#ffc000">"from his work in the Palestinian police"</span>
+	- [Sherif Zaki Sobh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2295/%D8%B4%D8%B1%D9%8A%D9%81-%D8%B2%D9%83%D9%8A-%D8%B5%D8%A8%D8%AD) 
+		- Killed by "deadly gas" in a tunnel with his two brothers and cousin 
+	- [Rizk Sami Sobh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2292/%D8%B1%D8%B2%D9%82-%D8%B3%D8%A7%D9%85%D9%8A-%D8%B5%D8%A8%D8%AD)
+		- Killed by "deadly gas" in a tunnel with his two brothers and cousin
+	- [Basil Sami Sobh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2284/%D8%A8%D8%A7%D8%B3%D9%84-%D8%B3%D8%A7%D9%85%D9%8A-%D8%B5%D8%A8%D8%AD)
+		- Killed by "deadly gas" in a tunnel with 3 other fighters (Nashat, Rizk and Sherif Sobh)
+	- [Ahmed Sobi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1211/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B5%D8%A8%D8%AD%D9%8A-%D8%A3%D9%87%D9%84) (weird translation)
+		- Killed <span style="color:#ffc000">"carrying out his usual jihadist work"</span>
+	- [Hassan Muhammad Harb](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1210/%D8%AD%D8%B3%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%AD%D8%B1%D8%A8)
+		- Killed Jan 10th in an air strike
+	- [Issa Abdul Rahim Saleh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1145/%D8%B9%D9%8A%D8%B3%D9%89-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-%D8%B5%D8%A7%D9%84%D8%AD)
+		- Killed attempting to rescue a father and daughter whose house had just been bombed
+	- [Tariq Ibrahim Abu Tabikh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1077/%D8%B7%D8%A7%D8%B1%D9%82-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A3%D8%A8%D9%88-%D8%B7%D8%A8%D9%8A%D8%AE)
+		- <span style="color:#ffc000">Worked as an escort in the Security and Protection Service</span>, killed Jan 10th attending to <span style="color:#ffc000">"the wounded and the Mujahideen"</span> who were struck near his house
+	- [Muhammad Khalil al-Tatar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1067/%D9%85%D8%AD%D9%85%D8%AF-%D8%AE%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D8%AA%D8%B1)
+		- <span style="color:#ffc000">"underwent... advanced military courses to qualify and develop trainers, whether in the military apparatus or in the Palestinian police"</span>, killed "in the field" on Jan 10th 
+	- [Ramzi Rafi Abu Ghanima](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1046/%D8%B1%D9%85%D8%B2%D9%8A-%D8%B1%D8%A7%D9%81%D8%B9-%D8%A3%D8%A8%D9%88-%D8%BA%D9%86%D9%8A%D9%85%D8%A9)
+		- Killed confronting the IDF on Jan 10th 
+			- "A number of mujahideen were martyred with him, namely: Abd al-Rahman al Kashif and Muhammad al-Kashif, both of whom were mujahideen from the al-Nasser Salah al-Din Brigades, and Ibrahim Hamdan, Muhannad al-Naji, <span style="color:#ffc000">Mahmoud Shamlakh</span>, <span style="color:#ffc000">Ali Shamlakh</span>, Issam Shamlakh, and <span style="color:#ffc000">Abu Arafat Shamlakh</span>, all of whom were mujahideen from the Qassam Brigades"
+	- [Mahmoud Ahmed Shamlakh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1044/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D8%B4%D9%85%D9%84%D8%AE) 
+		- Killed confronting the IDF on Jan 10th
+	- [Ali Ishaq Shamlakh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1042/%D8%B9%D9%84%D9%8A-%D8%A5%D8%B3%D8%AD%D8%A7%D9%82-%D8%B4%D9%85%D9%84%D8%AE) 
+		- Killed confronting the IDF on Jan 10th
+	- [Abdullah Arafat Shamlakh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1041/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D8%B1%D9%81%D8%A7%D8%AA-%D8%B4%D9%85%D9%84%D8%AE)
+		- <span style="color:#ffc000">Worked in the ranks of the Executive Force</span>, killed confronting the IDF on Jan 10th
+	- [Abdullah Saeed al-Aimawi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1011/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%B3%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D9%8A%D9%85%D8%A7%D9%88%D9%8A)
+		- Mortally wounded whilst carrying out first aid, died 2 days later 
+	- [Amir Youssef al-Mansi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/900/%D8%A3%D9%85%D9%8A%D8%B1-%D9%8A%D9%88%D8%B3%D9%81-%D8%A7%D9%84%D9%85%D9%86%D8%B3%D9%8A) 
+		- Killed launching rockets on Jan 10th 
+	- [Ahmed Gomaa al-Shaer](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/895/%D8%A3%D8%AD%D9%85%D8%AF-%D8%AC%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%B9%D8%B1)
+		- <span style="color:#ffc000">Chosen as a worker in the General Security Service of the Hamas movement</span>, killed firing at settlements on Jan 10th
+	- [Issam Ishak Shamlakh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2643/%D8%B9%D8%B5%D8%A7%D9%85-%D8%A5%D8%B3%D8%AD%D8%A7%D9%82-%D8%B4%D9%85%D9%84%D8%AE)
+		- Killed confronting the IDF on Jan 11th (possibly hit by white phosphorus)
+	- [Ibrahim Ayesh Suleiman](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2078/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%B9%D8%A7%D9%8A%D8%B4-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86) 
+		- Killed Jan 11th in an air strike whilst planning an ambush 
+	- [Nour Muhammad Omeish](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/999/%D9%86%D9%88%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%85%D9%8A%D8%B4) 
+		- Killed in an airstrike advancing to the front line
+	- [Aladdin Munther al-Shafi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2645/%D8%B9%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%85%D9%86%D8%B0%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D9%8A)
+		- Killed Jan 11th in an air strike whilst planting explosives
+	- [Shaaban Abdel Mawla al-Ghara](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2642/%D8%B4%D8%B9%D8%A8%D8%A7%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%85%D9%88%D9%84%D9%89-%D8%A7%D9%84%D8%BA%D8%B1%D8%A9)
+		- Seems to have done <span style="color:#ffc000">police work</span> whilst in the <span style="color:#ffc000">Executive Force of the Marine Corps</span>, killed Jan 12th by an air strike approaching the front lines
+	- [Hassan Hisham al-Saqqa](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2081/%D8%AD%D8%B3%D8%A7%D9%86-%D9%87%D8%B4%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%82%D8%A7) 
+		- Killed advancing on the front lines on Jan 12th 
+	- [Hatem Musa Abu Daf](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1222/%D8%AD%D8%A7%D8%AA%D9%85-%D9%85%D9%88%D8%B3%D9%89-%D8%A3%D8%A8%D9%88-%D8%AF%D9%81)
+		- Joined the <span style="color:#ffc000">Executive Force and was among the ranks of the Marine Police</span>, killed on Jan 12th whilst installing a platform for launching missiles
+	- [Maysara Hamed Bulbul](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1186/%D9%85%D9%8A%D8%B3%D8%B1%D8%A9-%D8%AD%D8%A7%D9%85%D8%AF-%D8%A8%D9%84%D8%A8%D9%84)
+		- Joined the ranks of the Palestinian police, killed on Dec 27th <span style="color:#ffc000">"at the head of his work at the Passports Headquarters"</span>
+	- [Mustafa Juma al-Basha](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1160/%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%AC%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%A8%D8%A7%D8%B4%D8%A7)
+		- Killed Jan 12th in an air strike whilst monitoring the IDF
+	- [Bilal Muhammad Diba](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1072/%D8%A8%D9%84%D8%A7%D9%84-%D9%85%D8%AD%D9%85%D8%AF-%D8%AF%D9%8A%D8%A8%D9%87)
+		- Worked as a volunteer in the Traffic Police and then al-Quds TV, killed by a drone strike
+			- Killed along with Hassan Abu Hasira and Alaa Abdel Shafi
+	- [Sherif Sami Abu al-Khair](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1051/%D8%B4%D8%B1%D9%8A%D9%81-%D8%B3%D8%A7%D9%85%D9%8A-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1)
+		- Worked in the <span style="color:#ffc000">Palestinian police, joined the ranks of the Executive force from the beginning of its founding</span>, killed Jan 12th with his cousin, Khalil on their way to Palestine Square 
+			- Al-Fur and the Mujahid Tariq Fadl Jaafar killed with them 
+	- [Tamer Omar al-Louh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1049/%D8%AA%D8%A7%D9%85%D8%B1-%D8%B9%D9%85%D8%B1-%D8%A7%D9%84%D9%84%D9%88%D8%AD)
+		- Joined al-Qassam aged 17, mortally wounded in an air strike planting explosives, died in Egypt 8 days later
+	- [Tariq Fadl Jaafar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1048/%D8%B7%D8%A7%D8%B1%D9%82-%D9%81%D8%B6%D9%84-%D8%AC%D8%B9%D9%81%D8%B1)
+		- Killed Jan 12th walking to Palestine Square
+	- [Ayman Faraj Shaldan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1024/%D8%A3%D9%8A%D9%85%D9%86-%D9%81%D8%B1%D8%AC-%D8%B4%D9%84%D8%AF%D8%A7%D9%86)
+		- Killed after firing mortar shells on Jan 12th
+	- [Abdullah Mazen al-Ghara](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1017/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%A7%D8%B2%D9%86-%D8%A7%D9%84%D8%BA%D8%B1%D8%A9)
+		- Worked in the ranks of the Palestinian Navy Police, moved the work in Drug control (translation?), killed at his station on Jan 12th
+	- [Muhammad Jamal Nassar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/959/%D9%85%D8%AD%D9%85%D8%AF-%D8%AC%D9%85%D8%A7%D9%84-%D9%86%D8%B5%D8%A7%D8%B1)
+		- Killed in an air strike on Jan 12th 
+			- Along with Eid al-Shindi and a number of other mujahideen
+	- [Saad Muhammad Hassan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/958/%D8%B3%D8%B9%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%AD%D8%B3%D8%A7%D9%86)
+		- Killed confronting the IDF on Jan 12th 
+			- Accompanied by Osama al-Saifi and Mahmoud Juha
+	- [Eid Odeh al-Shindi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/957/%D8%B9%D9%8A%D8%AF-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%B4%D9%86%D8%AF%D9%8A)
+		- Killed in an air strike on Jan 12th 
+	- [Fathi Youssef al-Muzaini](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2765/%D9%81%D8%AA%D8%AD%D9%8A-%D9%8A%D9%88%D8%B3%D9%81-%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D9%86%D9%8A) 
+		- Killed in an air strike on Jan 13th with a group of companions (Muhammad Nader Abu Shaaban, Mamdouh Shuhaybar)
+	- [Hossam Hassan al-Jamasi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2682/%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B5%D9%8A) 
+		- Killed in an air strike Jan 13th 
+	- [Mohamed Abdel Mohamed Nasr](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2362/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1)
+		- Killed in an air strike advancing to the front line on Jan 14th 
+	- [Hani Muhammad Abu Rayyan](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2314/%D9%87%D8%A7%D9%86%D9%8A-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B1%D9%8A%D8%A7%D9%86) 
+		- Worked at the border, killed returning home after 3 days on the frontline 
+	- [Muhammad Khalil Abu Laila](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2087/%D9%85%D8%AD%D9%85%D8%AF-%D8%AE%D9%84%D9%8A%D9%84-%D8%A3%D8%A8%D9%88-%D9%84%D9%8A%D9%84%D8%A9)
+		- Killed in an air strike on Jan 13th 
+	- [Muhammad Hassan al-Barawy](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2086/%D9%85%D8%AD%D9%85%D8%AF-%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%88%D9%8A)
+		- Killed in an air strike whilst transporting injured fighters
+	- [Mazen Fayez al-Sherbasi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2085/%D9%85%D8%A7%D8%B2%D9%86-%D9%81%D8%A7%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%B1%D8%A8%D8%A7%D8%B5%D9%8A)
+		- Killed in an air strike on Jan 13th 
+	- [Kamel Jamil al-Sarhi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2084/%D9%83%D8%A7%D9%85%D9%84-%D8%AC%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D8%B1%D8%AD%D9%8A) 
+		- Shot dead on Jan 13th 
+	- [Hassan Muhammad Abu Zamar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2082/%D8%AD%D8%B3%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B2%D9%85%D8%B1)
+		- Shot dead Jan 13th after running out of ammunition 
+	- [Ahmed Kamal al-Dalu](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2079/%D8%A3%D8%AD%D9%85%D8%AF-%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%84%D9%88)
+		- <span style="color:#ffc000">Worked as an administrator at the Abbas Police Station</span>, killed at the border on Jan 13th 
+	- [Ibrahim Ismail Dabbash](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/2077/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%AF%D8%A8%D8%A7%D8%A8%D8%B4) 
+		- Killed in an air strike on Jan 13th, accompanied by his brother <span style="color:#ffc000">"the Mujahid and companion Hassan"</span>
+	- [Younis Muhammad al-Sharbasi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1298/%D9%8A%D9%88%D9%86%D8%B3-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B4%D8%B1%D8%A8%D8%A7%D8%B5%D9%8A)
+		- Killed in an air strike Jan 12th 
+	- [Ibrahim Rafiq Abu al-Khair](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1284/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%B1%D9%81%D9%8A%D9%82-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1)
+		- <span style="color:#ffc000">Worked in the Security and Protection Service</span>, killed in an air strike on Jan 14th 
+	- [Hossam Fathi Abu al-Sabah](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1177/%D8%AD%D8%B3%D8%A7%D9%85-%D9%81%D8%AA%D8%AD%D9%8A-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%B3%D8%A8%D8%AD)
+		- Killed Jan 6th in an air strike 
+	- [Ahmed Abed al-Hasanat](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1175/%D8%A3%D8%AD%D9%85%D8%AF-%D8%B9%D8%A7%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D8%A7%D8%AA)
+		- Worked <span style="color:#ffc000">"as an officer in the traffic and rescue police in the central region"</span>, killed Jan 6th in an air strike 
+	- [Hassan Ahmed Mushm](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1174/%D8%AD%D8%B3%D9%86-%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%B3%D9%85%D8%AD)
+		- Killed in an air strike on June 6th 
+	- [Khalil Madi al-Hasanat](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1173/%D8%AE%D9%84%D9%8A%D9%84-%D9%85%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D8%A7%D8%AA)
+		- Killed in an air strike whilst approaching Israeli forces on the seashore 
+	- [Ali Omar al-Tanani](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1097/%D8%B9%D9%84%D9%8A-%D8%B9%D9%85%D8%B1-%D8%A7%D9%84%D8%B7%D9%86%D8%A7%D9%86%D9%8A)
+		- <span style="color:#ffc000">"Worked in the ranks of the Palestinian police"</span>, stationed at the borders, killed in an air strike Jan 13th 
+	- [Muhammad Nader Abu Shaaban](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1082/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%A7%D8%AF%D8%B1-%D8%A3%D8%A8%D9%88-%D8%B4%D8%B9%D8%A8%D8%A7%D9%86)
+		- Killed in an air strike Jan 13th 
+	- [Tawfiq Hassan al-Dairi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1069/%D8%AA%D9%88%D9%81%D9%8A%D9%82-%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%AF%D9%8A%D8%B1%D9%8A)
+		- Killed Jan 13th in an air strike on the front line
+	- [Mamdouh Walid Shuhaiber](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1021/%D9%85%D9%85%D8%AF%D9%88%D8%AD-%D9%88%D9%84%D9%8A%D8%AF-%D8%B4%D8%AD%D9%8A%D8%A8%D8%B1)
+		- Killed in an air strike Jan 13th 
+	- [Muhammad Bassam Eid](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1001/%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D8%B3%D8%A7%D9%85-%D8%B9%D9%8A%D8%AF)
+		- Killed Jan 6th by an air strike whilst planting explosives
+	- [Alaa Ismail Jaber Ismail](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/983/%D8%B9%D9%84%D8%A7%D8%A1-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%AC%D8%A7%D8%A8%D8%B1-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84)
+		- Killed Jan 6th in an air strike
+	- [Nidal Muhammad Abu Raida](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/951/%D9%86%D8%B6%D8%A7%D9%84-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B1%D9%8A%D8%AF%D8%A9)
+		- Killed Jan 13th in an air strike
+	- [Osama Ayoub al-Saifi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/941/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9-%D8%A3%D9%8A%D9%88%D8%A8-%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A)
+		- <span style="color:#ffc000">"Worked in the special police service, and then moved to work in the law enforcement agency"</span>, killed in a skirmish Jan 12th 
+	- [Ahmed Jumaa Abu Jamous](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/939/%D8%A3%D8%AD%D9%85%D8%AF-%D8%AC%D9%85%D8%B9%D8%A9-%D8%A3%D8%A8%D9%88-%D8%AC%D8%A7%D9%85%D9%88%D8%B3)
+		- Killed Jan 13th in an air strike whilst moving to help a number of injured fighters at monitoring positions
+	- [Mahmoud Ahmed Juha](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/910/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D8%AC%D8%AD%D8%A7)
+		- Killed in an air strike returning from from a resupplying mission 
+	- [Raed Ahmed al-Safadi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85)
+		- Killed Jan 14th <span style="color:#ffc000">"on a jihadi mission with some of his brothers"</span> 
+	- [Musa Hassan Abu Nar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1116/%D9%85%D9%88%D8%B3%D9%89-%D8%AD%D8%B3%D9%86-%D8%A3%D8%A8%D9%88-%D9%86%D8%A7%D8%B1)
+		- <span style="color:#ffc000">"Escort in the Security and Protection Service"</span>, killed by <span style="color:#ffc000">"Abbas's forces from Ramallah" </span>
+	- [Mahmoud Bakr al-Zabut](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1076/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A8%D9%83%D8%B1-%D8%A7%D9%84%D8%B2%D8%B9%D8%A8%D9%88%D8%B7)
+		- Killed Jan 14th in a drone strike
+	- [Bilal Jamal Abu Awad](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1038/%D8%A8%D9%84%D8%A7%D9%84-%D8%AC%D9%85%D8%A7%D9%84-%D8%A3%D8%A8%D9%88-%D8%B9%D9%88%D8%A7%D8%AF)
+		- Killed Jan 14th in a strike on a house which seemed to have been evacuated shortly before, he had apparently gone back inside to get "important papers"
+	- [Iyad Shaaban al-Maqousi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/991/%D8%A5%D9%8A%D8%A7%D8%AF-%D8%B4%D8%B9%D8%A8%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%82%D9%88%D8%B3%D9%8A) 
+		- Killed Jan 14th in an air strike
+	- [Hamdi Saleh Hamada](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/976/%D8%AD%D9%85%D8%AF%D9%8A-%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D9%85%D8%A7%D8%AF%D8%A9)
+		- Killed in an air strike on the front lines Jan 14th 
+	- [Walid Hamouda al-Zaabout](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/967/%D9%88%D9%84%D9%8A%D8%AF-%D8%AD%D9%85%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D8%A8%D9%88%D8%B7)
+		- Killed in a store with two companions after completing tasks in the field 
+			- Riyad al-Rai, Mazen al-Dash
+	- [Riyad Muhammad al-Rai](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/945/%D8%B1%D9%8A%D8%A7%D8%B6-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D8%B9%D9%8A)
+		- Killed in a store with two companions after offering condolences at a martyr's wedding next to the al-Farouq Mosque, Jan 14th
+	- [Fares Muhammad Khalil Abdeen](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/934/%D9%81%D8%A7%D8%B1%D8%B3-%D9%85%D8%AD%D9%85%D8%AF-%D8%AE%D9%84%D9%8A%D9%84-%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86)
+		- Killed in an air strike Jan 14th, <span style="color:#ffc000">"two weeks after his wedding"</span>
+	- [Othman Abu Senima](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/929/%D8%B9%D8%AB%D9%85%D8%A7%D9%86-%D8%B9%D8%B7%D9%8A%D9%87-%D8%A3%D8%A8%D9%88-%D8%B3%D9%86%D9%8A%D9%85%D8%A9) 
+		- Killed Jan 14th in an air strike after firing mortar shells 
+	- [Abdullah Abdul Hamid Abu Muammar](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/928/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF-%D8%A3%D8%A8%D9%88-%D9%85%D8%B9%D9%85%D8%B1)
+		- Killed Jan 14th whilst firing mortar shells 
+	- [Mazen Asaad al-Dash](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/909/%D9%85%D8%A7%D8%B2%D9%86-%D8%A3%D8%B3%D8%B9%D8%AF-%D8%A7%D9%84%D8%B6%D8%A7%D8%B4)
+		- Killed in a store with two companions after offering condolences at a martyr's wedding next to the al-Farouq Mosque, Jan 14th  
+	- [Tamer Ibrahim Abu Asr](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/907/%D8%AA%D8%A7%D9%85%D8%B1-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A3%D8%A8%D9%88-%D8%B9%D8%B5%D8%B1)
+		- Killed Jan 14th barricaded in a house which he was using as a sniping position 
+	- [Muhammad Suleiman Al-Jamasi](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/906/%D9%85%D8%AD%D9%85%D8%AF-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B5%D9%8A) 
+		- Killed Jan 14th killed in an air strike after firing mortar shells 
+	- [Abdul Azim Abdel al-Jabda](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1206/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%B8%D9%8A%D9%85-%D8%B9%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D8%A8%D8%A9)
+		- <span style="color:#ffc000">Worked in the Security and Protection Service in the Palestinian Government</span>, killed entering the house of his uncle which was shelled with his sisters inside
+	- [Fadi Hassan Hassanein](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1205/%D9%81%D8%A7%D8%AF%D9%89-%D8%AD%D8%B3%D9%86-%D8%AD%D8%B3%D9%86%D9%8A%D9%86) 
+		- <span style="color:#ffc000">Worked in the ranks of the security apparatus affiliated with the Hamas movement</span>, killed Jan 15th whilst preparing short-range Qassam missiles
+	- [Muhammad Zuhair al-Aloul](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1202/%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%88%D9%84)
+		- Killed Jan 15th extinguishing a fire at a bombed house
+	- [Mahmoud Khader Abu Salem](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1086/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%AE%D8%B6%D8%B1-%D8%A3%D8%A8%D9%88-%D8%B3%D8%A7%D9%84%D9%85)
+		- Killed in an air strike Jan 15th whilst preparing an explosive
+	- [Zaki Rafiq Shuhaiber](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1071/%D8%B2%D9%83%D9%8A-%D8%B1%D9%81%D9%8A%D9%82-%D8%B4%D8%AD%D9%8A%D8%A8%D8%B1)
+		- <span style="color:#ffc000">Joined the intervention and order-keeping unit of the Palestinian police</span>, killed on Jan 15th fighting the IDF in the Tal al-Islam neighbourhood
+			- Martyred with Hamdi al-Banna, Tamer Faza, Haim Hamada
+	- [Imad Maher Farwaneh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1068/%D8%B9%D9%85%D8%A7%D8%AF-%D9%85%D8%A7%D9%87%D8%B1-%D9%81%D8%B1%D9%88%D8%A7%D9%86%D8%A9)
+		- Killed on Jan 15th fighting the IDF in the Tal al-Islam neighbourhood
+	- [Tamer Riad Faza](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1062/%D8%AA%D8%A7%D9%85%D8%B1-%D8%B1%D9%8A%D8%A7%D8%B6-%D9%81%D8%B2%D8%B9) 
+		- Killed on Jan 15th fighting the IDF in the Tal al-Islam neighbourhood
+	- [Haitham Abdel-Hafez Abdel-Al](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1061/%D9%87%D9%8A%D8%AB%D9%85-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D8%A7%D9%81%D8%B8-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84)
+		- <span style="color:#ffc000">Worked in the ranks of the Palestinian police in the legitimate government headed by Prime Minister Ismail Haniyeh</span>, killed Jan 15th monitoring IDF movements 
+	- [Sheda Fathi al-Kurd](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/968/%D8%B4%D8%AD%D8%AF%D8%A9-%D9%81%D8%AA%D8%AD%D9%8A-%D8%A7%D9%84%D9%83%D8%B1%D8%AF)
+		- <span style="color:#ffc000">Director of operations in the Rafah Police, holding the rank of captain</span>, killed Jan 15th during a mortar mission 
+	- [Yasser Rashid Aslam](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/965/%D9%8A%D8%A7%D8%B3%D8%B1-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A5%D8%B3%D9%84%D9%8A%D9%85) 
+		- <span style="color:#ffc000">Active in the General Security Service</span>, killed in an air strike Jan 15th
+	- [Ramadan Shaaban al-Faluji](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/932/%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D8%B4%D8%B9%D8%A8%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D8%A7%D9%84%D9%88%D8%AC%D9%8A)
+		- Killed in an air strike near his house on Jan 15th 
+	- [Osama Jamal Obaid](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1189/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9-%D8%AC%D9%85%D8%A7%D9%84-%D8%B9%D8%A8%D9%8A%D8%AF)
+		- Mortally wounded on Jan 4th at the borders, died 12 days later 
+	- [Omar Mahmoud al-Marnekh](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/992/%D8%B9%D9%85%D8%B1-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D9%86%D8%AE) 
+		- Wounded Jan 16th supporting <span style="color:#ffc000">"his fellow mujahideen.. in front of the Taha Mosque"</span>
+	- [Ahmed Ibrahim Gomaa](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/955/%D8%A3%D8%AD%D9%85%D8%AF-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%AC%D9%85%D8%B9%D8%A9)
+		- Killed in an air strike on Jan 16th
+	- [Bilal Tayseer Musa](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/911/%D8%A8%D9%84%D8%A7%D9%84-%D8%AA%D9%8A%D8%B3%D9%8A%D8%B1-%D9%85%D9%88%D8%B3%D9%89)
+		- Killed Jan 16th in an air strike
+	- [Musaab Muhammad Abu al-Amrain](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1200/%D9%85%D8%B5%D8%B9%D8%A8-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%D9%86)
+		- Died Jan 17th fighting from an apartment tower, with two other Mujahideen 
+	- [Muhammad Mustafa Abdel Razek](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1089/%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%A7%D8%B2%D9%82)
+		- Killed in an air strike whilst carrying military equipment on Jan 18th 
+	- [Imad Abdullah Miqdad](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1115/%D8%B9%D9%85%D8%A7%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D9%85%D9%82%D8%AF%D8%A7%D8%AF)
+		- Became a <span style="color:#ffc000">"soldier in the security service in 2006"</span>, killed in an air strike firing mortars Jan 15th
+	- [Muhammad Mahmoud al-Borai](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1034/%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D8%A8%D8%B1%D8%B9%D9%8A)
+		- Mortally wounded in the strike on the <span style="color:#ffc000">"passport site"</span>, died after the ceasefire 
+		
+	NOTE: in [this entry](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1200/%D9%85%D8%B5%D8%B9%D8%A8-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%D9%86) it mentions a strike which killed 3 Mujahideen, but only 1 listing appears on that date - further evidence that not every al-Qassam fighter is listed on this page 
+- Names of fighters mentioned in other obituaries without their own pages
+	- Abd al-Rahman al Kashif
+	- Muhammad al-Kashif
+	- Ibrahim Hamdan
+	- Muhammad al-Naji
+	- Hassan (Ismail) Dabbash
+	- Hamdi al-Banna
+	- Naim Hamada
+- Key police / security locations & institutions
+	- "<span style="color:#ffc000">Palestinian Navy position</span> / Marine Police Site near Deir al-Balah"
+		- 3 stations - Deir al-Balah, Sudanese Sea (Gaza City), Gaza Port
+	- "<span style="color:#ffc000">Southern Police Station</span>"
+		- South of Deir al-Balah governorate
+	- "<span style="color:#ffc000">Abu Madin police station</span>"
+		- In Bureij
+		- Possibly also referred to as the Central Governorate Station
+	- <span style="color:#ffc000">"Passport headquarters"</span>
+		- Two buildings, 100m apart 
+		- One building more for population registry, the other (<span style="color:#ffc000">Abbas station</span>) for policing
+		- 50m from al-Katiba Mosque 
+	- <span style="color:#ffc000">"Security and Protection Service"</span>
+		- Umbrella term for the police
+	- <span style="color:#ffc000">"Ansar military headquarters"</span>
+		- Zeitoun district
+	- <span style="color:#ffc000">"The Forum"</span>
+		- Government compound in Gaza City 
+		- Next to al-Katiba Mosque
+	- <span style="color:#ffc000">"Internal Security Service"</span> 
+		- Headquarter building in al-Mashtal (Rimal district, Gaza City)
+	- <span style="color:#ffc000">"Ministry of Interior"</span>
+		- Ministry that overlooks the police force 
+	- <span style="color:#ffc000">"al-Zahraa police station"</span>
+		- Between Nuseirat and Gaza City by the coast 
+		- Also known as the "Civil Defence Site"
+	- <span style="color:#ffc000">"General Investigation Centre"</span>
+		- In Deir al-Balah, might just be within a police station 
+	- <span style="color:#ffc000">"Executive Force"</span>
+		- [Hamas police force](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D9%88%D8%A9_%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A%D8%A9#cite_note-:0-1), est. 2006 by the Ministry of Interior to "assist and modernist the police force" 
+		- Established because PA forces were not co-operating with Hamas 
+		- 2,500 members from Hamas, 1,000 Fatah, 2,500 from other factions
+	- <span style="color:#ffc000">"Civil Administration site"</span>
+		- East of Jabalia 
+	- <span style="color:#ffc000">"Intervention and Order Preservation Forces"</span>
+		- Just seems to be another term for the police force 
+	- <span style="color:#ffc000">"General Security Agency"</span>
+		- Not under the Ministry of Interior (potentially directly under Hamas?)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- NOTE: Al-Katiba Mosque, where it seems a few al-Qassam fighters were killed is apparently located [next to the Ansar military site](https://alqassam.ps/arabic/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85/1188/%D8%B6%D9%8A%D8%A7%D8%A1-%D8%B7%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%87%D8%A8%D9%8A%D9%84)
+- https://archive.org/services/wayback-gsheets/
+
+

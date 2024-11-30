@@ -1,0 +1,292 @@
+###### Background 
+- Ottoman rule
+	- 1860 war between Druze and Maronites
+		- Mount Lebanon divided between the two groups in 1842 by the Ottomans 
+		- 10,000 Christians and 6,000 Druze massacred 
+	- World War I 
+		- Most Lebanese fought in the Ottoman army
+		- 4 year famine, food requisitions and plague of locusts resulted in 200,000 dead (1915-1918)
+- French Mandate 1920-1943
+	- French state of Greater Lebanon intended to be a safe haven for Maronites
+	- Placed Christians in a leading position in the government
+	- 1936, Phalange party founded by Pierre Gemayel
+	- Christian majority until influx of Palestinians from 1948 & 1967 
+	- Vichy French forces take control in WWII; ousted in 1941; Free French troops leave in 1946
+- 1948 war
+	- Influx of Palestinian refugees to Lebanon 
+	- Some IDF massacres carried out against (mostly) Lebanese muslims
+- Lebanese crisis 1958
+	- President Camille Chamoun attempts to break monopoly of power held by traditional political families (oligarchy)
+		- Families lose positions and start war with Chamoun
+	- Tensions rise with Arab countries after Chamoun maintains diplomatic relations with Western powers in 1956 Suez Canal Crisis 
+		- Nasser attacks Chamoun due to suspected support for the Baghdad Pact (US led)
+		- Chamoun sought regional pacts to ensure protection (weak national army)
+	- Muslims, pan-Arabists & leftists mostly side with Arab countries (Soviet-aligned)
+		- Syrian and Egyptian proxies deployed into the conflict (initially wanted Lebanon to join the United Arab Republic)
+			- Nasser deployed the Arab Nationalist Movement (ANM; later the PFLP) and PLO faction to Lebanon 
+			- Militias attempted coups in Jordan and Iraq through the 1950s at Nasser's bidding 
+			- Arafat aimed to use the uprising as a way to add to the war against Israel 
+		- Chamoun asks for US assistance 
+			- Fails to convince Maronite army to quell Muslim demonstrations
+			- Phalange militias step in to end road blockades 
+			- Gemayel wins a position in the 4-man cabinet
+###### Palestinian insurgency
+- 1960s: ~400,000 Palestinian refugees in Lebanese camps
+- Relative calm in 1960s; increasing activity from Fatah and other PLO factions (state within a state)
+- Relocation from Jordan after Black September (1970-1971)
+	- Attempted coup by trying to split the Jordanian army 
+- Lebanese National Movement initially tried to bring a more secular, democratic order (until 1976)
+	- Progressive demands faded as more Islamist groups joined (with the encouragement of the PLO)
+	- Islamists pushed for rule by Muslim clerics 
+- PLO expands control
+	- Sidon & Tyre in the 1970s
+	- High concentration of control in southern Lebanon (checkpoint system for local Shiites)
+	- PLO move to take over Western Beirut
+- Fishermen strike in 1975
+	- Chamoun attempts to consolidate fishing on the Lebanese coast
+	- Demonstrations against the fishing company became supported by the PLO and the political left 
+	- Demonstrations suppressed and the former mayor killed by a sniper (allegedly)
+
+###### Sectarianism
+- Lebanese Front (nationalist Maronites opposed to Palestinian militancy) vs Lebanese National Movement (pro-Palestinian leftists)
+- Militias deteriorating into mafia-style orgs
+	- Funded by outside support from Syria, Israel, Iran etc 
+	- Road checkpoints often used to raise taxes from local communities (often used to extort)
+- Cantons (rival administrations created as central government lost authority)
+- Maronite Christians
+	- Arms acquired from Romania, Bulgaria, West Germany, Belgium, Israel, Iraq, Jordan, Pahlavi Iran, Saudi Arabia
+	- National Liberal Party 
+		- Initially the most powerful militia, founded in 1968 and led by Chamoun's son
+	- Phalangists 
+		- Founded by Pierre Gemayel in 1936
+		- Merged with Tigers Militia (NLP) and other minor groups forming the Lebanese Forces
+		- 1980: Tigers militia split with Lebanese Forces
+			- Gemayel launched a surprise attack on the Tigers (Safra massacre), killing 83 people and ending the militia
+		- 1985: Lebanese Forces split from the Phalangists
+- Secularists
+	- Lebanese Communist Party; Syrian Social Nationalist Party (Greater Syria; NOT Pan-Arab; did not initially support Ba'athism but does now)
+	- South Lebanon Army (SLA)
+		- Acted in coordination with Israelis
+		- Bulwark against PLO raids
+		- Would later fight against Hezbollah 
+		- Collapsed in 2000 (Israeli withdrawal)
+	- Ba'ath movements, Kurdistan Workers Part, Armenian Marxist Leninist Militia
+- Palestinians 
+	- 20,000 fighters in 1975
+	- Non-sectarian (Palestinian Christians fought alongside the Muslim majority org against Lebanese Christians)
+	- Fatah instrumental to splitting the DFLP from the PFLP in order to diminish competition 
+		- Smaller split offs: Palestinian Liberation Front (PLF) and Popular Front for the Liberation of Palestine - General Command (PFLP-GC)
+	- Ba'athist countries both set up Palestinian puppet orgs; as-Sa'iqa (Syria) and the Arab Liberation Front (ALF)
+- Shia Muslims
+	- Poorest community Lebanon with no formal organisation of their own 
+	- Formed majority membership in various Communist parties and also joined Baathist factions; others joined the PLO
+	- Clerics joined the underground Islamic Dawa Party (later took part in forming Hezbollah)
+	- Amal (1,500-6,000 fighters)
+		- Movement of the Dispossessed, founded in 1975
+		- Opposed in-fighting and neglect of Shiite areas
+		- Criticised Israeli and PLO factions in the south but ultimately supported Palestine 
+	- Hezbollah (25,000 fighters by 1988)
+		- Established following Israel's invasion 
+		- Mainly aimed to end Israeli occupation and end western influence in Lebanon
+		- Recruitment hub in Dahiya, training ground in Bekaa and operational ground in the south
+		- Attracted more Shiites as support for leftist and Palestinian groups declined
+	- Alawites (Shia sect in Northern Lebanon)
+		- 1,000 fighters (Red Knights Militia of the Arab Democratic Party) 
+- Sunni Muslims
+	- Supported by Libya and Iraq
+	- Most prominent groups supported secular Nasserist ideology or Arab nationalist
+	- Some Islamist ones such as the Tawhid Movement in Tripoli or Jama'a Islamiyya (linked to Muslim Brotherhood)
+	- Largest organisation al-Mourabitoun in West Beirut
+		- Sided with Palestinians against Israelis in 1982
+- Armenians
+	- Christian but also mostly left wing, so mostly just committed to self-defence militias 
+	- Attacked by Phalangists in 1979, attempting to gain control of Bourj Hamoud and Naaba suburbs in Beirut
+		- Attack thwarted; 40 dead 
+
+###### Phase One (1975-1977)
+- April 1975: Bus Massacres
+	- Minor clashes between Lebanese National Movement (LNM) and Phalangists in spring 1975
+	- April 13th 1975: Unidentified gunmen fired on a church in east Beirut, killing 4 people including 2 Phalangists
+	- Phalangists kill 30 Palestinians in a bus in the same area only a few hours later 
+- 1975-1976: Battle of the Hotels
+	- Battle fought for the hotel complex which functioned as a vantage point for snipers
+	- Resulted in division of Beirut along east-west line & expulsion of Muslims and leftists from East Beirut
+- December 1975: Black Saturday
+	- Killing of 4 Phalange members results in setting up of roadblocks throughout Beirut for inspection of ID cards
+	- Many Palestinians and Lebanese Muslims killed at roadblocks immediately
+- January 18th 1976: Karantina Massacre
+	- 1,000-1,500 people killed by Maronite forces
+- January 20th 1976: Damour Massacre
+	- 582 killed by the PLO
+	- Massacres resulted in mass flight of Muslims and Christians who fled to areas controlled by their respective sects
+	- East and West Beirut became Christian and Muslim 
+		- Christian leftists who supported the LNM & Muslim conservatives who supported the government quickly switched and to align on sectarian lines
+	- Arafat's Fatah brought in along with the PLO to the side of the LNM 
+- 1976 Syrian intervention 
+	- Hafez al-Assad brokers truce between the two sides, whilst also moving Syrian troops into Lebanon (under the guise of the PLO)
+		- Aim to bring the PLO back under Syrian influence 
+		- Violence still escalates and Lebanese President, Suleiman Frangieh asks Syria to formally intervene
+- May 1976: Presidential election
+	- Elias Sarkis (supported by Syria) defeats Frangieh who refuses to step down 
+	- June: 12,000 Syrian troops enter Lebanon and carry out military operations against Palestinian and leftist militias
+		- Political interests in Lebanon, which had Sunni Islamist and anti-Ba'athist (Muslim Brotherhood) cells
+	- Israel supplying Maronites with arms, tanks and military advisers
+-  August 12th 1976: Tel al-Zaatar Massacre
+	- Refugee camp in East Beirut under siege by Maronite militias since January
+	- Maronite forces (supported by Syria) manage to overwhelm the camp, massacre 1,000-1,500 civilians
+- October 19th 1976: Battle of Aishiya 
+	- PLO and Communist militants attack an isolated Maronite village 
+	- IDF fails to repel attackers and Maronites flee (returning in 1982)
+- October 1976: Arab League summit in Riyadh
+	- Syria given a mandate to keep 40,000 troops in Lebanon in order to restore the peace
+	- Civil War officially paused
+	- Deterioration in the south as PLO combatants return from central Lebanon 
+	- 60,000 people killed in the first phase
+###### Phase Two (1977-1982)
+- Feb-April 1978: Hundred Days' War
+	- Syrian troops shelling Christian Beirut area of Achrafiyeh for 100 days
+	- Eventually deterred and expelled from East Beirut
+	- 160 dead, 400 injured
+- March 11th 1978: Coastal Road Massacre & Israeli invasion
+	- 11 Fatah fighters hijack two busses on the Haifa - Tel-Aviv road, shooting at passing vehicles, killing 37 and injuring 76
+	- Israel invades four days later in Operation Litani, occupying most of the area south of the river
+	- UN Security Council passes Resolution 425 calling for immediate Israeli withdrawal 
+	- Israel later withdrew but still kept a 12 mile security zone along the border, held by the SLA (Christian-Shi'a militia)
+		- Begin compared the plight of the Christian minority in South Lebanon to that of European Jews in WWII
+- July 7th 1980: Day of the Long Knives
+	- Massacre in Safra (coastal town north of Beirut)
+	- Gemayel attempting to consolidate all Maronite fighters by attacking the Tigers Militia 
+- December 1980 - June 1981: Battle of Zahleh
+	- Begin, ahead of losing an election, publicly acknowledged alliance with the Phalangists; pledged to intervene if the Syrian army attacked them 
+	- Syrian siege of Phalangist stronghold on the edge of the Beqaa Valley 
+	- Intervention from the IAF shot down 2 Syrian helicopters, but siege tightened 
+	- Israeli commandos attack a PFLP-GC site near Damour, killing four Libyans (US informed beforehand)
+- July 17th 1981: Israeli bombing of PLO office buildings in Beirut
+	- 300 civilians killed and 800 wounded
+	- Worldwide condemnation and temporary embargo on export of US aircraft to Israel 
+	- Ariel Sharon begins planning to attack PLO infrastructure in West Beirut
+###### Phase Three, Israeli invasion (1982-1984)
+- June 3rd 1982: Attempted assassination of Israeli ambassador Schlomo Argov in London
+	- Abu Nidal Organisation (Fatah splinter group) fails attempt
+	- Israel carries out aerial attack on PLO and PFLP targets in West Beirut, killing 100
+	- PLO launches counterattack with rockets and artillery
+	- UN Security Council passes resolution 508 calling conflict to cease immediately by morning of June 6th 
+- June 6th 1982: Israel launches Operation Peace for Galilee
+	- Attack on PLO bases in Lebanon, moving 25 miles into Lebanon and into East Beirut
+	- UN passes Resolution 509 demanding immediate Israeli withdrawal
+	- US vetoes proposed resolution demanding a withdrawal
+- June 15th - August 21st 1982: Siege of Beirut 
+	- Bombing raids on West Beirut, targeting 16,000 PLO fedayeen 
+	- Arafat managed to negotiate for an evacuation of the PLO 
+	- Reagan made a plea to Begin to end the siege; Begin capitulated within minutes
+	- 12th August truce 
+		- Withdrawal of Israeli and PLO elements
+		- Multinational force of US marines and French and Italian units to ensure the PLO's departure and protection of civilians 
+- August 21st: International intervention 
+	- Aim to see PLO withdrawal from Lebanon and evacuation of Syrian troops from Beirut 
+	- Israel reported that 2,000 PLO militants were still hiding in refugee camps on the outskirts of Beirut 
+	- Gemayel elected president on August 23rd 
+- September 14th: Gemayel assassinated
+	- Killed by an affiliate of the Syrian Social Nationalist Party
+- September 16-18th: Sabra and Shatila massacre
+	- Massacre of 460-3,500 Lebanese and Palestinian Shiite civilians in the Shatila refugee camp and Sabra neighbourhood
+	- Israeli order for Phalangists to clear out PLO fighters 
+	- Very little evidence of PLO activity in the area 
+	- IDF facilitated the attack by blocking the exits and shooting up flares to illuminate the area
+	- Attack lasted about 2 days 
+	- Sharon found personally responsible and forced to resign; remained in government as minister without portfolio 
+- May 17th agreement 
+	- Amine Gemayel, Israel and the US signed an agreement on Israeli withdrawal 
+	- Conditional on Syrian departure 
+	- Arab world saw it as a surrender and Syrians opposed
+- August 1983: Mountain War
+	- Israeli withdrawal from Chouf District (SE Beirut)
+	- Buffer zone removed between Druze and Maronite militias
+	- Druze soon gained control over most of the area
+	- Israel remained in the south 
+	- Reagan approved use of naval gunfire to subdue the Druze and Syrians in order to support the Lebanese army 
+- Birth of Hezbollah 
+	- Iranian base established in the Syrian-controlled Bekaa Valley 
+	- Here the IRGC founded and supported Hezbollah which operated as a provy army 
+	- Grew fast due to a large pool of disaffected Shi'a refugees and Shiites opposed to Israeli presence in the south 
+- Suicide bombings against Americans and Europeans in Lebanon
+	- Suicide attacks against US Embassy, French forces and an aeroplane 1983-1985
+	- 2 committed by Hezbollah 
+	- US ban on flights to and from Lebanon upheld from 1985-1997
+- February 6th Intifada
+	- Uprising from parties in West Beirut, led by the Amal Movement defeated the Lebanese Army 
+	- Druze and Muslim defections to the militias caused the army to almost collapse 
+	- US disengagement in mid 1984 
+###### Phase Four (1984-1990)
+- 1985-1986: War of the Camps
+	- August 1985: Summit in Damascus with Gemayel, Rachid Karami (Lebanese Prime Minister) and Hafez al-Assad attempting to end the fighting between Christian and Druze militias 
+		- Car bombings seen as attempts to thwart the agreement
+		- Series of exchanges resulting in 500 dead and 200,000 fleeing (involving Alawaite and Sunni militias as well Druze and Christians)
+		- Syrian army intervened, ending the violence
+	- December 1985: Agreement between Syrians and their Lebanese allies to stabilise the situation 
+		- Opposed by Amin Gemayel and the Phalangists
+	- January 1986: pro-Syrian leader of Lebanese Forces, Elie Hobeika overthrown 
+		- 6 car bombings followed, all close to Phalangist targets 
+- 1987: Return to major combat
+		- Palestinians, leftists and Druze fighters allied against Amal 
+		- Syria intervenes further, sending 8,000 soldiers into West Beirut in order to separate the rival militias 
+			- 23 men and 4 women taken from a place of worship in the Shia district and shot/bayoneted to death 
+			- Ayatollah Khomeini issued a fatwa forbidding revenge attacks on Syrian forces
+- June 1987: Assassination of Rashid Karami 
+		- Gemayel appointed a LAF Commanding General as acting Prime Minister before stepping down in 1988 (against the National Pact)
+		- Lebanon divided between Maronite military government in East Beirut and civilian government (with Muslim supported Sunni successor to Karami) in West Beirut 
+- 1988: Increasing Iraqi involvement 
+		- Saddam aimed to find proxy-allies against Iran (Iran-Iraq war)
+		- Backed Maronite groups (1988-1990) in order to counter Amal and Hezbollah 
+		- Phased out support during the Kuwait invasion
+- 1988-1990: War of Brothers
+		- Hezbollah attack on Amal positions in southern Beirut suburbs of Dahiya 
+			- 80% of suburbs seized 
+		- January 1989: clashes in Iqlim al-Tuffah, south Lebanon between the two groups
+		- Fighting toned down by 1990 and ended by November
+- March 1989: Aoun blockade of illegal ports of Muslim militias 
+		- Exchanges of artillery fire lasting half a year 
+		- "war of liberation" against Syrians and their Lebanese allies 
+		- Syrian-backed West Beirut government of Selim al-Hoss undermined Aoun's legitimacy and many did not trust his claims to be liberating Lebanon from Syria
+		- War failed and led to exodus of many Lebanese Christians 
+- 1989: Taif Agreement
+		- Committe appointed by the Arab League, chaired by Kuwait
+		- Included Saudi, Algeria and Morocco 
+		- Solution to the conflict gave Syria a role in managing Lebanese affairs 
+		- Rene Mouawad elected president by the National Assembly
+			- Refused by Aoun (military leader in East Beirut), who denounced the agreement 
+		- Mouawad assassinated 17 days later in a car bombing
+			- Succeeded by Elias Hrawi, who stayed in office until 1998
+			- Aoun refused this election too and dissolved the parliament 
+- 1990: Christian infighting in East Beirut
+		- General Aoun ordered all media to stop referring to Hrawi as 'minister' or 'president'
+		- Aoun feared the Lebanese Forces would join with the Hrawi administration 
+		- Aoun used the Lebanese Army to attack LF positions in East Beirut, calling to consolidate the forces 
+		- 3 months of fighting resulted in most deadly and destructive period of the war 
+		- Unilateral ceasefire announced by Aoun who had made no significant gains
+		- Lebanese Parliament agreed on constitutional amendments, expanding the National Assembly and giving equal representation to Christians and Muslims 
+- October 13th Massacre, 1990
+		- Syrian operation (army and airforce) with Lebanese allies, including the Lebanese Army against Aoun's stronghold around the presidential palace 
+		- Hundreds of Aoun supporters killed 
+		- Aoun flees to French embassy in Beirut, then Paris. Not able to return until 2005
+		- Claim that Syria could only have done this operation with support from the United States 
+- March 1991: Amnesty
+		- Militias (excluding Hezbollah) all dissolved
+		- Lebanese Armed Forces rebuilt as the only major non-sectarian institution 
+		- Amnesty law passed, pardoning all previous political crimes 
+		- Syrian occupation disadvantaged Maronites, who had their leaders driven into exile, assassinated or jailed 
+
+Sabra & Shatila papers 
+https://ecf.org.il/issues/issue/1326
+https://usiraq.procon.org/sourcefiles/1983-Kahan-Commission-Report.pdf
+https://www.bothonce.com/10.1525/jps.2002.32.1.36
+https://www.palestine-studies.org/sites/default/files/attachments/jps-articles/2536156.pdf
+[article](https://www.nytimes.com/1982/09/26/world/the-beirut-massacre-the-four-days.html) about Intisar Ismail 
+* 15 men tied together with a rope, shot and scalped 
+* General Drori ordered the halt at 11 am, to no effect 
+* Sharon, at 4:30 pm said the Phalangists should leave the camp the next morning (Saturday)
+* Um Fatmi (40) and 4 daughters led out of their house by Phalangists pretending to be Israelis 
+[WP article](https://www.washingtonpost.com/archive/politics/1982/09/20/the-massacre/b3b9bade-8b07-4c5a-91d9-c3f60097ad7d/)
+* half of the people interrogated "bleeding from their faces"
+* "They were standing over them with knives and asking them questions... those that did not answer them were cut in the face"
+	

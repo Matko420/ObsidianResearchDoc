@@ -1,0 +1,55 @@
+## About
+- Gilad Shalit 
+	- Sinwar opposed deals that didn't include high-profile prisoners ("the impossibles")
+	- Pushed against compromise by orchestrating a hunger strike of 1,600 Hamas prisoners 
+	- Other Hamas leaders eventually negotiated without him, ultimately gaining 1,026 prisoners for Shalit, with Sinwar as the most senior prisoner among the released
+- Butcher of Khan Younis
+	- [Sinwar elected](https://www.irishtimes.com/news/world/middle-east/hamas-commander-accused-of-gay-sex-is-killed-by-his-own-1.2555822) to role akin to defence minister in 2012
+	- "He is harsher than others - he wants his army to be pure"
+	- 1991: Israelis killed fewer Palestinians (~100) than the Palestinians did themselves (~150)
+- Mahmoud Ishtiwi 
+	- [34 year old Hamas](https://www.irishtimes.com/news/world/middle-east/hamas-commander-accused-of-gay-sex-is-killed-by-his-own-1.2555822) commander accused of moral turpitude (homosexuality), collaboration and embezzlement 
+	- Accused of helping with the assassination attempt of Mohammed Deif in 2014 (no evidence; he apparently confessed but only after being tortured) 
+	- Hanged from a ceiling for hours on end, whipped, forced to listen to loud music in his cell
+## Quotes 
+- [2017 - 2022](https://www.memri.org/tv/yahya-sinwar-in-his-own-words)
+	- [April 6th, 2018](https://www.youtube.com/watch?v=klFbf6VG7uA): 1 week into the GMR
+		- We have come out today and we will come out also in the next few days. Our people and our boys will surprise the entire world with what they have in store. Let them wait for our big push. We will take down the border and we will tear out their hearts from their bodies." 
+	- May 16th, 2018: March of Return (2:30)
+		- Actions fulfilled goals of restoring Right of Return to Arab and international consciousness
+		- Placed Palestinian cause on the world's agenda 
+		- "... circumstances might change, and we might have to return to the armed struggle."
+		- "The enemy says that we use people as human shields, and push them toward the fence, but we say that these youth and men could have opted for another option. They could have rained thousands of missiles down on the cities of the occupation, when the US opened its embassy in Jerusalem... Many of them took off their military uniforms and put their weapons aside... and turned to this wonderful civilized method"
+	- Nov, 2018: Shitting on normalisers 
+		- "Oh you who normalise, open your capitals to the Israelis, welcome them.... smile into their faces, honour them and treat them nicely. But from us here in Gaza, they will never get anything but guns, fire, martyrdom, death, and killing." (~7:30)
+		- Praising attacks in the West Bank: "These young boys and girls used knives in their attacks, or cars to ram and run over. If only there was a leadership behind them that would protect them and support them..."
+	- Nov 4th, 2019: Tunnels
+		- "We now have hundreds of kilometres of tunnels under ground. We have many hundreds of control and command rooms, both underground and above ground. We have hundreds and thousands of traps, and if the enemy so much as thinks to enter the Gaza strip, our sons will go out... You and your brothers will emerge from the belly of the earth... The earth will spew forth our men and our youth..." - (11:30) 
+	- May 24th, 2021: Weird child-soldier shit (00:15)
+	- May 26th, 2021: Praising al-Jazeera "All hail to you, heroic *fedayeen*", addressing al-Jazeera staff; 
+		- Seems to be referencing Oct 7th plans:
+			- "Our people will attack all the settlements at once. Our heroes - even from the security forces in the West Bank - will be waiting for you at all the junctions and all the bypass roads. They will attack you in all the settlements, all over the West Bank. Our people in the land occupied \[in 1948] will rise... 10,000 martyrdom seekers... if the al-Aqsa Mosque is harmed... Each one of them will pick up a knife to stab \[an Israeli], take his car to run over one of them or throw a Molotov cocktail that will burn your hearts. Or they can take a gallon of fuel to burn down those vast forests... the tunnels we have in the Gaza Strip exceed 500 kilometres" -(13:50)
+	- June 5th, 2021: Apparently moving military HQ away from residential areas
+		- "With regard to our military or security headquarters that are located in residential areas... this was a major problem in the previous bouts (of fighting), and at the resistance factions, we worked to gradually transfer these headquarters from populated areas. We have succeeded in removing many of them but some still need to be transferred." 21:28
+	- April 30, 2022: Importance of al-Aqsa 
+		- "Whoever makes the decision to repeat this desecration of the al-Aqsa Mosque will be making a decision to desecrate thousands of synagogues and Jewish temples all over the world." 22:00
+		- "Our people under occupation inside the Zionist entity - in the Negev, the Triangle, the Galilee, Haifa, Jaffa, Acre, and Lod - whoever has a gun should prepare it and whoever does not have a gun, should prepare his cleaver, axe or knife. If they want a religious war, they will be shattering all red lines and we should be on stand by." 24:18 
+## Killing 
+- [IDF statement/footage](https://www.youtube.com/watch?v=2n3Vmv7GOiA)
+	- Killed in Rafah along with two bodyguards who were moving between two buildings 
+	- Hidden underground with family in Khan Younis
+	- DNA found on a piece of tissue a few hundred metres away from the tunnel where 6 hostages were executed 
+- [Autopsy](https://www.theguardian.com/world/2024/oct/20/why-sinwars-warrior-death-will-win-him-martyr-status-in-gaza-and-beyond) found gunshot wound to the head 
+## Blocking of aid 
+- Siege of Jabaliya in Northern Gaza, aiming to dismantle regrouped Hamas structures 
+- Evacuation calls made by the IDF
+- [Gaza Ministry of Interior](https://www.aljazeera.com/news/2024/10/6/israel-launches-ground-offensive-on-jabalia-again-killing-17) urged people to ignore the calls and stay where they were 
+	- "Israeli claims about the presence of safe zones in southern Gaza are lies as Israel commits crimes and massacres in all areas of the enclave... We call on citizens in northern Gaza to ignore Israeli threats."
+- [Maj. Gen. Giora Eiland](https://archive.ph/VIczn#selection-1063.228-1063.499) plan to block aid completely 
+	- 3 reserve soldiers in Gaza suggested the plan was being implemented, without official authorisation from the General Staff and Southern Command 
+- [COGAT data](https://gaza-aid-data.gov.il/main/) shows 31 trucks entering from Erez West on Oct 1st and then nothing for over 2 weeks 
+- Oct 14th: [COGAT](https://x.com/cogatonline/status/1845855079875690716) announced the entry of 30 trucks through the Erez Crossing 
+- [Oct 15th](https://www.bbc.co.uk/news/articles/c9wk0e8zey2o): US gave Israel 30 days to boost Gaza aid or risk cuts to military support 
+	- Suggested "90% of humanitarian movements between north and south" were impeded or denied
+	- ~400,000 people still in the north 
+- [Oct 16th](https://x.com/cogatonline/status/1846504749056590320): COGAT update announced 50 trucks transferred to northern Gaza through the Allenby Bridge Crossing and the Erez West Crossing 

@@ -1,0 +1,281 @@
+#### Timeline
+###### July 29th, Southport stabbing & riots
+- [17-year-old](https://www.bbc.co.uk/news/articles/c6p2yrg3pvpo) murders three girls, injures 8 more children and 2 adults at a Taylor Swift-themed dance class in Southport
+- As per British law, his name was not initially revealed to the public due to his age
+	- 1st August: Recorder of Liverpool Judge Andrew Menary KC ruled his name could be publicised in response to requests from the media 
+- Murderer was a 2nd generation migrant from Cardiff - his parents moved from Rwanda to the UK in 2002 
+- [Born to a Christian](https://www.trtworld.com/europe/uk-attack-suspect-not-a-muslim-or-asylum-seeker-as-claimed-by-far-right-18190606) household, "heavily involved with the local church"
+###### July 30th, Southport Riots 
+- [Vigil](https://www.bbc.co.uk/news/live/cevwgqz0x41t) held for the stabbing victims at the site of the incident at 6pm 
+- Just before 8pm, hundreds of protestors gathered outside Southport Mosque (close to where the stabbing took place) chanting "No surrender!" and "English till I die!"
+- Clash with police occurred within several minutes as people began throwing items (bottles, wheelie bins, bricks) towards the mosque 
+- [Shouts](https://www.theguardian.com/uk-news/live/2024/jul/30/southport-stabbing-latest-knife-attack-children-hospital-merseyside?page=with%3Ablock-66a940618f0891104a9d96c6#block-66a940618f0891104a9d96c6) of "we want our country back and "<span style="color:#f894ff">Tommy, Tommy Robinson</span>" 
+- 39 officers and 3 police dogs injured
+- [Police Assistant Chief Constable](https://edition.cnn.com/2024/07/31/uk/southport-stabbing-vigil-violent-protests-intl-hnk/index.html), Alex Goss said many of the rioters were not local to the area 
+###### July 31st, Rioting in London, Hartlepool, Manchester, Middlesbrough, Aldershot
+- [London](https://www.bbc.co.uk/news/articles/c4ng1254ndeo): 100 arrested after clash in Whitehall, people seen launching flares towards Downing St and at a Churchill statue, chanting "stop the boats" and "save our kids", bottles and cans thrown at officers 
+- [Aldershot](https://www.bbc.co.uk/news/articles/c51ynvyvgleo): Protest at asylum hotel calling for their deportation, wall destroyed to obtain bricks for throwing 
+	- Local MP Alex Baker claims the event was exacerbated by people from outside the community 
+	- Police describe the protest as "mob-type" behaviour by a minority of the 200-strong crowd 
+- [Hartlepool](https://www.bbc.co.uk/news/articles/c0474gg9xl4o): Police clash with over 100 people, 2 suspects admit to violent disorder (one described as the "main instigator"), others arrested, Police linked protest to the knife attack, at least one young black boy punched in the face 
+- [Middlesbrough](https://www.theguardian.com/uk-news/live/2024/aug/03/sunderland-riot-police-southport-stabbings-protests-far-right?page=with:block-66ae51928f08cbd70fce03bf#block-66ae51928f08cbd70fce03bf): One man arrested over firearms offences (on suspicion of possessing with intent to cause fear of violence)
+	- <span style="color:#f894ff">Tommy Robinson</span> posts disinformation on the case: "Lad who organised Middlesbrough march been locked up on terrorism charges" 
+- [Manchester](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/protest-manchester-erupts-scenes-violence-29653735): 40 people, including children and young men in balaclavas, protest outside an asylum seeker hostel, glass bottles, bricks, stones and eggs thrown at police
+	- Protest turned violent within minutes, passing motorists pelted with beer bottles 
+###### Disinformation around the killings
+- News of the killings quickly followed by speculation that the suspect was a Muslim migrant 
+	- [Russian-linked](https://archive.ph/2hykV) news account, Channel3 Now [falsely reported](https://x.com/sundersays/status/1818051864492962280) that the suspect was named Ali Al-Shakati, had been on the MI6 watch list (MI6 deals with foreign issues) and was "<span style="color:#ffc000">known to Liverpool mental health services</span>"
+		- Channel3 Now seems to come from an obscure YouTube channel set up by amateur car rally enthusiasts 
+		- Allegedly taken over by Russian-linked actors in 2016 
+		- IP address reportedly owned by two Pakistani nationals 
+	- Tommy Robinson (whilst on holiday in Europe), 1 day after being [arrested](https://www.theguardian.com/uk-news/article/2024/jul/28/tommy-robinson-says-he-has-been-arrested-under-terrorism-act) under the Terrorism Act, [comments on the killings](https://youtu.be/F0KX_bjayoo?si=zFhxX2AobvMW02I7), repeats mental health claim (as made by Channel3 Now) then immediately goes on a tangent to talk about murders by Muslims for the rest of the video  
+		- [Reacting to the riots](https://www.youtube.com/watch?v=uJLmwdd_8VA): "<span style="color:#ffc000">Before anyone starts condemning the angry English men in Southport, what did you expect them to do?</span>", starts talking about Muslims within 30 seconds. Blames the anger on "<span style="color:#ffc000">weak and cowardly leadership</span>", calling on government to "<span style="color:#ffc000">stop the fucking boats</span>"
+	- [Andrew Tate](https://x.com/DillyHussain88/status/1818594655836991988) described him as an "<span style="color:#ffc000">undocumented migrant</span>" who arrived "<span style="color:#ffc000">on a boat</span>" and that "<span style="color:#ffc000">nobody knows who he is or where he's from</span>", regretfully says "<span style="color:#ffc000">I don't see any protests in the UK... nobody's outside the school, nobody's outside the police station. the soul of the Western man is so broken that when the invaders slaughter your daughters, they do absolutely nothing</span>". Says "<span style="color:#ffc000">if you never pull the trigger, you will never have a border</span>"
+	- [Duncan Bannatyne](https://x.com/DuncanBannatyne/status/1818251944374239354) from Dragon's Den tweeting in support of Tommy Robinson, suggesting he was [right all along](https://imgur.com/a/es2LBYX)
+###### August 1st, Keir Starmer responds 
+- [PM statement](https://www.youtube.com/watch?v=k9dVd-NaDhU) announcing establishment of a national violent disorder programme
+- Greater cooperation between regional police forces 
+- Improving use of face recognition 
+- Use of Criminal Behaviour Orders (CBO) to restrict movement of offenders, likened to measures taken to deal with football hooligans 
+- Merseyside Police announced [Section 60 Order](https://www.bbc.co.uk/news/articles/cnk4e5g70pko), granting additional powers to search suspects 
+###### August 2nd, Sunderland Riots
+- Police officers described "serious and sustained" levels of violence after rioting by 100s people
+- 8 arrested, 3 police officers injured (2 still in hospital)
+- Police building ransacked and Citizens Advice premises set alight 
+- Beer cans and bricks thrown at police outside a mosque, cars set on fire, shops looted, people abused in the street 
+- Chants heard in support of <span style="color:#f894ff">Tommy Robinson</span> 
+- [Reference](https://www.bbc.co.uk/news/articles/cnl0lkrxgvxo)
+###### August 3rd, Riots in Leeds, Manchester, Nottingham, Stoke-on-Trent, Hull, Liverpool and Bristol 
+- [Leeds](https://www.bbc.co.uk/news/articles/c03535nrp20o): Anti-migrant (150 people) and anti-racist (250 people) protests in close proximity
+	- [Chanting](https://www.theguardian.com/uk-news/article/2024/aug/03/government-warns-that-rioters-will-pay-the-price-as-wave-of-violence-sweeps-uk): "you're not English anymore" and "paedo Muslims off our street"; counter protestors chanting "Nazi scum off our streets" 
+- Stoke-on-Trent: Stand off between protestors and counter-protestors 
+	- [Disinfo](https://www.theguardian.com/uk-news/article/2024/aug/03/government-warns-that-rioters-will-pay-the-price-as-wave-of-violence-sweeps-uk) about 2 people being stabbed by Muslims
+	[Tommy Robinson](https://x.com/TRobinsonNewEra/status/1819747711052042580) falsely [alleges](https://archive.ph/pBNzO) that two people were stabbed by Muslims in Stoke, also claims "Reports of axes and hammers used to attack the public" 
+		- [Police](https://www.theguardian.com/uk-news/article/2024/aug/03/government-warns-that-rioters-will-pay-the-price-as-wave-of-violence-sweeps-uk) denies claims, arguing that no stabbings have been reported and adding: "<span style="color:#ffc000">There's people out there, not even in this country, circulating and stoking up hatred, division and concerns in communities that they don't care about, don't know and don't understand.</span>"
+- [Nottingham](https://www.nottinghampost.com/news/nottingham-news/nottingham-protests-live-large-police-9457809): Stand-off between protestors and counter-protestors; items thrown by both sides; crowd eventually dispersed 
+- [Hull](https://www.independent.co.uk/tv/news/sunderland-riot-aftermath-southport-stabbing-b2590680.html?ap=1): 3 officers injured and 4 arrested after protest outside a hotel housing asylum seekers
+	- [Shoezone](https://www.bbc.co.uk/news/articles/ce4qq5pejvyo) set on fire; looting at several shops; hotel windows smashed; 5 vehicles set on fire; glass bottles, bricks, eggs, fireworks and wheelie bins thrown at riot police 
+	- Counter-protestors present earlier in the day 
+- [Liverpool](https://www.liverpoolecho.co.uk/news/liverpool-news/shops-looted-library-torched-dads-29673172): Protest near County Road Mosque at 8:30pm 
+	- Bricks, stones, fireworks and wheelie bins thrown at riot police 
+	- Masked rioters pushed back and turned to [local businesses](https://www.youtube.com/watch?v=sQCt0sxpXns) 
+	- Dad pleaded with looters from his window not to torch the building as his children were upstairs 
+	- Library set on fire 
+	- Looters pulled up shutters, stealing alcohol, cigarettes and vapes #
+- Bristol: Protestors confronted by hundreds of counter-protestors 
+	- [Clashes](https://news.sky.com/story/bristol-witnessed-a-running-battle-as-protesters-clashed-with-bottles-and-punches-thrown-13190438) between protestors and police; bottles thrown; 14 arrested 
+###### August 4th, Rotherham, Bolton, Tamworth, Weymouth and Middlesbrough
+- [Rotherham](https://www.theguardian.com/uk-news/article/2024/aug/04/rioters-try-to-torch-rotherham-asylum-seeker-hotel-amid-far-right-violence): 700 people clashed with police outside Holiday Inn Express (with staff and asylum seekers inside)
+	- Some threw pieces of wood, bricks, bottles and chairs, and sprayed fire extinguishers at police 
+	- At least 10 officers injured 
+	- Rioters stormed the building entrance and started fire 
+	- One counter-protestor kettled and stranded in her car until the rioters left 
+	- Police managed to push rioters back at 5pm, 5 hours after the protest started 
+	- Occasional chants of "<span style="color:#f894ff">Tommy Robinson</span>"
+	- Assistant chief constable highlighted misinformation online 
+	- [Video and photos](https://news.sky.com/story/rioters-break-into-holiday-inn-hotel-in-rotherham-as-injured-police-officer-carried-away-by-colleagues-13190695) 
+- Tamworth: Hotel attacked and fire set 
+	- [Missiles](https://www.bbc.co.uk/news/articles/cjjww791xnlo) thrown at police and windows smashed (video in link)
+- [Middlesbrough](https://www.theguardian.com/uk-news/article/2024/aug/04/rioters-try-to-torch-rotherham-asylum-seeker-hotel-amid-far-right-violence): 300 people marching through the city centre
+	- Rioters threw bricks, cans and pots, and pushed burning wheelie bins at the police 
+	- "a number of arrests" made 
+	- [Kurdish](https://archive.ph/HVKkX#selection-2741.14-2741.48) business targeted by rioters, owners armed themselves with wooden staves and attacked rioters (possibly [this](https://x.com/TRobinsonNewEra/status/1820188102226534791) video?)
+		- [2 men charged](https://www.gazettelive.co.uk/news/teesside-news/car-engulfed-flames-middlesbrough-rioters-29675679) with setting cars on fire outside Baz Café, also seen in the Tommy video 
+		- [Other video](https://x.com/lucymarionbrown/status/1820151045445886086) of the event
+- Bolton: Muslim groups clashed with far-right protestors 
+	- [One video](https://www.bbc.co.uk/news/articles/cervv8rz8mzo) showing anti-migrant group throwing missiles at retreating (mostly Muslim and some masked) counter-protestors
+	- Muslims and far-right protestors close enough to throw bottles, broken tiles and launch fireworks at each other 
+	- 250-300 counter-protesters, outnumbering the right wingers 
+	- 2 people arrested
+	- [Small outbreaks](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/live-large-police-presence-bolton-29674360) of violence in outskirts of Bolton town centre as people left demonstration 
+	- [Video](https://x.com/johnscheerhout/status/1820105917729263683) of kettled Muslims confronting the police; Muslims [pushing](https://x.com/johnscheerhout/status/1820086054353092983) back a police barrier 
+- [Weymouth](https://www.bbc.co.uk/news/articles/cw8yy9e2j3qo): 400 anti-migrant protestors vs 200 counter-protestors 
+	- One arrest, some small scale confrontations, most people within the law 
+	- Chants of "<span style="color:#f894ff">Tommy Robinson</span>"
+- [Mosques](https://archive.ph/HVKkX) to get 'rapid response' security, announced the Home Office
+	- Scheme will "build on the existing Protective Security for Mosques Scheme" 
+###### August 5th, Birmingham, Plymouth, Belfast, Burnley
+- [Birmingham](https://www.bbc.co.uk/news/articles/cly883p5yj8o): 3 cases of criminal damage and one of assault by Muslim youths
+	- [Counter protestor](https://news.sky.com/video/birmingham-protesters-surround-sky-correspondent-and-slash-tyre-amid-unrest-13191564) slashed tyres of Sky broadcast van "but didn't damage it" somehow 
+	- [Shops closed](https://www.birminghammail.co.uk/news/midlands-news/birmingham-doctors-surgeries-close-early-29682070) and hospital staff sent home early in anticipation of violence 
+	- Largely Muslim counter protest arranged in response to false reports that the far right were planning a march 
+	- Group of Muslim youths separated from the main protest, attacking several vehicles and a pub 
+- [Plymouth](https://www.bbc.co.uk/news/articles/ckg221g8dzyo): 7 arrests made, several officers and some members of the public injured
+	- Residents advised to stay home and businesses closed early 
+	- Protestors confront each other then fight with cops 
+	- Some businesses looted
+	- [Funny](https://x.com/BGatesIsaPyscho/status/1820591196172943458) video of man getting bonked by a shield 
+- [Belfast](https://www.belfasttelegraph.co.uk/news/northern-ireland/business-targeted-again-and-man-hospitalised-after-hate-crime-during-another-night-of-belfast-violence/a943632289.html) 
+	- Businesses targeted and one man hospitalised after 'hate crime' linked to loyalist paramilitary 
+	- Muslim owned café set alight after rioters moved to the Belfast Islamic Centre
+	- 3 police officers injured, 4 members of the public reported being assaulted
+- [Burnley](https://www.bbc.co.uk/news/articles/c0mnnr424xmo) 
+	- Muslim graves vandalised with grey paint 
+###### August 6th: Targeting of immigration lawyers 
+- [Telegram group](https://www.bbc.co.uk/news/articles/ckgww4z8zx7o) posted addresses and contact details of immigration lawyer offices 
+	- One lawyer told they're on a hitlist and forced to take down her website 
+	- Shared on up to a thousand different channels 
+- [Belfast](https://www.bbc.co.uk/news/articles/czjy9dy38e1o): Racially motivated vehicle ramming 
+	- Estate agent targeted twice in a week after social media posts claimed the business was providing homes for asylum seekers 
+		- Claim completely untrue - agent rented some homes to tenatns who came from overseas to work in Northern Ireland
+	- Agent argued that some tenants had been intimidated out of their homes due to racism
+	- Masked men drove a hijacked car into the building 
+	- 6 arrested 
+	- Shutters had been closed early in anticipation of the disorder
+	- Fires set in east Belfast
+###### August 7th: Counter protestors come in strong 
+- [100 right wing](https://www.bbc.co.uk/news/live/cy8497l7dx8t?post=asset%3A25cd15c5-19a4-4ba4-9942-1a94b2b57028#post) events and 30 counter protestors planned 
+- Many right wing rallies fail to materialise 
+	- 6,000 riot officers mobilised 
+	- Deterrent effect of swift arrests and court appearances 
+	- Only protests in Durham, Blackpool, Norwich, Northampton, Sheffield and Brighton
+- [Counter-protestors](https://www.theguardian.com/uk-news/live/2024/aug/07/uk-riots-far-right-latest-unrest-southport-stabbings-politics?CMP=share_btn_url&page=with%3Ablock-66b3f1cf8f08cfa81aaffc1e#block-66b3f1cf8f08cfa81aaffc1e) show up in thousands 
+	- Some form human shields to protect asylum centres
+	- Some clashes in Blackpool and Aldershot but far less violence than the right-wing riots from previous days 
+- Many arrests made, stemming from online activity
+	- Carlisle: three arrested, including for encouraging public disorder and violence against officers 
+	- West Midlands: One man arrested on suspicion of inciting racial hatred and possession of a firearm 
+	- Telegram announces it will remove channels and posts containing "calls to violence" 
+###### August 8th: 
+- [Labour councillor](https://news.sky.com/story/kent-labour-councillor-ricky-jones-suspended-after-telling-walthamstow-protest-fascists-need-to-have-throats-cut-13193298) in Kent suspended by the party and arrested after [telling](https://x.com/Hirnschluckauf/status/1821535014518984834/video/1) protestors in Walthamstow that "fascists need to have throats cut"  
+#### Keir Starmer on BLM & 2011 riots 
+- [June 8th 2020](https://www.theguardian.com/us-news/2020/jun/08/labour-left-uneasy-with-leaders-view-on-tearing-down-colston-statue): Keir condemned 'criminal damage' referring to the protestors who pulled down the Edward Colston statue 
+	- Fun fact: the four people charged for taking down the statue were [acquitted](https://www.judiciary.uk/wp-content/uploads/2022/09/AG-Ref-Colston-Four-judgment-280922.pdf) by a Jury in 2022 
+- [July 2nd 2020](https://www.bbc.co.uk/news/uk-politics-53267989): Keir argued that 'defund the police' was a nonsense demand, and also got challenged by the far left for describing BLM as a 'moment', rather than a 'movement'
+- 2011 London Riots 
+	- [Starmer was Director of Public Prosecutions](https://news.sky.com/story/the-2011-london-riots-prepared-starmer-for-stopping-unrest-but-tackling-deeper-roots-of-protests-will-be-much-harder-13190421) when the riots broke out 
+	- He kept the courts open 24/7 and allowed magistrates to pass longer and tougher sentences, arguing: "For me it was the speed that I think may have played some small part in bringing the situation back under control," he said afterwards. He added: "I don't think people gamble on the length of sentence, particularly. They gamble on: 'Am I going to get caught? Am I going to get sentenced and sent to prison?' And if the answer is: 'I'm now watching on the television some other people who had been caught 24 hours or 48 hours after they were on the streets with us' - I think that's a very powerful message."
+	- Around 3,000 people were arrested, with over 2,000 going on to face charges or prison sentences 
+#### Immigration 
+- [UK polling 2023](https://migrationobservatory.ox.ac.uk/resources/briefings/uk-public-opinion-toward-immigration-overall-attitudes-and-level-of-concern/) (during post-pandemic migration spike)
+	- 52% of Brits think number of migrants coming to the UK should be reduced a lot or a little 
+	- 36% said remain the same, increased a little or increased a lot 
+	- Opposition to immigration has been dropping since the 1960s - depending on how the question is asked, opposition ranges from 19-52% 
+		- British Election Study (52%) Q: Do you think that too many migrants have been let into this country or not? 
+		- European Social Survey (19%): Allow immigrants of a different race/ethnicity to come and live in the UK. 19% "said none / a few" 
+	- The UK seems to be one of the more migrant positive nations in Europe 
+		- 17% saying migration makes the country a worse place to live vs 49% in Hungary and 52% Czech Republic 
+		- 19% say "allow none / only a few immigrants", lower than Netherlands, Belgium, Ireland, France, Switzerland, Estonia, Finland, Czechia, Hungary 
+- Crime
+	- [Foreign nationals](https://iasservices.org.uk/how-many-immigrants-are-in-the-uk/#:~:text=As%20of%20the%20year%20ending,of%20the%20total%20UK%20population.) make up around 14.8% of the England and Wales population (2022)
+	- [Foreign nationals](https://www.migrationwatchuk.org/briefing-paper/520/is-immigration-a-threat-to-uk-security#:~:text=According%20to%20data%20produced%20by,compared%20to%2031%20March%2C%202023.) made up 12% of the total prison population in 2024
+	- [Arrest rate](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/number-of-arrests/latest/) per 1,000 by ethnicity (2024)
+		- Black other: 52.4
+		- Black Caribbean: 22.7
+		- Asian other: 13.5 
+		- Black African: 13.1 
+		- Pakistani: 11.3
+		- White: 9.4 
+		- Arab: 4.8 
+	- [UK Migration Observatory](https://migrationobservatory.ox.ac.uk/resources/briefings/immigration-and-crime-evidence-for-the-uk-and-other-countries/), 2013
+		- Negative correlation between foreign born population and property crime 
+		- Share of asylum seekers related to a 1.1% rise (from a 1% rise in asylum seeker share of population) in property crime but **no change in violent crime** 
+		- [In 2022](https://migrationobservatory.ox.ac.uk/resources/briefings/migration-to-the-uk-asylum/#:~:text=This%20briefing%20examines%20asylum%2C%20refugee,to%20the%20country%20seeking%20asylum.), asylum seekers made up 0.6% of the population  
+	- [2023 surge](https://ifs.org.uk/articles/economics-immigration) in net migration 
+		- Largely comprised of Ukrainians fleeing the war 
+		- 200,000 visas granted, making up 20% of all non-EU migrants to the UK 
+	- [Overall violent crime](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingmarch2023#overall-estimates-of-crime) rates still on general decline since 1994
+- Economics
+	- Tax contribution / cost
+		- [Non-EEA](https://migrationobservatory.ox.ac.uk/resources/reports/the-minimum-income-requirement-for-non-eea-family-members-in-the-uk-2/) nationals not eligible for most means-tested benefits (Jobseekers or tax credits) for the first 5 years 
+		- Residents bringing non-EEA partners to the UK need to earn minimum of £18,600 per year before tax 
+		- [non-EEA migrants](https://migrationobservatory.ox.ac.uk/resources/briefings/the-fiscal-impact-of-immigration-in-the-uk/) estimated to have a negative fiscal impact in the short run 
+			- Mostly due to costs of education for their children 
+			- Over their lifecycle, they would make a net fiscal contribution 
+			- Net negative disappears if cost of children is excluded
+			- [All migrant groups](https://www.gov.uk/government/statistics/income-tax-national-insurance-contributions-tax-credits-and-child-benefit-statistics-for-non-uk-nationals-2018-to-2019/income-tax-national-insurance-contributions-tax-credits-and-child-benefit-statistics-for-non-uk-nationals-2018-to-2019) other than Bangladeshis will pay more in Income Tax and NIC than taken out for tax credits and Child Benefits 
+		- [Migrants from a10 countries net contributors](https://www.ucl.ac.uk/economics/about-department/fiscal-effects-immigration-uk) overall from 2001-2011
+			- 12% more than taken out 
+	- Wages 
+		- [1% rise](https://migrationobservatory.ox.ac.uk/resources/briefings/the-labour-market-effects-of-immigration/) in share of migrants reduces average wages by about 0.2% and only in certain sectors 
+			- Lump of labour fallacy: migration doesn't just increase competition for existing jobs; it can also create new jobs and - by increasing output - lower relative cost of goods 
+#### Polling on riots 
+- 34% [support the protests](https://yougov.co.uk/politics/articles/50257-the-public-reaction-to-the-2024-riots), 54% oppose (37% strongly oppose)
+- 85% oppose the riots (75% strongly oppose)
+	- Reform UK voters only group showing some support (21%) 
+- 1/8 say the riots are justified 
+- 42% think the protests are justified; 49% unjustified 
+- 6/10 have sympathies with peaceful protests; only 8% for rioters 
+- 3/4 of Brits say the rioters do not represent their views
+- 42% think the peaceful protestors represent view of most Brits; 38% disagree 
+- 16% say rioters have legitimate concerns; people most likely to call them thugs, rioters, racist, far-right or terrorists 
+- Most Brits think the police handled the riots well; most Reform UK voters disagree (52% said not tough enough) 
+#### Speech-related crimes / other charges
+- [55 year old woman](https://metro.co.uk/2024/08/08/woman-first-shared-fake-southport-suspect-rumour-sparked-riots-arrested-21389346/) from Chester arrested after being identified as the source of initial claim that Southport stabber was called Ali al-Shakati 
+	- Post text: "<span style="color:#ffc000">Ali Al-Shakati was the suspect, he was an asylum seeker who came to the UK by boat last year and was on an MI6 watch list. If this is true, then all hell is about to break loose.</span>" 
+	- She has been [accused](https://www.bbc.co.uk/news/articles/c3w6q611yn1o) of "stirring up racial hatred" 
+	- [Very difficult](https://www.sentencingcouncil.org.uk/news/item/new-sentencing-guidelines-for-public-order-offences-published/) to get sentenced for this crime 
+- [28 year old jailed](https://www.independent.co.uk/news/uk/crime/riots-uk-protests-today-london-liverpool-arrests-starmer-b2593699.html) for 20 months for stirring up racial hatred 
+	- The quote cited is clearly an incitement to violence: "<span style="color:#ffc000">Every man and their dog should be smashing fuck out Britannia Hotel.</span>"
+- [600 people arrested](https://www.independent.co.uk/news/uk/crime/riots-uk-protests-today-london-liverpool-arrests-starmer-b2593699.html) and at least a dozen jailed as of Aug 9th 
+- [2 counter-protestors](https://www.bbc.co.uk/news/articles/c0l8pk0964no) jailed after fight in Leeds 
+	- 20 months for assault and 2.5 years for assault plus breaching suspended sentence for driving offences 
+- [Jordan Plain](https://www.bbc.co.uk/news/articles/c0l8pk0964no) given 8 months jail for making monkey noises and other racist gestures towards a woman 
+		- Had numerous previous convictions e.g. racially or religiously aggravated criminal damage and fear or provocation of violence 
+		- Judge: "Given the context in which this incident occurred and the sustained nature of your conduct, which was designed to stir up racial hatred at a time of heightened social tension, an immediate custodial sentence cannot be avoided" 
+- [Steven Mailen](https://www.bbc.co.uk/news/articles/cze5g4djeplo) and Ryan Sheers given 26 months each for "shouting at the police" ([Sargon](https://x.com/Sargon_of_Akkad/status/1821574954657464622?t=Smw5mSjqyr_8u-ioL9Prxg&s=19) lol) 
+	- Actually described as "one of the main instigators by the judge" 
+	- Judge said they "<span style="color:#ffc000">tried to push their way through a police cordon, with Mailen taunting officers and encouraging others to use violence towards them.</span>" 
+- [Despite](https://insidetime.org/newsround/another-rise-in-muslim-prisoner-numbers/) the "two-tier police system", Muslims make up ~17% of the prison population despite only being 6.5% of the general population
+- [Jordanian/Palestinian](https://www.bournemouthecho.co.uk/news/24462257.mustafa-al-mbaidin-sentenced-assaulting-police-office/) asylum seeker fined £26 for assaulting an emergency worker 
+	- Couldn't speak English so no community service 
+	- Pleaded guilty 
+	- Resisted arrest by pushing officer and swinging his jacket at her 
+	- Only receiving £9 a week "so fining him was not really an option"
+	- 12 month conditional discharge 
+- [Manchester Airport](https://www.bbc.co.uk/news/articles/c624468nrd1o) incident in July
+	- 2 suspects arrested 
+	- Case still being investigated based on conflicting versions of the story and gaps in recorded footage 
+	- Chief Constable: "We just need to be balanced, and wait for all the facts to emerge, because the reality is, the public still don't have the full facts" 
+#### Misc
+- 2021: [Tommy Robinson](https://www.theguardian.com/uk-news/2021/jul/22/tommy-robinson-loses-libel-case-brought-by-syrian-schoolboy) forced to pay £100,000 in damages after being found guilty of defaming a 15 year-old Syrian refugee after he was filmed being bullied in school. With no evidence, falsely claimed that the boy, Jamal Hijazi, was "<span style="color:#ffc000">not innocent</span>" and that he "<span style="color:#ffc000">violently attacks young English girls in his school</span>" 
+- [3rd August, 2024](https://x.com/TRobinsonNewEra/status/1819846462135812282): Tommy reports on a stabbing in Stirling, describing the suspect as an "Alleged MUSLIM", adding "they always target women", despite [police stating](https://www.independent.co.uk/news/uk/john-swinney-humza-yousaf-tommy-robinson-muslims-police-b2590975.html) that they were "white and from the local area"
+- All but one of the seats won by Reform UK (Britain's leading anti-immigration party) in 2024 are over 94% white, well above the England & Wales average of 82% 
+	- [Ashfield](https://www.ons.gov.uk/visualisations/censusareachanges/E07000170/): 95.1% white, down from 97.7% in 2011 
+	- [Boston](https://www.ons.gov.uk/visualisations/censusareachanges/E07000136): 94.7% white, down from 96.8% in 2011 
+	- [Skegness](https://assets.publishing.service.gov.uk/media/6604480ee8c44200112203c5/Skegness.pdf): 96.6.% white 
+	- [Clacton](https://assets.publishing.service.gov.uk/media/6603f6bc9741c5001139dc41/Clacton-on-Sea.pdf): 95.3% white 
+	- [Great Yarmouth](https://www.ons.gov.uk/visualisations/censusareachanges/E07000145/): 94.6% white, down from 96.9% in 2011 
+	- [Basildon](https://www.ons.gov.uk/visualisations/censusareachanges/E07000066/): 87.5% white, down from 92.7% in 2011 (4.3% Asian or Asian British)
+	- [Thurrock](https://www.ons.gov.uk/visualisations/censusareachanges/E06000034/): 76.7% white, down from 85.9% in 2011 (largest minority is black, most likely Windrush?; Asian/Asian British makes up 6.9%) 
+	- [England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/religion/articles/religionbyageandsexenglandandwales/census2021#:~:text=Download%20the%20data,-.xlsx&text=It%20is%20important%20to%20note,(3.9%20million)%20in%202021.) stats: 82% white, 6.5% Muslim 
+- [Video](https://x.com/RadioGenoa/status/1819651368396714417) shared by @RadioGenoa (78k likes) on Twitter calling for "British police with truncheons, dogs and horses" was [actually a wedding](https://www.reuters.com/fact-check/video-shows-men-celebrating-yemeni-wedding-with-ceremonial-daggers-2024-07-26/) that took place over a month before the riots 
+- Harehill riots: Leeds Green Party councillor [talks down](https://youtube.com/shorts/iOhQyB6CW00?si=JBWUS8nt1HxBJ0Rg) rioters and [stops them from escalating](https://youtube.com/shorts/iOhQyB6CW00?si=JBWUS8nt1HxBJ0Rg); Surprise entry from [Artemisfornow](https://x.com/Tom___Scott/status/1818758071184970081), accusing him of "taking part in the riots"
+###### Grooming Gangs 
+- [Home Office recommendations](https://assets.publishing.service.gov.uk/media/5fd87e348fa8f54d5733f532/Group-based_CSE_Paper.pdf) for Group CSE
+	- Improve communication between police and local organisations 
+	- 134: Funding of local prevention officers and supporting local partners; coordinating local prevention activity across agencies and organisations 
+	- 135: "We will continue working with policing and industry partners to <span style="color:#ffc000">ensure that staff working across a range of high risk-settings, including hotels, bars and shopping centres, are better placed to identify indicative signs that a child might be at risk of CSE</span> and report it to the relevant authorities. And we will support local agencies to undertake focused engagement with communities to deter potential offenders and encourage bystanders to spot and report exploitation" 
+- Jay Report recommendations (2014) 
+	- Risk assessment: "up-to-date risk assessments on all children affected by CSE"
+	- Improve reach-out services for victims 
+	- Ensure long-term support for children who had otherwise been having cases closed prematurely 
+	- <span style="color:#ffc000">More direct and frequent engagement</span> between the Safeguarding Board, the Council and men and women from minority communities 
+- Question: Political correctness was identified as a contributing factor by the Jay report - can people who cite this name any other factors? 
+	- Victim blaming: UK police used to [routinely dismiss](https://journals.sagepub.com/doi/full/10.1177/0306396819895727#bibr119-0306396819895727) victims as "streetwise" and "consenting child prostitutes" 
+	- Under-resourcing (working class communities)
+	- [Drew Review of South Yorkshire](http://www.drewreview.uk/wp-content/uploads/2016/03/SYP030-Final-report.pdf) police identified the force using "too narrow a working definition" of CSE
+		- "A related difficulty arises if a police force has too narrow a working definition of child sexual exploitation. I believe some officers certainly had this. For example, <span style="color:#ffc000">the view that child sexual exploitation was about red light areas, and was about gangs of men principally of Pakistani heritage, led not only the force but also probably the whole partnership to look for signs of exploitation in the wrong places.</span> One superintendent, describing the exploitation challenge today in his area, characterised the local problem of revolving around ‘white European males, in their mid 40s, making extensive use of the internet for initial grooming, often of boys, and not operating as gangs at all.’ This is a very different profile."
+- Misc
+	- [Police recorded](https://www.csacentre.org.uk/app/uploads/2023/09/Child-sexual-abuse-in-2021-22-Trends-in-official-data.pdf) 103,055 CSE offences in 2021/22 
+		- 1/3 including images, 1/3 including sexual assault, 1/3 abuse/grooming/exploitation 
+		- White people overrepresented in convictions (89% vs 82% of general population), though "<span style="color:#ffc000">this may be related to the overall under-identification of child sexual abuse in minority ethnic communities</span>" 
+		- p. 38 - 6% of Asians are defendants for CSA offences whilst making up 9% of the population; whites are the only ones overrepresented 
+		- 6,134 convictions for CSA in 2021 
+		- Victims from ethnic minority backgrounds seem harder to identify; unlikely that being sexually abused would vary between ethnic groups 
+		- White British defendants more likely to prosecuted for image offences 
+	- [73,518](https://www.nspcc.org.uk/about-us/news-opinion/2020/child-sexual-offences-rise/) sexual offences against children in 2019/20
+	- [Suella Braverman](https://www.bbc.co.uk/news/uk-politics-66960890) [falsely](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944206/Group-based_CSE_Paper.pdf) claimed that grooming gang perpetrators are "almost all British Pakistani" 
+	- [Home Office](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/944206/Group-based_CSE_Paper.pdf) challenges unreliable data from the 2010s, arguing: 
+		- 81. "While some of the research set out above suggests that there are high numbers of offenders of Asian or Black ethnicities committing group-based CSE offences, it is not possible to say whether these groups are over-represented in this type of offending. As set out in paragraph 75, research to date has relied on poor-quality data with a number of weaknesses. It remains difficult to compare the make-up of the offender population with the local demography of certain areas, in order to make fully informed assessments of whether some groups are over-represented. <span style="color:#ffc000">Based on the existing evidence, and our understanding of the flaws in the existing data, it seems most likely that the ethnicity of group-based CSE offenders is in line with CSA more generally and with the general population, with the majority of offenders being White.</span>"
+	- Origin of the term 
+		- [Journalist](https://archive.ph/HtpKw), Andrew Northfolk identified 56 offenders from 1997-2011 and found that 50 were Muslim - he used a sample of <span style="color:#f894ff">4 offenders per year</span> to make this conclusion 
+- Tommy Robinson
+	- 2018-19: [UKIP](https://www.theguardian.com/world/2019/mar/05/far-right-infiltrating-childrens-charities-with-anti-islam-agenda) and others by Prevent and founder of "Shatter Boys" of infiltrating child protection charities 
+		- [Tommy](https://www.theguardian.com/politics/2018/nov/22/tommy-robinson-ukip-grooming-gangs-adviser) appointed as Batten's "personal special adviser" on grooming gangs in 2018 
+		- [NAGAH](https://x.com/telford_nagah) (anti-grooming hotline) set up by [Daniel Thomas](https://www.theguardian.com/world/2019/mar/05/far-right-infiltrating-childrens-charities-with-anti-islam-agenda), an organiser of Tommy's rallies, which solicited donations before registering as a charity; no data protection statements and no information about suitability or vetting of call handlers' 
+	- [Risked killing a grooming gang trial](https://www.independent.co.uk/news/uk/crime/tommy-robinson-court-case-facebook-live-video-judge-latest-a8996626.html) by illegally livestreaming himself in front of the court and confronting defendants as they walked in; one defendant appealed his conviction based on Tommy's actions - Huddersfield case, 2019
+- UK Muslims [survey](https://policyexchange.org.uk/wp-content/uploads/2016/12/PEXJ5037_Muslim_Communities_FINAL.pdf) 
+	- Sharia law
+
+

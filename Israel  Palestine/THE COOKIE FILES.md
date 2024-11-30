@@ -1,0 +1,79 @@
+#### Timeline
+- [Partial blockade](https://imemc.org/article/15378/) measures in 2005; [fully in place](https://web.archive.org/web/20111130045542/http://www.nytimes.com/2007/12/14/world/middleeast/14mideast.html) 2007 after Hamas takeover 
+- [2008](https://www.gisha.org/userfiles/file/LegalDocuments/procedures/merchandise/55en.pdf) - Defence Export Control Order strictly bans missile equipment and munitions from entering into Gaza
+	- List of dual-use items derivative from the [1996 Wassenaar](https://www.wto.org/english/res_e/booksp_e/int_exp_regs_part3_5_e.pdf) agreement 
+	- <span style="color:#ffc000">"Construction materials and means to manufacture them will be approved only for projects executed and supervised by the international community"</span>
+- [2009, Ha'aretz article](https://archive.ph/beie7#selection-891.6-891.28): lots of trivial items not allowed in Gaza 
+	- Books, musical instruments, clothes, toys, tea, coffee, sausages, semolina, milk, most baking products
+	- COGAT being shy about showing list of permitted and prohibited items
+	- Many banned products imported through tunnels
+	- Pasta briefly forbidden, but allowed after Kerry spoke up in February 
+	- "Ban" on toilet paper, diapers, detergents, soaps and sanitary napkins lifted 
+	- <span style="color:#f894ff">SUGAR NOT BANNED</span>
+- [May 2010](https://casebook.icrc.org/case-study/israel-blockade-gaza-and-flotilla-incident), flotilla incident
+	- 10 flotilla participants killed, 10 soldiers and 20 passengers injured 
+- [May 2010](https://gisha.org/UserFiles/File/HiddenMessages/ItemsGazaStrip060510.pdf), Gisha's partial list of prohibited / permitted items
+	- Prohibited items deduced based on information from Palestinian traders, businesspersons, international orgs and the Palestinian Coordination Committee 
+	- "<span style="color:#ffc000">It is not possible to verify this list with Israeli authorities because they refuse to disclose information regarding the restrictions on transferring goods into Gaza</span>"
+	- "Prohibited items" include: sage, cumin, coriander, ginger, jam, halva, vinegar, nutmeg, chocolate, dried fruit, crisps, iron, glucose, fishing rods, toys, horses, donkeys, goats, cattle, chicks
+	- <span style="color:#f894ff">COOKIES</span> (biscuits) may have never been fully  banned?; permitted for international  organisations, <span style="color:#ffc000">"whilst requests from private merchants to purchase them are denied" </span>
+- [June 2010](https://www.ynetnews.com/articles/0,7340,L-3902661,00.html) - some items now allowed in 
+	- <span style="color:#f894ff">COOKIES</span>, spices, soda, juice, sweets, jam, shaving cream, crisps
+	- Some items still fucked: textile, clothes, office equipment, paper products, school equipment
+- [July 2010](https://www.theguardian.com/world/2010/jul/05/israel-eases-blockade-gaza-list) - Israel eases blockade 
+	- Ban lifted on most consumer goods 
+	- New list of banned goods published 
+	- New policy brokered by Tony Blair, Middle East envoy (lol)
+	- Hamas spokesman, Sami Abu Zuhri, said the policy was worthless: "The problem is not to approve new merchandise, but to lift the blockade"
+- [Oct 2010](https://www.gisha.org/UserFiles/File/HiddenMessages/DefenseMinistryDocumentsRevealedFOIAPetition.pdf) - Gisha receives "whitelist" info from Ministry of Defence
+	- Daily consumption calculated by data from Palestinian Central Bureau of Statistics, according to "per capita consumption of each product x population of Gaza" 
+	- Warning system and compensation mechanism in case any product import falls below requirements
+	- Whitelist provided on p. 20-22
+- [2013](https://www.gisha.org/userfiles/file/LegalDocuments/procedures/merchandise/55en.pdf) - Restricted import list provided by Ministry of Defence to Gisha
+	- <span style="color:#ffc000">"List of restricted materials has been revised and shortened as part of the ongoing Israeli efforts to relax restrictions on civilian goods entering Gaza. Items and materials that remain on the restricted list are all weapons, military materials and dual-use items."</span> 
+	- All items not mentioned are free to be imported and exported - requests for special authorisations are possible and are coordinated by the Coordination and Liaison Administration (CLA) to Gaza 
+	- Dual-use items approved by the PA are allowed subject to supervision by an international org
+	- Lists of controlled dual use items on p. 3-4
+- [2015](https://gisha.org/UserFiles/File/publications/Dark_Gray_Lists/Dark_Gray_Lists-en.pdf) - Gisha paper on Dark-gray lists 
+	- List of dual-use items getting longer
+	- Security needs vs political goals 
+	- According to contacts in Gaza, anything on the dual-use list is rarely, if ever, allowed into the Strip 
+	- Castor oil: used for transportation, cosmetics, brake fluid, insulation materials, lubricants, glue and beauty products 
+	- UPS (uninterrupted power supply): essential in Gaza due to frequent power outages. Especially essential in intensive care and dialysis units 
+	- Wood planks: Needed for furniture & building 
+		- Only allows planks under 1cm thick and 1cm wide 
+		- [COGAT had recently declared](https://gisha.org/en/cogat-for-the-first-time-since-2007-israel-will-allow-marketing-of-ironworks-furniture-and-textile-from-gaza-in-israel/) that furniture from Gaza could be sold in Israel, just as the furniture [industry was collapsing](https://gisha.org/en/wood-is-also-essential-for-reconstruction/) due to shortage of needed materials (including lacquers and glues)
+		- Argument that wood planks can be used to line tunnels from Gaza 
+	- Main changes made to Israel's list in 2015, adding 48 new items (only to Gaza)
+	- 13 more items added in Nov 2015, including UPS components, smoke detectors, castor oil, asbestos insulation, graphite powder and heavy lifting equipment 
+	- Application process for dual-use materials 
+		- Application to Ministry of Economy in Gaza, specifically the Palestinian Coordination Committee for the Entry of Goods
+		- Request is transferred to the Israeli army's Gaza DCO (District Coordination Officer)
+		- Referred to appropriate officer 
+		- If approved, the Palestinian merchant must finalise the financial transaction with the Israeli vendor or broker in order to submit request for coordination of entrance of the item 
+		- If positive, the transfer is coordinated through Karem Shalom 
+		- How many Gazans know how to do this? How many Israelis know? How often has it been used/approved? IDK 
+	- No cost-benefit analysis publicly accompanying the  restrictions 
+	- WHO complaint about computerised imaging machines that were delayed for three months (one contained a component that needed clearance from the Israeli Ministry of Communications)
+#### Extras
+- Punitive measures 
+	- [Official tells Ha'aretz in 2009](https://www.theguardian.com/lifeandstyle/wordofmouth/2009/jun/16/gaza-blockade-israel-food): "We don't want Gilad Shalit's captors to be munching Bamba (peanut-butter flavoured corn snack, the most popular in Israel) right over his head" 
+	- [Unemployment at 50%](https://www.theguardian.com/lifeandstyle/wordofmouth/2009/jun/16/gaza-blockade-israel-food) in 2009 
+- Were cookies banned? 
+	- [Gisha list](https://gisha.org/UserFiles/File/HiddenMessages/ItemsGazaStrip060510.pdf) mentions "biscuits" on a list of items not whitelisted but caveats that they were permitted for international organisations (requests from private merchants denied)
+	- [Sarayo Al-Wadyya](https://www.arabnews.pk/node/1776836/business-economy) 
+		- Company established in 1985, [producing cookies, snacks and candy](https://gisha.org/en/why-does-israel-prevent-cookies-and-potato-chips-made-in-gaza-from-being-sold-outside-the-strip/)
+		- Used to distribute 60-70% of total food products in the West Bank before blockade; also exported to Europe and Gulf countries
+		- Production cut in half since 2007 
+		- Doesn't seem to have stopped producing for consumption within Gaza 
+		- Became the first Gazan company allowed to  export to the West Bank in 2020
+			- Only allowed 2/50 types of sweets and snacks initially 
+- [Interesting explanation](https://www.npr.org/2010/06/09/127600204/israeli-official-disputes-list-of-banned-gaza-products) from Yigal Palmor, spokesman for the Israeli foreign ministry  
+	- <span style="color:#ffc000">"The question is, who has packaged the products and where do they come from? If you import something into Gaza from an uncertain, let's put it mildly, an uncertain producer from a country that has no diplomatic relations with Israel, then the problem is not the product. It is the packaging, it is the origin, the source and so on and so on. This is the nature of the problem."</span> 
+	- Trivial items which are denied are not considered dual-use
+		- Mr. PALMOR: Of course paper is not considered dual-use.
+
+		 SIEGEL: Paper can enter Gaza, you're saying?
+
+		 Mr. PALMOR: Paper is totally innocent and it's not banned as such. As I said, sometimes there are problems with the people who package or who deal with the products and you don't know what's inside the package.
+	- Any untrusted parties are unnamed because: "<span style="color:#ffc000">We don't want to get into diplomatic trouble with anyone. We don't want to pinpoint or to single out any country. This is a very, very delicate diplomatic question. And this is precisely why it deserves to be kept in discreet hands and not be publicised</span>"

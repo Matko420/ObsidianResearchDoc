@@ -1,0 +1,72 @@
+##### Timeline
+- Sept 29, 1938: Munich Agreement - Sudetenland ceded to Germany
+- <span style="color:#f894ff">Mar 10:</span> <span style="color:#f894ff">Stalin gives a speech declaring he would not rescue Western capitalist powers if they got into a conflict with Germany (because their appeasement policies had strengthened Hitler's claim of attacking the Soviets)</span>
+- Mar 14-15, 1939: Slovaks declare independence. Germans occupy remaining Czech lands, forming the "Protectorate of Bohemia and Moravia"
+- Mar 31: Britain and France redouble rearmament efforts and guarantee protections for Poland
+	- Secret qualifications that left the door open to continuing appeasement (Evans, p. 690)
+	- Guarantee would only be effective if Poles did not show "provocative or stupid obstinance" if the Germans demanded the return of Danzig and the Polish Corridor
+- April 28: Hitler formally announces the repealing of the 1934 Non-Aggression Pact with Poland  and the Naval Agreement with Britain 
+- <span style="color:#f894ff">May 3:</span> <span style="color:#f894ff">Stalin dismisses Maxim Litvinov (long-term Foreign Minister) and replaces him with Yyacheslav Molotov. Potential alliance with Western powers still open, but Western powers hesitant </span>
+- May 22: German alliance with Italy upgrades to a "Pact of Steel", non-aggression agreements concluded with Latvia, Estonia and Denmark
+- June 6: Hitler stops including his regular diatribes against Bolshevism in his speeches; instead focuses on Western democracies. Ribbentrop pushing for a Soviet pact behind the scenes
+- Early August: Ribbentrop draws up plans for joint partition of Poland with the Soviets. Stalin initially hesitant
+- August 23: Molotov-Ribbentrop pact signed
+	- Mutual agreement not to make war for 10 years
+	- Disputes to be settled through direct negotiation or via a third party
+	- Increase of trade 
+	- Secret clauses allocating spheres of influence 
+		- Stalin takes eastern part of Poland, Latvia, Lithuania and Estonia 
+		- Hitler takes the western part of Poland 
+		- 4000, German refugees handed over the Gestapo, including over 1,000 German Communists. 
+			- Margarete Buber-Neumann: Sent from a Soviet prison to Ravensbruck concentration camp. Her husband, Heinz Neumann had been purged from the KPD leadership in 1932 for urging a united front with the Social Democrats against the Nazis; arrested and executed in Moscow in 1937
+			- Hans Walter David (Jewish): Fled to Moscow in 1935, sentenced to a labour camp in 1939 for allegedly spying for the Germans. Deported in 1940 and murdered by the SS 
+##### Operation Barbarossa 
+- Hitler emboldened by the fall of France and the seemingly impending collapse of Britain
+	- Red army decimated by Stalin's purges and proven to be incompetent in the war with Finland 
+	- "Racial inferiority" of Slavs and weakness of Bolshevism boosted German confidence 
+- Nazi motives for invading
+	- Ideological primacy of Lebensraum (living space)
+	- Dependency on supplies from Eastern Europe 
+		- Nov 1940: Molotov discussed future co-operation in Berlin
+		- Jan 1941: Soviets sign a new trade agreement, doubling grain exports from Ukraine to the Third Reich (Hitler convinced that the Soviet Union had an almost unlimited supply of foodstuffs that would be essential to Germany's future)
+- Timeline
+	- 18 December 1940: Hitler orders the armed forces to be ready to invade the Soviet Union the following spring 
+		- Motivated by fear of the USA joining the war by 1942; desire to encourage Japan by defeating their enemy to the west 
+		- <span style="color:#ffc000">"if Russia is smashed, it is the end of any hopes that might move England still to hope for a change in the situation."</span> - Hitler to his generals in July 1940 
+		- 200 German divisions prepared to match roughly the same number in the Red Army 
+			- Soviets had more equipment but many of their machines were obsolete; new production hindered by the purges; <span style="color:#f894ff">lack of production managers, designers, military commanders and senior air force officers </span>
+	- Early-mid 1941: Nazis stockpile in the border area and improve railway and communications in Poland
+		- Finland mobilised to recover lost territory from the Winter War 
+		- 18 divisions supplied from Romania 
+		- Small number of Hungarians mobilised
+		- 45,000 Spanish volunteers brought to the Leningrad front 
+	- May - early June 1941: Soviets record columns of German armed forces moving towards the border
+		- Stalin tries to appease the Germans by stepping up deliveries of supplies; even as Soviet agents warn that invasion is imminent, this is only seen as further evidence of economic hard-ball 
+			- <span style="color:#ffc000">"As a dogmatic Marxist-Leninist, Stalin was convinced that Hitler's regime was the tool of German monopoly capitalism, so that if he made available everything German business wanted, there would be no immediate reason to invade."</span>
+			- <span style="color:#ffc000">"Already under trade provisions agreed under the Nazi-Soviet pact early the previous year, the Soviet Union was supplying nearly 3/4 of Germany's requirement of phosphates, over 2/3 of its imported asbestos, only a little less of its chrome ore, over 1/2 of its manganese, over 1/3 of its imported nickel and, even more crucially, more than a third of its imported oil."</span> (Evans, p. 165)
+		- Vetoes proposals to disrupt the German military build-up by attacking across the demarcation line in Poland
+	- 5 May 1941: Stalin admits "War with Germany is inevitable" but seems to believe the Red Army wouldn't be prepared until 1942 or 1943 
+		- The General Staff had no plans for attack or for defence 
+	- 15 May 1941: Early Soviet Intelligence predictions of an invasion on May 15th (though accurate at the time) turn out to be wrong
+		- Barbarossa delayed in order to invade Greece and Yugoslavia (weather conditions too poor in the East)
+		- Newer predictions of a German invasion on 22 May become discredited
+	- 21 June 1941: Ex-Communist soldier deserts the German forces, swims across a river to tell the Soviets that he had been given orders to invade the following morning; Stalin has him shot for spreading 'disinformation'
+	- 22 June 1941: Germany invades the Soviet Union 
+##### Stalin's position
+- Weakened military due to years of purging his top generals, munitions factory managers and senior army officers. <span style="color:#ffc000">"There were few left in the higher echelons of the regime with any direct experience of warfare. Competent technical experts had been arrested and killed in their thousands. Soviet military preparedness was lamentable."</span> (Evans, p. 692)
+- Enticing prospect of watching Europe's capitalist powers fight a war of mutual destruction
+##### Hitler's position
+- Soviet assistance was necessary for the invasion of Poland, otherwise a war on two fronts would be highly possible 
+##### Consequences 
+- Neither side believed the pact would last 10 years  
+- Baltic states remained occupied until the 1990s 
+- European Communist parties struggle to sell the pact
+	- Many antifascists become disillusioned, though most are held in line by party discipline 
+	- War between capitalist powers ultimately seen as none of their business 
+	- Stalin viewed as a great thinker and master of political strategy 
+- Some Nazis felt betrayed
+	- Front garden of the Brown House (Nazi HQ in Munich) filled with party badges of disgruntled members 
+	- Majority ultimately trusted Hitler's judgement 
+	- Goebbels: <span style="color:#ffc000">"The Leader has made a brilliant move"</span> 
+##### Misc
+- <span style="color:#ffc000">"As many as one in three of the Polish citizens deported to Siberia and other remote areas of the Soviet Union was Jewish; 100,000 are estimated to have died in the process."</span> 
